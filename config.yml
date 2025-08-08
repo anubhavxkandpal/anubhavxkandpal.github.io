@@ -1,0 +1,27 @@
+# Site settings
+title: Heart of Reason
+description: A space for philosophical inquiry and meditative prose
+author: Anubhav Kandpal
+email: your-email@example.com
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme settings
+theme: minima
+
+# Custom settings
+show_excerpts: true
+date_format: "%B %-d, %Y"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
