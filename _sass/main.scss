@@ -1,0 +1,143 @@
+// Base styles
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fafafa;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+// Header styles
+.site-header {
+  margin: 40px 0;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
+}
+
+.site-title {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  
+  a {
+    color: #333;
+    text-decoration: none;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    
+    &:hover {
+      color: #555;
+    }
+  }
+}
+
+.site-nav {
+  margin-top: 20px;
+  
+  .nav-link {
+    margin: 0 15px;
+    color: #777;
+    text-decoration: none;
+    font-size: 1.1em;
+    
+    &:hover {
+      color: #333;
+      border-bottom: 1px solid #333;
+    }
+  }
+}
+
+// Main content styles
+main {
+  min-height: 70vh;
+}
+
+.page, .post {
+  margin-bottom: 60px;
+}
+
+.page-title, .post-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.2em;
+  margin-bottom: 10px;
+  line-height: 1.3;
+}
+
+.post-meta {
+  color: #888;
+  margin-bottom: 30px;
+  font-size: 0.9em;
+}
+
+// Footer styles
+.site-footer {
+  margin-top: 60px;
+  padding: 20px 0;
+  border-top: 1px solid #eee;
+  text-align: center;
+  font-size: 0.9em;
+  color: #777;
+}
+
+// Contact form styles
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1em;
+  }
+  
+  .submit-button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+    
+    &:hover {
+      background-color: #555;
+    }
+  }
+}
+
+// Video embed container
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; // 16:9 aspect ratio
+  height: 0;
+  overflow: hidden;
+  margin: 30px 0;
+  
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
