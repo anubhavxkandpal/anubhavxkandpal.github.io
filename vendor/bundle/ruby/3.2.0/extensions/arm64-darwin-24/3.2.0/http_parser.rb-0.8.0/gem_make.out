@@ -1,0 +1,24 @@
+current directory: /Users/anubhav/Documents/GitHub/heartofreason/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/anubhav/.rbenv/versions/3.2.0/bin/ruby -I /Users/anubhav/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/anubhav/Documents/GitHub/heartofreason/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250809-48315-o6cp8i sitelibdir\=./.gem.20250809-48315-o6cp8i clean
+
+current directory: /Users/anubhav/Documents/GitHub/heartofreason/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250809-48315-o6cp8i sitelibdir\=./.gem.20250809-48315-o6cp8i
+compiling ruby_http_parser.c
+ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+  365 |     if (nparsed < len)
+      |         ~~~~~~~ ^ ~~~
+1 warning generated.
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/anubhav/Documents/GitHub/heartofreason/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250809-48315-o6cp8i sitelibdir\=./.gem.20250809-48315-o6cp8i install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20250809-48315-o6cp8i
+
+current directory: /Users/anubhav/Documents/GitHub/heartofreason/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250809-48315-o6cp8i sitelibdir\=./.gem.20250809-48315-o6cp8i clean
