@@ -12,7 +12,7 @@ plugins:
   - jekyll-seo-tag
 
 # Theme settings
-theme: minima
+theme: jekyll-theme-tufte
 
 # Custom settings
 show_excerpts: true

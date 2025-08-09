@@ -1,0 +1,18 @@
+# Note: Remove the baseurl in order to deploy at the domain root
+baseurl: /jekyll-theme-tufte
+title: jekyll-theme-tufte
+# Whether the header (with large title and subtitle) should be displayed
+header: false
+subtitle: A Jekyll theme based on tufte-css
+author: Andy Brody
+description: A Jekyll theme based on tufte-css
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+# permalink: /blog/:categories/:year/:month/:day/:title.html
+permalink: /blog/:categories/:slug
+timezone: America/New_York
+excerpt_separator: <!--more-->
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+plugins:
+  - jekyll-feed
