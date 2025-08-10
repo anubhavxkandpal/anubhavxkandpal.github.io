@@ -20,6 +20,9 @@ excerpt: ""
 > in a room alone."  
 > - Blaise Pascal
 
+![two women holding flowers](https://images.unsplash.com/photo-1505483531331-fc3cf89fd382?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1MXx8cGVvcGxlJTIwc21pbGluZ3xlbnwwfHx8fDE3MzE3MzExMTd8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Sam McNamara on Unsplash*
+
 We approach solitude with uncertainty, as if it were some alien task to
 master rather than a natural state of being. We run away from it and
 fear it, almost as undesirably as boredom. We feel we’d be disconnected
@@ -82,6 +85,9 @@ exuberance.
 
 > "Joy is the serious business of Heaven." - C.S. Lewis
 
+![a woman on a beach](https://images.unsplash.com/photo-1660629465812-1c550d2a2342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNXx8aGFwcGluZXNzfGVufDB8fHx8MTczMTcyMjIxMnww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by sandra lansue on Unsplash*
+
 One must have people to show that one is happy. I doubt being happy
 alone by oneself is worth the effort—but being joyful is. Joy, often
 confused with happiness, deserves its own consideration. Being in a
@@ -137,6 +143,9 @@ transcendence.
 > characters are seared with scars." - Kahlil Gibran
 
 ## The Folly of the Happiness Chase 
+
+![a man walking down a street past a store front](https://images.unsplash.com/photo-1710163132381-5564b0777726?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0NHx8Y2hhc2luZ3xlbnwwfHx8fDE3MzE3MzA3OTB8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by wu yi on Unsplash*
 
 We must also wonder about art and if it can ever be fuelled by this
 numbing emotion of happiness. The happy person rarely creates, much like

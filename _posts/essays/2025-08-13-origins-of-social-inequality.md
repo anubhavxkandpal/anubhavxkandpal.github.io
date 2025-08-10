@@ -50,6 +50,9 @@ interaction with China, India and South America introduced new and
 unimagined social, scientific and political ideas. This flood of new
 ideas came to be known as the “Enlightenment”.
 
+![two white-blue-and-red teepee tents surrounded by green plants](https://images.unsplash.com/photo-1501724326152-7a82bf5eae72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw5fHxuYXRpdmUlMjB3aXNkb218ZW58MHx8fHwxNzMwOTg0ODEzfDA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by MJ Tangonan on Unsplash*
+
 ## When worlds collide: native wisdom meets European pride
 
 The founding of New France where the “civilised” French came into
@@ -192,6 +195,9 @@ world history. His breakdown of societal progress into four stages was
 borrowed by his friend and Scottish economist Adam Smith. How curious
 that such ideas inspired the person who laid the foundations of economic
 free market theory.
+
+![black and white wall mounted paper](https://images.unsplash.com/photo-1585064210818-8b7af20d03b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw2fHxjaGFuZ2V8ZW58MHx8fHwxNzMwOTQyMTcwfDA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Markus Spiske on Unsplash*
 
 ## Breaking free: rethinking how we live together
 

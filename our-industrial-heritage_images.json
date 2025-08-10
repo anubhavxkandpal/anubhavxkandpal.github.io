@@ -1,0 +1,23 @@
+{
+  "post_name": "our-industrial-heritage",
+  "images": [
+    {
+      "name": "Industrial Revolution",
+      "url": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1fHxpbmR1c3RyeXxlbnwwfHx8fDE3MzEwMzY5NjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "caption": "Photo by Christopher Burns on Unsplash",
+      "insert_after": "**Progress and ecological grief**"
+    },
+    {
+      "name": "Ancient Rome",
+      "url": "https://images.unsplash.com/photo-1646236165023-b1713bd8a3ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzNHx8YW5jaWVudCUyMHJvbWV8ZW58MHx8fHwxNzMxMDM2OTg5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "caption": "Photo by Yahya Momtaz on Unsplash",
+      "insert_after": "The second reason, if we really look at the ways humanity has\nprogressed, stagnated and then advanced again, we can see that in\nreality we are always at the cusp of something new. It is only later\nthat it becomes evident or visible. Some may notice it as it emerges and\nthe many may notice it as it becomes normalised and they would compare\nwhat is now with 'what it used to be'."
+    },
+    {
+      "name": "Change",
+      "url": "https://images.unsplash.com/photo-1570358934836-6802981e481e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0fHxjaGFuZ2V8ZW58MHx8fHwxNzMwOTQyMTcwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "caption": "Photo by Markus Spiske on Unsplash",
+      "insert_after": "Questions that governed economic growth were not \"what is good for human\nbeings?\" but rather \"What is good for growth of the system?\" and\neveryone started to assume what is good for the growth of the system is\ngood for human beings."
+    }
+  ]
+}

@@ -7,7 +7,10 @@ reading_time: "10 minute"
 excerpt: ""
 ---
 
-Now that we’ve covered what yoga currently is, let’s discover what Yoga
+![Man sitting beside river painting](https://images.unsplash.com/flagged/photo-1574787929769-db45db9e4f10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMXx8YW5jaWVudCUyMHBoaWxvc29waHl8ZW58MHx8fHwxNzM1MjkyNDg4fDA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by British Library on Unsplash*
+
+Now that we've covered what yoga currently is, let's discover what Yoga
 was. To discover this however, we will need to dive a bit deeper into
 ancient philosophies of Hinduism and how they influenced each other.
 
@@ -16,8 +19,8 @@ among monks and ascetics in the first millennium BCE—it is only around
 this time it is mentioned distinctly from Samkhya. Yoga philosophy is
 believed to be first mentioned in the Brihadaranyaka Upanishad, the
 oldest Upanishad, and researcher Gavin Flood, translates the experience
-of union as, “...having become calm and concentrated, one perceives the
-self (atman), within oneself.”
+of union as, "...having become calm and concentrated, one perceives the
+self (atman), within oneself."
 
 As mentioned in the previous essay, the path in which the mind is still
 and the intellect does not waver is called Yoga.
@@ -43,7 +46,7 @@ to the screen that work together to create your user experience, these
 23 aspects combine to create our experience of reality. Essentially, the
 experience of reality and the ability to think about that experience
 emerges from the contact between purusha and prakriti. It is interesting
-to note that Samkhya doesn’t explicitly believe in the existence of God.
+to note that Samkhya doesn't explicitly believe in the existence of God.
 
 In Indian philosophy, there were six proofs developed by which anyone
 can discern truth. These are:
@@ -64,7 +67,7 @@ can discern truth. These are:
     confusion.
 
 5.  **Anupalabdhi (Non-perception):** Knowing about something through
-    its absence. If there’s no smoke, then there’s no fire; no trees,
+    its absence. If there's no smoke, then there's no fire; no trees,
     therefore no forest and so on…
 
 6.  **Shabda (Reliable Testimony):** Lastly, if someone has already done
@@ -75,6 +78,9 @@ can discern truth. These are:
 While Samkhya accepts three of six proofs, namely direct perception,
 inference and reliable testimony, some yoga schools accept all six.
 Mostly it is the same three methods of proof that yoga uses too.
+
+![A group of stone structures sitting on top of a dirt field](https://images.unsplash.com/photo-1722934804353-0d9f6a55ab5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNnx8YW5jaWVudCUyMGluZGlhfGVufDB8fHx8MTczNTIxNzExOXww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Abhimanyu Shivkumar on Unsplash*
 
 ## The Eight-Fold Path (Ashtanga)
 
@@ -91,8 +97,8 @@ mentioned above. Yoga builds upon this foundation, offering practical
 techniques and a systematic path to achieve the liberation described in
 Samkhya.
 
-Patanjali’s Yoga Sutras is one of the foundational sources for Yoga
-philosophy, along with Sankara’s Brahmasūtrabhaśya. It was compiled in
+Patanjali's Yoga Sutras is one of the foundational sources for Yoga
+philosophy, along with Sankara's Brahmasūtrabhaśya. It was compiled in
 the early years of this millennium as the
 *Pātañjalayogaśāstra*—including a treatise of texts where many Indian
 scholars of the time wrote their notes and commentary on it. So, in a
@@ -116,7 +122,7 @@ The sutras mention the 8 limbs of Yoga, *ashtanga*. These are:
     the mind.
 
 5.  **Pratyahara (Sense withdrawal):** Withdrawing the senses from
-    external distractions and turning inwards to one’s inner self or
+    external distractions and turning inwards to one's inner self or
     chosen deity.
 
 6.  **Dharana (Concentration):** Collecting or focusing the mind on a
@@ -133,7 +139,7 @@ The sutras mention the 8 limbs of Yoga, *ashtanga*. These are:
 
 Yoga philosophy says that the entanglement of Purusha with Prakriti is
 the root cause of suffering (*dukkha*) and the cycle of birth and death
-(*samsara*). Isn’t this starting to sound like Buddhism? And so, because
+(*samsara*). Isn't this starting to sound like Buddhism? And so, because
 we persist on ignorance (*avidya*), our consciousness (*purusha*) starts
 to confuse itself with matter (*prakriti*), mistaking the transient for
 the eternal. This leads to attachment, aversion, and a continuous cycle
@@ -141,7 +147,7 @@ of desires and disappointments.
 
 ## The Modern Relevance of the Ancient 
 
-It’s a welcome surprise that this issue was at the core of these
+It's a welcome surprise that this issue was at the core of these
 philosophies so many centuries ago. Problems that we assume have a
 modern source, are more likely the perennial malady of the human being.
 We have always desired, we have always suffered in attachment and we
@@ -153,21 +159,21 @@ weighs us down. Moksha, the holy grail of yoga practice, is the ultimate
 aim. We are told it is like achieving a state of complete freedom and
 self-realization. This liberation is not an escape from the world but
 rather a shift in perspective, recognizing the true nature of the Self
-(with a capital ‘S’) and allowing it to detach from the material realm.
+(with a capital 'S') and allowing it to detach from the material realm.
 But in all this, moksha does not wish to introduce more separation. Once
 liberated, a being can understand the true nature of reality and how the
 spiritual and material, like day and night, imply each other.
 
-“The Supreme Good is mokṣha which consists in the permanent
+"The Supreme Good is mokṣha which consists in the permanent
 impossibility of the incidence of pain... in the realisation of the Self
-as Self pure and simple.” —*Samkhyakarika* I.3
+as Self pure and simple." —*Samkhyakarika* I.3
 
-What’s interesting here is the Samkhya version—it says that it is
+What's interesting here is the Samkhya version—it says that it is
 actually Prakriti (matter) that binds itself to spirit and so it is not
 to free consciousness (purusha) but to free matter itself.
 
-“By seven modes nature binds herself by herself: by one, she releases
-(herself), for the soul's wish” —*Samkhyakarika* Verse 63
+"By seven modes nature binds herself by herself: by one, she releases
+(herself), for the soul's wish" —*Samkhyakarika* Verse 63
 
 Quite a fascinating take, for we so easily think it is this
 consciousness trapped in the body but what if it is the other way
@@ -176,19 +182,22 @@ only slowly releasing itself through life eventually ending in death?
 Something to reflect on, an idea that could offer a valuable shift of
 perspective.
 
+![Concrete statuette](https://images.unsplash.com/photo-1461766705442-58d58276121a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1fHxtZWRpdGF0aW9ufGVufDB8fHx8MTczNTI5MjE5NXww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Chris Ensey on Unsplash*
+
 So to truly practice yoga, we can follow some principles. For our
 ethical and moral concerns towards the outer world (*Yamas*): we should
-avoid harming other beings; be honest and truthful; we shouldn’t steal;
+avoid harming other beings; be honest and truthful; we shouldn't steal;
 we should act with integrity to our environment and social circumstance;
 and finally we should not get attached to our possessions and not covet
-others’ as well.
+others' as well.
 
 Some of these attitudes towards the external world sound very familiar
 to those mentioned in the commandments of Christianity, or to
 Confucianism and its emphasis on social harmony and ethical conduct.
 They naturally share a common element with the Golden Rule, with the
 precepts of Buddhism and even some elements of Mayan values and Aztec
-philosophy. This is because we humans aren’t that different in the end.
+philosophy. This is because we humans aren't that different in the end.
 We all do similarly petty things and societies have urged us to
 transcend our lower natures and live in harmony with each other. These
 fundamental human values do not belong to any religion or culture but to
@@ -208,10 +217,10 @@ Pleasure and pain results from contact of soul, sense, mind and object.
 Non-origination of that follows when the mind becomes steady in the
 soul. After it, there is non-existence of pain in the embodied soul.
 **This is that Yoga**.  
-— *Vaiśeṣika Sūtra 5.2.15–5.2.16*
+— *Vaiśeṣika Sūtra 5.2.15–5.2.16*
 
 Adi Sankara, the 8th century scholar, described the Yoga school of
-thought as “Samkhya school with God.” This addition of *Ishwara* (often
+thought as "Samkhya school with God." This addition of *Ishwara* (often
 translated as 'divine consciousness' or 'universal spirit') transforms
 yoga from pure philosophy into a living practice. While scholars have
 debated Patanjali's exact meaning of *Ishwara*, its practical
@@ -227,11 +236,11 @@ the same destination: a profound understanding of our true nature.
 **Yoga is the utter transcendence of the mind**. To some, Self-knowledge
 through inquiry is difficult, to others Yoga is difficult. But my
 conviction is that the path of inquiry is easy for all, because
-Self-knowledge is the ever-present truth.— *Vasistha to Rama, Yoga
+Self-knowledge is the ever-present truth.— *Vasistha to Rama, Yoga
 Vasistha 6.1.12–13*
 
-अथ योगानुशासनम् (atha yogānushāsanam) – ‘Here begins the instruction on
-the practice of Yoga,’ writes Patanjali in the opening line of his Yoga
+अथ योगानुशासनम् (atha yogānushāsanam) – 'Here begins the instruction on
+the practice of Yoga,' writes Patanjali in the opening line of his Yoga
 Sutras. These words, written millennia ago, still resonate today. They
 remind us that yoga is not just an ancient philosophical system but a
 living tradition that continues to evolve and transform. Whether through
@@ -260,5 +269,5 @@ universal scale. Our existential anxiety comes from being a blink in
 eternity while yoga reminds us we are eternity as well.
 
 I hope you enjoyed this two-part exposition on Yoga. Stay tuned for more
-and please share this with someone who’d be interested in reading this
+and please share this with someone who'd be interested in reading this
 too.

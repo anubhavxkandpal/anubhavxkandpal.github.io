@@ -9,6 +9,9 @@ excerpt: ""
 
 **Progress and ecological grief**
 
+![Industrial Revolution](https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1fHxpbmR1c3RyeXxlbnwwfHx8fDE3MzEwMzY5NjV8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Christopher Burns on Unsplash*
+
 It seems we are back where we started. We all have the freedom to do
 what we want but now we face an existential crisis caused by money, the
 economy and the ever present thrills of progress. Our climate is
@@ -30,6 +33,9 @@ reality we are always at the cusp of something new. It is only later
 that it becomes evident or visible. Some may notice it as it emerges and
 the many may notice it as it becomes normalised and they would compare
 what is now with 'what it used to be'.
+
+![Ancient Rome](https://images.unsplash.com/photo-1646236165023-b1713bd8a3ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzNHx8YW5jaWVudCUyMHJvbWV8ZW58MHx8fHwxNzMxMDM2OTg5fDA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Yahya Momtaz on Unsplash*
 
 **Historical perspectives: From Rome to the Industrial Revolution**
 
@@ -175,6 +181,9 @@ Questions that governed economic growth were not "what is good for human
 beings?" but rather "What is good for growth of the system?" and
 everyone started to assume what is good for the growth of the system is
 good for human beings.
+
+![Change](https://images.unsplash.com/photo-1570358934836-6802981e481e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0fHxjaGFuZ2V8ZW58MHx8fHwxNzMwOTQyMTcwfDA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Markus Spiske on Unsplash*
 
 **Where do we go from here?**
 

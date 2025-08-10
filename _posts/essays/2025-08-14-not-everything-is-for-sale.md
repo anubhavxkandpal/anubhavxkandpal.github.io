@@ -23,6 +23,9 @@ approximately 75% of honey samples from retail markets worldwide showed
 signs of filtration and adulteration. What was once nature's pure gift
 has become another victim of mass production.
 
+![honey raspberry jars](https://images.unsplash.com/photo-1481900369621-54a7facacc6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1fHxob25leXxlbnwwfHx8fDE3MzEyMTM1MzR8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Amelia Bartlett on Unsplash*
+
 ## When Pure Becomes Rare: The Hidden Cost of Demand
 
 This made me think—what if we are just living this fantasy that
@@ -84,6 +87,9 @@ Is this wrong? Is this right? Unfortunately, this is just life. Of
 course, it has something to do with capitalism but not as much as we’d
 like to think. People have always operated first and foremost in
 self-interest.
+
+![a close up of a piece of food](https://images.unsplash.com/photo-1685773253905-915ce8dd470b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0M3x8aG9uZXl8ZW58MHx8fHwxNzMxMjEzNTc4fDA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Lin Dai on Unsplash*
 
 ## Beyond the Jar: Ethics in a World of Substitutes
 

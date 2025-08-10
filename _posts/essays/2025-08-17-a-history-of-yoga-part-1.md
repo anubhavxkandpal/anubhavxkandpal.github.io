@@ -75,6 +75,9 @@ shunned by both Hindus and the British. But then something changed. Two
 men, Yogendra and Kuvalayananda emerged and became the founding fathers
 of modern yoga.
 
+![Woman balancing her body on olive-green mat](https://images.unsplash.com/photo-1516208398649-d5d401ba8c49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0OHx8eW9nYXxlbnwwfHx8fDE3MzQ3NTg5NjF8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by GMB Fitness on Unsplash*
+
 ## The Founding Fathers
 
 But first, let’s talk about Paramahamsa Madhavadasji (1798-1921). He was
@@ -125,6 +128,9 @@ on natural laws and universal principles. In some sense, pure, objective
 science was to be deployed as the handmaiden of spirituality and
 orthodox philosophy so as to establish what came to be the theme of his
 life's work".
+
+![Grayscale photo of woman exercising on top of large rock](https://images.unsplash.com/photo-1560232657-ffb2e8f5938a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0Nnx8Z3ltbmFzdGljc3xlbnwwfHx8fDE3MzQ3NTkwMTF8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Wesley Tingey on Unsplash*
 
 ## The Physical Culture Revolution
 
@@ -243,14 +249,11 @@ a result of the dialogical exchanges between Indian reformers and
 nationalists and Americans and Europeans interested in health and
 fitness"
 
-![](media/image1.png)
+![Figure from Primary Gymnastics](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd73189-f5f8-4cfd-b3e9-d001704dee6f_604x202.png)
+*Figure 1: Photo from Niels Bukh's Primary Gymnastics 1924*
 
-Photo from Niels Bukh's Primary Gymnastics 1924
-
-![A person dancing with her arms out Description automatically
-generated](media/image2.png)
-
-Another pose from Primary Gymnastics
+![Another pose from Primary Gymnastics](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8c5be62-ecd7-435e-af7c-2a407dde1a9c_380x240.png)
+*Figure 2: Another pose from Primary Gymnastics*
 
 So, we arrive at this point. What is yoga and what was yoga? It is not
 an inherently bad thing that yoga has become what it is now. With
