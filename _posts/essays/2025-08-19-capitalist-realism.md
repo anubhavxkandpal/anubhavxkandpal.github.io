@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Capitalist Realism"
+title: "Why We Can't Think Beyond Capitalism"
 date: 2025-08-19
 categories: essays
 reading_time: "10 minute"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A History Of Yoga Part 2"
+title: "A History Of Yoga: The Nature of Reality"
 date: 2025-08-18
 categories: essays
 reading_time: "10 minute"

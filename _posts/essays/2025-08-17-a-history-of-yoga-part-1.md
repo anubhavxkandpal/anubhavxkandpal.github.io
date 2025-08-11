@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A History Of Yoga Part 1"
+title: "A History Of Yoga: The Pizza Effect"
 date: 2025-08-17
 categories: essays
 reading_time: "10 minute"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Limits Of Society Part 1"
+title: "The Limits Of Society"
 date: 2025-09-03
 categories: essays
 reading_time: "10 minute"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Self Centredness"
+title: "Do We Only Think About Ourselves"
 date: 2025-09-06
 categories: essays
 reading_time: "10 minute"

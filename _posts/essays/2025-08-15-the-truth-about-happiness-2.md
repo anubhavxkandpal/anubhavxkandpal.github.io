@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Truth About Happiness 2"
-date: 2025-08-20
+title: "The Truth About Happiness Part 2"
+date: 2025-08-15
 categories: essays
 reading_time: "10 minute"
 excerpt: ""
@@ -13,9 +13,7 @@ and perfection. Rather, we are suffering from the imperative to be
 happy."  
 – Byung-Chul Han, "The Burnout Society"*
 
-This is part 2 of this essay series, you can read Part 1 here. We will
-be examining different forms of violence in modern society through the
-lens of Byung-Chul Han’s work.
+This is part 2 of this essay series. We will be examining different forms of violence in modern society through the lens of Byung-Chul Han’s work.
 
 ![grayscale photography of person laying on ground near bus](https://images.unsplash.com/photo-1494537604714-7975224eea63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxidXJub3V0fGVufDB8fHx8MTczMjc5MjExM3ww&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by D A V I D S O N L U N A on Unsplash*

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "The Paradox Of Happiness 1"
+title: "The Paradox Of Happiness"
 date: 2025-08-15
 categories: essays
 reading_time: "10 minute"
 excerpt: ""
 ---
 
-# The Paradox of Happiness: Between Joy and Suffering
+# The Paradox of Happiness: Between Joy and Suffering - Part 1
 
 > "Happiness is like a butterfly: the more you chase it, the more it
 > will elude you, but if you turn your attention to other things, it

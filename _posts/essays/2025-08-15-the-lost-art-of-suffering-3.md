@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Lost Art Of Suffering 3"
+title: "The Lost Art Of Suffering Part 3"
 date: 2025-08-21
 categories: essays
 reading_time: "10 minute"
@@ -9,6 +9,8 @@ excerpt: ""
 
 “Let everything happen to you: beauty and terror. Just keep going. No
 feeling is final.” – Rainer Maria Rilke
+
+# This is part 3 of a 3 part series on the truth about happiness.
 
 ![dwarf statue in garden](https://images.unsplash.com/photo-1528659432556-884cfe1480ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyNHx8Y29udGVtcGxhdGlvbnxlbnwwfHx8fDE3MzI3MzYzNzZ8MA&ixlib.rb-4.0.3&q=80&w=1080)
 *Photo by Dorota Dylka on Unsplash*

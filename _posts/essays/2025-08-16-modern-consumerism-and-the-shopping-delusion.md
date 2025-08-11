@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modern Consumerism And The Shopping Delusion"
+title: "The Hidden Cost of Convenience"
 date: 2025-08-16
 categories: essays
 reading_time: "10 minute"

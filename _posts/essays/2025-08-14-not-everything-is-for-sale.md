@@ -4,7 +4,7 @@ title: "Not Everything Is For Sale"
 date: 2025-08-14
 categories: essays
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "Searching for pure honey revealed a bitter truth about our modern markets: 75% of retail honey is adulterated with sugar syrup. The honey seller faces an impossible choice—produce 100 genuine jars or 500 fake ones to meet demand. This isn't just about honey; it's about how our free market system has created more illusion than opportunity, forcing survival ethics that compromise authenticity. When everything has a price, what happens to purity?"
 ---
 
 Have you ever tried to buy real, pure honey lately? It's harder than
@@ -73,9 +73,12 @@ how many times we’ve been fooled in the past by almost-original
 products.
 
 Here lies the modern paradox: authenticity becomes a luxury when
-survival is at stake. As philosopher Michael Sandel notes: "*Markets
-don't only allocate goods; they also express and promote certain
-attitudes toward the goods being exchanged.*" What attitudes are we
+survival is at stake. As philosopher Michael Sandel notes:
+
+> "Markets don't only allocate goods; they also express and promote certain
+> attitudes toward the goods being exchanged."
+
+What attitudes are we
 promoting when we demand nature's bounty at unnatural prices?
 
 The honey seller’s ethics will not waver at mixing the honey with sugar
@@ -93,10 +96,13 @@ self-interest.
 
 ## Beyond the Jar: Ethics in a World of Substitutes
 
-As Aristotle once observed, "*To give away money is an easy matter and
-in any man's power. But to decide to whom to give it, and how large, and
-when, and for what purpose and how, is neither in every man's power nor
-an easy matter.*" Similarly, to produce purely for profit is simple; to
+As Aristotle once observed:
+
+> "To give away money is an easy matter and in any man's power. But to decide
+> to whom to give it, and how large, and when, and for what purpose and how,
+> is neither in every man's power nor an easy matter."
+
+Similarly, to produce purely for profit is simple; to
 balance ethics with survival is infinitely more complex.
 
 We as human beings have an innate drive for survival and whatever the
@@ -124,19 +130,19 @@ is muddied by the complexity of human needs and desires.
 I will leave you with a quote by Oscar Wilde that not only exemplifies
 my point but adds to it.
 
-“*Selfishness is not living as one wishes to live, it is asking others
-to live as one wishes to live. And unselfishness is letting other
-people's lives alone, not interfering with them. Selfishness always aims
-at creating around it an absolute uniformity of type. Unselfishness
-recognizes infinite variety of type as a delightful thing, accepts it,
-acquiesces in it, enjoys it. It is not selfish to think for oneself. A
-man who does not think for himself does not think at all. It is grossly
-selfish to require of one's neighbor that he should think in the same
-way, and hold the same opinions. Why should he? If he can think, he will
-probably think differently. If he cannot think, it is monstrous to
-require thought of any kind from him. A red rose is not selfish because
-it wants to be a red rose. It would be horribly selfish if it wanted all
-the other flowers in the garden to be both red and roses.*”
+> "Selfishness is not living as one wishes to live, it is asking others
+> to live as one wishes to live. And unselfishness is letting other
+> people's lives alone, not interfering with them. Selfishness always aims
+> at creating around it an absolute uniformity of type. Unselfishness
+> recognizes infinite variety of type as a delightful thing, accepts it,
+> acquiesces in it, enjoys it. It is not selfish to think for oneself. A
+> man who does not think for himself does not think at all. It is grossly
+> selfish to require of one's neighbor that he should think in the same
+> way, and hold the same opinions. Why should he? If he can think, he will
+> probably think differently. If he cannot think, it is monstrous to
+> require thought of any kind from him. A red rose is not selfish because
+> it wants to be a red rose. It would be horribly selfish if it wanted all
+> the other flowers in the garden to be both red and roses."
 
 ― **Oscar Wilde, [The Soul of Man & Prison
 Writings](https://www.goodreads.com/work/quotes/66058139)**
