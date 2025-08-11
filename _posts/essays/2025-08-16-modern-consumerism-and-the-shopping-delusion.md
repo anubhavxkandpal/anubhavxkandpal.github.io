@@ -47,6 +47,9 @@ where our waste can vanish from sight but not from existence. This
 geographical and psychological distance allows us to maintain the
 illusion that our consumption habits have no consequences.
 
+![boy holding cardboard box](https://images.unsplash.com/photo-1495556650867-99590cea3657?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzMnx8c2hvcHBpbmclMjB3YXN0ZXxlbnwwfHx8fDE3MzQxMDczODh8MA&ixlib-rb-4.0.3&q=80&w=1080)
+*Photo by Hermes Rivera on Unsplash*
+
 *"The cost of a thing is the amount of what I will call life which is
 required to be exchanged for it, immediately or in the long run." –
 Henry David Thoreau*
@@ -115,6 +118,9 @@ of consequences. This is the hidden life exchange Thoreau spoke of—only
 now it's not just our life being exchanged, but the lives of others who
 bear the burden of our consumption.
 
+![A person holding a cell phone in front of a laptop](https://images.unsplash.com/photo-1729747705406-9a32f353873e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0NXx8YnV5aW5nJTIwbGlmZXN0eWxlc3xlbnwwfHx8fDE3MzQxMDc0ODd8MA&ixlib-rb-4.0.3&q=80&w=1080)
+*Photo by Jakub Żerdzicki on Unsplash*
+
 ## Beyond the buy button: The deeper void
 
 The mountains of waste we generate tell only half the story. The other
@@ -162,6 +168,9 @@ the new religion, and unboxing videos our new rituals. We are, as Bauman
 notes, seeking biographical solutions to systemic contradictions –
 trying to solve through individual consumption what can only be
 addressed through collective transformation.
+
+![white and black electronic devices](https://images.unsplash.com/photo-1597423497965-32b0da69bce3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMDN8fHJlcGFpcmluZ3xlbnwwfHx8fDE3MzQxMDc2NTZ8MA&ixlib-rb-4.0.3&q=80&w=1080)
+*Photo by Dan Cristian Pădureț on Unsplash*
 
 ## The path forward: Reclaiming connection in a consumer world
 

@@ -10,6 +10,9 @@ excerpt: ""
 “Let everything happen to you: beauty and terror. Just keep going. No
 feeling is final.” – Rainer Maria Rilke
 
+![dwarf statue in garden](https://images.unsplash.com/photo-1528659432556-884cfe1480ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyNHx8Y29udGVtcGxhdGlvbnxlbnwwfHx8fDE3MzI3MzYzNzZ8MA&ixlib.rb-4.0.3&q=80&w=1080)
+*Photo by Dorota Dylka on Unsplash*
+
 When did our hearts become so busy they forgot how to rest? We live in a
 world more ordered than ever, yet something ancient in us still yearns
 for wildness, for chaos, for the untamed spaces where life flows freely.
@@ -38,6 +41,9 @@ we’ve begun to lose something precious—the art of sitting with ourselves
 in the quiet spaces between doing.
 
 ## The inability to contemplate
+
+![man in white crew neck shirt wearing black framed eyeglasses holding white tablet computer](https://images.unsplash.com/photo-1614454542040-a0125d70ba2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw4fHxkaXN0cmFjdGlvbnxlbnwwfHx8fDE3MzI4NjIwNTV8MA&ixlib.rb-4.0.3&q=80&w=1080)
+*Photo by Nubelson Fernandes on Unsplash*
 
 “A man who lies to himself, and believes his own lies, becomes unable to
 recognize truth, either in himself or in anyone else, and he ends up
@@ -137,6 +143,9 @@ untameable, uncontrollable and is, for all intents and purposes, free.
 ## Do we fear what’s real?
 
 “The cure for pain is in the pain.” – Rumi
+
+![a woman covering her eyes with her hands](https://images.unsplash.com/photo-1706510568563-4dfe62d2aeb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzM3x8aWxsdXNpb258ZW58MHx8fHwxNzMyNzY1MzM1fDA&ixlib.rb-4.0.3&q=80&w=1080)
+*Photo by Leila de Haan on Unsplash*
 
 In this final terrain beyond our assumptions, we must confront a
 fundamental truth: authenticity cannot be optimized, measured, or

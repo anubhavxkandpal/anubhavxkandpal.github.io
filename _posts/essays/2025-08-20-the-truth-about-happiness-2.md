@@ -17,6 +17,9 @@ This is part 2 of this essay series, you can read Part 1 here. We will
 be examining different forms of violence in modern society through the
 lens of Byung-Chul Han’s work.
 
+![grayscale photography of person laying on ground near bus](https://images.unsplash.com/photo-1494537604714-7975224eea63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxidXJub3V0fGVufDB8fHx8MTczMjc5MjExM3ww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by D A V I D S O N L U N A on Unsplash*
+
 What kind of fortune do we seek in this land where schedules whisper
 demands and notifications scream for attention? Are we aware of the many
 differences that exist between how we must live and how we choose to
@@ -82,6 +85,9 @@ contentment becomes impossible. It will never be enough and we’re stuck
 in a bad loop.
 
 “Nothing is enough to the man for whom enough is too little” – Epicurus.
+
+![woman wearing white and black sweater sitting on stair](https://images.unsplash.com/photo-1507294994578-a3015ffbab52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw2fHxleGhhdXN0aW9ufGVufDB8fHx8MTczMjc5MjE5N3ww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Nick Karvounis on Unsplash*
 
 ## The Digital Exhaustion of Being
 
@@ -180,6 +186,9 @@ rather than experiences to be lived through.
 
 Someone asked me recently, “Is there something wrong with being happy?
 What’s negative about positivity?”
+
+![a yellow smiley face keychain hanging from the back of a car](https://images.unsplash.com/photo-1680032339010-8141679f3761?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxmYWtlJTIwc21pbGV8ZW58MHx8fHwxNzMyNzkyMzMwfDA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Xeriss on Unsplash*
 
 I said nothing at first, then slowly, an answer came to me. I replied:
 There is nothing inherently wrong with being happy. The problem is our
