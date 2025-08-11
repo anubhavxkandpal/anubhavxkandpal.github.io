@@ -31,25 +31,10 @@ body {
   border-bottom: 1px solid #eee;
   padding-bottom: 20px;
   position: relative;
+  overflow: visible;
 }
 
-// Logo styles
-.logo-container {
-  margin-bottom: 20px;
-  
-  .site-logo {
-    width: 120px;
-    height: auto;
-    opacity: 0.9;
-    transition: opacity 0.3s ease;
-    
-    &:hover {
-      opacity: 1;
-    }
-  }
-}
-
-// Header images with cloudy edges
+// Header images with cloudy edges - positioned absolutely on sides
 .header-images {
   position: absolute;
   top: 0;
@@ -57,7 +42,7 @@ body {
   right: 0;
   height: 100%;
   pointer-events: none;
-  overflow: hidden;
+  z-index: -1;
   
   .header-image {
     position: absolute;
@@ -65,20 +50,32 @@ body {
     transform: translateY(-50%);
     
     &.left {
-      left: -50px;
+      left: -200px;
+      @media (max-width: 1200px) {
+        left: -150px;
+      }
+      @media (max-width: 1000px) {
+        display: none;
+      }
     }
     
     &.right {
-      right: -50px;
+      right: -200px;
+      @media (max-width: 1200px) {
+        right: -150px;
+      }
+      @media (max-width: 1000px) {
+        display: none;
+      }
     }
     
     img {
       width: calc(120px * 1.337);
       height: auto;
-      opacity: 0.3;
-      filter: blur(0.5px);
-      -webkit-mask-image: radial-gradient(ellipse at center, black 40%, transparent 70%);
-      mask-image: radial-gradient(ellipse at center, black 40%, transparent 70%);
+      opacity: 0.15;
+      filter: blur(1px);
+      -webkit-mask-image: radial-gradient(ellipse at center, black 30%, transparent 70%);
+      mask-image: radial-gradient(ellipse at center, black 30%, transparent 70%);
     }
   }
 }
@@ -100,9 +97,17 @@ body {
     background-image: url('/HOR 14 Lotus.png');
     background-size: contain;
     background-repeat: no-repeat;
-    opacity: 0.18;
+    opacity: 0.33;
     pointer-events: none;
     z-index: -1;
+  }
+}
+
+// Ensure body has min-width for side images
+body {
+  min-width: 1200px;
+  @media (max-width: 1200px) {
+    min-width: auto;
   }
 }
 
