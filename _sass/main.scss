@@ -6,12 +6,22 @@ body {
   background-color: #fafafa;
   margin: 0;
   padding: 0;
-}
-
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 20px;
+  position: relative;
+  
+  // Subtle background pattern
+  &::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+      radial-gradient(circle at 20% 50%, rgba(120, 119, 198, 0.03) 0%, transparent 50%),
+      radial-gradient(circle at 80% 80%, rgba(120, 119, 198, 0.03) 0%, transparent 50%),
+      radial-gradient(circle at 40% 20%, rgba(120, 119, 198, 0.02) 0%, transparent 50%);
+    z-index: -1;
+  }
 }
 
 // Header styles
@@ -20,6 +30,46 @@ body {
   text-align: center;
   border-bottom: 1px solid #eee;
   padding-bottom: 20px;
+  position: relative;
+}
+
+// Logo styles
+.logo-container {
+  margin-bottom: 20px;
+  
+  .site-logo {
+    width: 120px;
+    height: auto;
+    opacity: 0.9;
+    transition: opacity 0.3s ease;
+    
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+  position: relative;
+  
+  // Subtle lotus watermark
+  &::after {
+    content: '';
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    width: 80px;
+    height: 80px;
+    background-image: url('/HOR 14 Lotus.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.05;
+    pointer-events: none;
+    z-index: -1;
+  }
 }
 
 .site-title {
