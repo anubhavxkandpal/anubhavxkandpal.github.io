@@ -71,11 +71,12 @@ body {
     
     img {
       width: calc(120px * 1.337);
-      height: auto;
+      height: calc(120px * 1.337);
       opacity: 0.55;
       filter: blur(1px);
-      -webkit-mask-image: radial-gradient(ellipse at center, black 30%, transparent 70%);
-      mask-image: radial-gradient(ellipse at center, black 30%, transparent 70%);
+      object-fit: cover;
+      -webkit-mask-image: radial-gradient(circle at center, black 30%, transparent 70%);
+      mask-image: radial-gradient(circle at center, black 30%, transparent 70%);
     }
   }
 }
