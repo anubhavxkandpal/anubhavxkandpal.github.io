@@ -4,7 +4,7 @@ title: "Nature Saying Hello"
 date: 2025-08-31
 categories: [essays, beauty, consciousness]
 reading_time: "10 minute"
-excerpt: {% include pull-quote.html quote="This essay explores the simple yet profound act of greeting nature, arguing that acknowledging the living world around us can reawaken our sense of connection and wonder. It questions our modern tendency to treat nature as a backdrop, suggesting that a small shift in perception can transform our relationship with the planet and ourselves." author="--" %}
+excerpt: "This essay explores the simple yet profound act of greeting nature, arguing that acknowledging the living world around us can reawaken our sense of connection and wonder. It questions our modern tendency to treat nature as a backdrop, suggesting that a small shift in perception can transform our relationship with the planet and ourselves."
 
 Dec 27, 2024
 
@@ -124,8 +124,7 @@ need the concept of respect at all. They are so intimately bound to the
 plants and trees they live among that they are acutely aware of their
 own interdependence.
 
-> “Respect was invented to cover the empty place where love should be.”
-> ― Leo Tolstoy
+{% include pull-quote.html quote=“Respect was invented to cover the empty place where love should be.” ― Leo Tolstoy %}
 
 Why does humankind not have this reverence? Why are we not in love with
 nature? Why are we blinded? Is it media, commercialism and advertising

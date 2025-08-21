@@ -4,7 +4,7 @@ title: "Nature And Our Connection To All Of Life"
 date: 2025-08-29
 categories: [essays, beauty, consciousness]
 reading_time: "10 minute"
-excerpt: {% include pull-quote.html quote="This essay explores our deep, often forgotten, connection to the natural world. It questions the modern illusion of separation from nature, arguing that our well-being is intrinsically linked to the health of the planet. Drawing on indigenous wisdom and scientific insights, it calls for a renewed sense of kinship with all life." author="--" %}
+excerpt: "This essay explores our deep, often forgotten, connection to the natural world. It questions the modern illusion of separation from nature, arguing that our well-being is intrinsically linked to the health of the planet. Drawing on indigenous wisdom and scientific insights, it calls for a renewed sense of kinship with all life."
 
 {% include pull-quote.html quote="I went to the woods because I wished to live deliberately, to front
 only the essential facts of life, and see if I could not learn what it

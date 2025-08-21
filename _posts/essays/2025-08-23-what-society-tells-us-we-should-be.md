@@ -4,7 +4,7 @@ title: "What Society Tells Us We Should Be"
 date: 2025-08-23
 categories: [essays, society, consciousness]
 reading_time: "10 minute"
-excerpt: {% include pull-quote.html quote="This essay explores how societal and cultural pressures shape our identities, often leading to a disconnect from our authentic selves. It examines the impact of cultural trauma and the illusion of perfectionism, questioning how one can find a genuine path in a world that values security over soul." author="--" %}
+excerpt: "This essay explores how societal and cultural pressures shape our identities, often leading to a disconnect from our authentic selves. It examines the impact of cultural trauma and the illusion of perfectionism, questioning how one can find a genuine path in a world that values security over soul."
 
 We drift in an ocean of humanity, each wave of society shaping us,
 moulding us, pushing us toward shores of conformity. Like water flowing

@@ -4,7 +4,7 @@ title: "The Limits Of Society"
 date: 2025-09-03
 categories: essays
 reading_time: "10 minute"
-excerpt: {% include pull-quote.html quote="This essay explores the inherent limitations of societal structures, questioning whether our attempts to create order inevitably lead to new forms of control. Drawing on thinkers like Freud, Fromm, and Marcuse, it examines the tension between individual freedom and collective security, and asks if we can build a society that nurtures our humanity rather than suppressing it." author="--" %}
+excerpt: "This essay explores the inherent limitations of societal structures, questioning whether our attempts to create order inevitably lead to new forms of control. Drawing on thinkers like Freud, Fromm, and Marcuse, it examines the tension between individual freedom and collective security, and asks if we can build a society that nurtures our humanity rather than suppressing it."
 
 *{% include pull-quote.html quote="Progress is not an illusion; it happens, but it is slow and invariably
 disappointing. Things always develop more slowly than one has expected.

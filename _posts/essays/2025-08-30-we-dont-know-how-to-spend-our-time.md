@@ -4,7 +4,7 @@ title: "We Dont Know How To Spend Our Time"
 date: 2025-08-30
 categories: [essays, beauty, consciousness, society]
 reading_time: "10 minute"
-excerpt: {% include pull-quote.html quote="This essay examines our modern inability to spend time meaningfully, exploring why we fill our lives with busyness and distractions. It questions the societal glorification of productivity and the loss of true leisure, suggesting that our struggle with free time reveals a deeper existential unease and a disconnection from our authentic selves." author="--" %}
+excerpt: "This essay examines our modern inability to spend time meaningfully, exploring why we fill our lives with busyness and distractions. It questions the societal glorification of productivity and the loss of true leisure, suggesting that our struggle with free time reveals a deeper existential unease and a disconnection from our authentic selves."
 
 Two people walk the street. One admires the beauty of spring, the orange
 flowers and the purple ones near their feet. Red flowers adorn a barren

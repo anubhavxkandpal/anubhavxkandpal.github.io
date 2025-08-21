@@ -4,7 +4,7 @@ title: "The Hidden Cost of Convenience"
 date: 2025-08-16
 categories: [essays, society, ethics]
 reading_time: "10 minute"
-excerpt: {% include pull-quote.html quote="This essay explores the hidden costs of modern consumerism, revealing how corporate practices and digital isolation fuel our shopping addiction. It examines the environmental and social consequences of our consumption, from the mountains of waste in developing countries to the engineered obsolescence of our devices, and questions what we've lost in our pursuit of convenience." author="--" %}
+excerpt: "This essay explores the hidden costs of modern consumerism, revealing how corporate practices and digital isolation fuel our shopping addiction. It examines the environmental and social consequences of our consumption, from the mountains of waste in developing countries to the engineered obsolescence of our devices, and questions what we've lost in our pursuit of convenience."
 
 ## how corporate practices and digital isolation feed our shopping addiction
 
@@ -190,15 +190,15 @@ as neighbours, collaborators, and friends.
 Similar experiments are blooming globally. Copenhagen's *Folkehuset*
 community centres demonstrate how shared spaces can weave stronger
 social fabric than any shopping mall. In Japan, the concept of
-{% include pull-quote.html quote="*mottainai*" author="a deep cultural respect for the inherent value of" %}
+"*mottainai*" author="a deep cultural respect for the inherent value of
 objects – is finding new relevance in modern repair movements. These
 initiatives aren't just about reducing consumption; they're about
 remembering what it means to be human in a world that increasingly
 treats us as mere consumers.
 
 The Dalai Lama's wisdom rings true here:  
-"*If you think you are too small to make a difference, try sleeping with
-a mosquito.*"
+{% include pull-quote.html quote="*If you think you are too small to make a difference, try sleeping with
+a mosquito.*" %}
 
 While systemic change is crucial, we mustn't underestimate the power of
 conscious consumption and community building. When we repair instead of
