@@ -3,8 +3,8 @@ layout: post
 title: "The Unacknowledged Wound: Reflections On Narcissism"
 date: 2025-09-04
 categories: essays
-reading_time: "10 minute"
-excerpt: ""
+reading_time: "10 minutes"
+excerpt: "An exploration of narcissism as a form of suffering that refuses to acknowledge itself—examining how unprocessed pain creates cycles of self-obsession, projection, and the desperate flight from feeling that ultimately traps both the narcissist and those around them."
 ---
 
 ## Reflections on Narcissism and the Refusal of Suffering

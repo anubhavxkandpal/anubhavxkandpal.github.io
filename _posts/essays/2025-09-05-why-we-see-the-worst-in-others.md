@@ -3,8 +3,8 @@ layout: post
 title: "Why We See The Worst in Others"
 date: 2025-09-05
 categories: essays
-reading_time: "10 minute"
-excerpt: ""
+reading_time: "8 minutes"
+excerpt: "An exploration of psychological projection through Jung's lens—examining how we unconsciously cast our own disowned feelings onto others, the difference between projection and genuine empathy, and the path toward reclaiming these shadow aspects of ourselves."
 ---
 
 ## Unmasking Projection

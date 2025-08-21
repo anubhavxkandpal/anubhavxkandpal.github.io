@@ -3,8 +3,8 @@ layout: post
 title: "Do We Only Think About Ourselves"
 date: 2025-09-06
 categories: essays
-reading_time: "10 minute"
-excerpt: ""
+reading_time: "12 minutes"
+excerpt: "A contemplation on self-absorption and consciousness—exploring the psychology behind our natural self-focus, from childhood egocentrism to adult patterns, and the delicate journey toward expanding awareness beyond our own reflection to genuinely see and connect with others."
 ---
 
 I find it constantly surprising how much people talk about themselves or
