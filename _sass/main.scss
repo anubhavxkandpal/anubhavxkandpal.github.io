@@ -603,6 +603,28 @@ main {
     }
   }
   
+  // Auto-styled quotes (applied via JavaScript)
+  .auto-quote {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2em;
+    font-style: italic;
+    color: #555;
+    text-align: center;
+    margin: 35px auto;
+    padding: 25px;
+    background: rgba(255, 182, 193, 0.03);
+    border-radius: 8px;
+    border-left: 3px solid rgba(255, 182, 193, 0.2);
+    max-width: 85%;
+    
+    &:before, &:after {
+      content: '"';
+      font-size: 1.3em;
+      color: rgba(255, 182, 193, 0.5);
+    }
+  }
+}
+  
   // First paragraph styling
   > p:first-of-type {
     font-size: 1.25em;
