@@ -1,19 +1,15 @@
 ---
 layout: post
-title: "The Truth About Happiness Part 2"
+title: "The Truth About Happiness: The Violence of Positivity (Part 2)"
 date: 2025-08-15
 categories: [essays, consciousness]
 reading_time: "10 minute"
 excerpt: "This essay explores the 'violence of positivity' in our achievement-driven society. It examines how the constant pressure to be happy and productive, as analyzed by philosopher Byung-Chul Han, leads to burnout and a disconnect from our authentic selves, ultimately turning the pursuit of happiness into a source of suffering."
+series: "The Truth About Happiness"
+series_part: 2
 ---
 
-
-{% include pull-quote.html quote=“The present-day crisis is not that life has become poorer, less
-brilliant, less meaningful, nor that we have less access to happiness
-and perfection. Rather, we are suffering from the imperative to be
-happy." author="Byung-Chul Han, The Burnout Society" %}
-
-This is part 2 of this essay series. We will be examining different forms of violence in modern society through the lens of Byung-Chul Han’s work.
+{% include pull-quote.html quote="The present-day crisis is not that life has become poorer, less brilliant, less meaningful, nor that we have less access to happiness and perfection. Rather, we are suffering from the imperative to be happy." author="Byung-Chul Han, The Burnout Society" %}
 
 ![grayscale photography of person laying on ground near bus](https://images.unsplash.com/photo-1494537604714-7975224eea63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxidXJub3V0fGVufDB8fHx8MTczMjc5MjExM3ww&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by D A V I D S O N L U N A on Unsplash*
@@ -82,7 +78,7 @@ perfection grow tighter. What we don’t realise in all this is that
 contentment becomes impossible. It will never be enough and we’re stuck
 in a bad loop.
 
-{% include pull-quote.html quote=“Nothing is enough to the man for whom enough is too little” author="Epicurus" %}
+{% include pull-quote.html quote="Nothing is enough to the man for whom enough is too little" author="Epicurus" %}
 
 ![woman wearing white and black sweater sitting on stair](https://images.unsplash.com/photo-1507294994578-a3015ffbab52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw2fHxleGhhdXN0aW9ufGVufDB8fHx8MTczMjc5MjE5N3ww&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by Nick Karvounis on Unsplash*
