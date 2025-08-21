@@ -218,10 +218,7 @@ practice; to study ourself, to reflect, introspect; and finally to
 contemplate the True Self, the greater being, the thing above all things
 that reminds one of a greater unity.
 
-{% include pull-quote.html quote="Pleasure and pain results from contact of soul, sense, mind and object.
-Non-origination of that follows when the mind becomes steady in the
-soul. After it, there is non-existence of pain in the embodied soul.
-**This is that Yoga**."  — *Vaiśeṣika Sūtra 5.2.15–5.2.16* %}
+{% include pull-quote.html quote="Pleasure and pain results from contact of soul, sense, mind and object. Non-origination of that follows when the mind becomes steady in the soul. After it, there is non-existence of pain in the embodied soul. This is that Yoga." author="Vaiśeṣika Sūtra 5.2.15–5.2.16" %}
 
 
 Adi Sankara, the 8th century scholar, described the Yoga school of
@@ -238,10 +235,7 @@ clarity – self-knowledge and the restraint of mental conditioning.
 Modern yoga has largely focused on the latter, but both paths lead to
 the same destination: a profound understanding of our true nature.
 
-{% include pull-quote.html quote="**Yoga is the utter transcendence of the mind**. To some, Self-knowledge through inquiry is difficult, to others Yoga is difficult. But my
-conviction is that the path of inquiry is easy for all, because
-Self-knowledge is the ever-present truth." author="*Vasistha to Rama, Yoga
-Vasistha 6.1.12–13*" %}
+{% include pull-quote.html quote="Yoga is the utter transcendence of the mind. To some, Self-knowledge through inquiry is difficult, to others Yoga is difficult. But my conviction is that the path of inquiry is easy for all, because Self-knowledge is the ever-present truth." author="Vasistha to Rama, Yoga Vasistha 6.1.12–13" %}
 
 
 अथ योगानुशासनम् (atha yogānushāsanam) – 'Here begins the instruction on
