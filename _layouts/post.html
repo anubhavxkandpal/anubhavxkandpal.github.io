@@ -59,7 +59,8 @@ layout: default
     
     <div class="series-nav-buttons">
       {% if current_index > 0 %}
-        {% assign prev_post = series_posts[current_index | minus: 1] %}
+        {% assign prev_index = current_index | minus: 1 %}
+        {% assign prev_post = series_posts[prev_index] %}
         <a href="{{ prev_post.url | relative_url }}" class="series-nav prev">
           ← Previous: {{ prev_post.title }}
         </a>
