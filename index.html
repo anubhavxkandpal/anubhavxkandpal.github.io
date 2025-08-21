@@ -7,9 +7,10 @@ layout: default
   {% assign featured_post = site.posts.first %}
   <section class="hero-section">
     <article class="featured-article">
-      {% if featured_post.featured_image %}
+      {% assign featured_image = featured_post | post_featured_image %}
+      {% if featured_image %}
       <div class="featured-image">
-        <img src="{{ featured_post.featured_image | relative_url }}" alt="{{ featured_post.title }}">
+        <img src="{{ featured_image }}" alt="{{ featured_post.title }}">
       </div>
       {% endif %}
       <div class="featured-content">
@@ -67,9 +68,10 @@ layout: default
     <div class="articles-grid">
       {% for post in site.posts limit:6 offset:1 %}
       <article class="article-card">
-        {% if post.featured_image %}
+        {% assign article_image = post | post_featured_image %}
+        {% if article_image %}
         <div class="article-image">
-          <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
+          <img src="{{ article_image }}" alt="{{ post.title }}">
         </div>
         {% endif %}
         <div class="article-content">

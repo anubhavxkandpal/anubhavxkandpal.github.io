@@ -2,9 +2,10 @@
 layout: default
 ---
 <article class="post">
-  {% if page.featured_image %}
+  {% assign hero_image = page | post_featured_image %}
+  {% if hero_image %}
   <div class="post-hero-image">
-    <img src="{{ page.featured_image | relative_url }}" alt="{{ page.title }}">
+    <img src="{{ hero_image }}" alt="{{ page.title }}">
   </div>
   {% endif %}
   

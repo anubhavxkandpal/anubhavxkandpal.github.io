@@ -6,7 +6,6 @@ categories: [society, consciousness]
 tags: [yoga, philosophy, hinduism, spirituality]
 series: "A History Of Yoga"
 series_part: 2
-featured_image: "/assets/images/yoga-philosophy-featured.jpg"
 excerpt: "Now that we've covered what yoga currently is, let's discover what Yoga was. To discover this however, we will need to dive a bit deeper into ancient philosophies of Hinduism and how they influenced each other."
 reading_time: 12
 author: "Anubhav Kandpal"
