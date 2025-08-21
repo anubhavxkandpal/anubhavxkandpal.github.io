@@ -5,6 +5,8 @@ date: 2025-08-10
 categories: [essays, consciousness]
 reading_time: "12 minute"
 excerpt: "There's something exhausting about people who can't stop talking about themselves. Every conversation circles back to their story, their problems, their drama. And the strange thing is, they seem genuinely fascinated by their own lives—like someone who's fallen in love with their own reflection and can't look away."
+---
+
 
 There's something exhausting about people who can't stop talking about themselves. You know the type. Every conversation somehow circles back to their story, their problems, their latest drama. And the strange thing is, they seem genuinely fascinated by their own lives. Like someone who's fallen in love with their own reflection and can't look away.
 

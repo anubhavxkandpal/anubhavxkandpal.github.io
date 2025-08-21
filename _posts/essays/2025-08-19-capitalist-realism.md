@@ -2,9 +2,10 @@
 layout: post
 title: "Why We Can't Think Beyond Capitalism"
 date: 2025-08-19
-categories: [essays, society]
+categories: [society]
 reading_time: "10 minute"
 excerpt: "This essay explores Mark Fisher's concept of 'Capitalist Realism'—the pervasive sense that capitalism is the only viable system, making it impossible to imagine alternatives. It delves into how this ideology contributes to a mental health crisis by promoting a sense of 'reflexive impotence' and individual failure, and calls for a reawakening of our collective capacity to dream of different futures."
+---
 
 We all know this food called pizza. Let’s imagine a scenario where
 everyone around you is saying pizza is the only food that exists. It’s

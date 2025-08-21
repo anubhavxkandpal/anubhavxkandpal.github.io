@@ -5,6 +5,8 @@ date: 2025-08-24
 categories: [essays, consciousness]
 reading_time: "10 minute"
 excerpt: "This essay explores how beliefs shape our reality, acting as both a necessary grounding mechanism and a potential prison. It examines the 'epidemiology of representations'—how beliefs spread like viruses—and the psychological need for certainty that can lead to dogmatism, urging a balance of conviction with a healthy dose of doubt."
+---
+
 
 ## How Beliefs Shape Our Certainty
 

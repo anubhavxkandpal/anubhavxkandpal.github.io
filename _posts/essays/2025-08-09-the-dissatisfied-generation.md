@@ -6,6 +6,8 @@ categories: [essays, society, consciousness]
 reading_time: "10 minute"
 excerpt: "We are breeding a certain kind of dissatisfied person. Everything provided in this world has only made us more unsatisfied—as if the whole world has grown in so many dimensions, and we could be satisfied ten times over, but it's still not enough."
 
+---
+
 I think we are breeding a certain kind of dissatisfied person. It seems like everything that is provided in this world has only made us more and more unsatisfied. It's as if the whole world has grown in so many dimensions, and we could be satisfied ten times over, but it's still not enough. The strange thing is, this attitude is now seeping into how we perceive people as well, because it seems like people are also not enough. They're either not smart enough, not good-looking enough, they don't give us enough attention, or they're not spiritual enough. It's as if everything is just fundamentally unsatisfactory to us, yet we keep chasing this satisfaction.
 
 > {% include pull-quote.html quote="Every new thing excites the mind, but a mind that seeks truth turns from the new and seeks the old." author="Seneca, Letters to Lucilius" %}
