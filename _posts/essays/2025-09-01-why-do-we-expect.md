@@ -4,7 +4,7 @@ title: "Why Do We Expect"
 date: 2025-09-01
 categories: essays
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay delves into the nature of expectation, exploring how our projections and desires shape our relationships and lead to disappointment. It examines the psychological roots of our expectations, from childhood conditioning to the 'repetition compulsion,' and questions whether we can learn to love people for who they are, not who we expect them to be."
 ---
 
 "Between what is said and not meant, and what is meant and not said,

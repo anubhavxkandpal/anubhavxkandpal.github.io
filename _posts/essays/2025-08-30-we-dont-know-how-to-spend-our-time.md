@@ -2,9 +2,9 @@
 layout: post
 title: "We Dont Know How To Spend Our Time"
 date: 2025-08-30
-categories: essays
+categories: [essays, beauty, consciousness, society]
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay examines our modern inability to spend time meaningfully, exploring why we fill our lives with busyness and distractions. It questions the societal glorification of productivity and the loss of true leisure, suggesting that our struggle with free time reveals a deeper existential unease and a disconnection from our authentic selves."
 ---
 
 Two people walk the street. One admires the beauty of spring, the orange

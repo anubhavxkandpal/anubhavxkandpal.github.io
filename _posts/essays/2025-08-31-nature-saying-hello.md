@@ -2,9 +2,9 @@
 layout: post
 title: "Nature Saying Hello"
 date: 2025-08-31
-categories: essays
+categories: [essays, beauty, consciousness]
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay explores the simple yet profound act of greeting nature, arguing that acknowledging the living world around us can reawaken our sense of connection and wonder. It questions our modern tendency to treat nature as a backdrop, suggesting that a small shift in perception can transform our relationship with the planet and ourselves."
 ---
 
 Dec 27, 2024

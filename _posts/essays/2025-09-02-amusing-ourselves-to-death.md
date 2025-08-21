@@ -4,7 +4,7 @@ title: "Amusing Ourselves To Death"
 date: 2025-09-02
 categories: essays
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay explores Neil Postman's prophetic warning in 'Amusing Ourselves to Death,' examining how our culture's shift from print to screen has transformed public discourse into a form of entertainment. It delves into the consequences of a society that prioritizes amusement over rational thought, and questions our ability to engage with serious ideas in an age of endless distraction."
 ---
 
 I am scrolling on Reddit and I see a video of Donald Trump dancing with

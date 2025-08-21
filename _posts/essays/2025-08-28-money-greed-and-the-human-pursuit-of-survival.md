@@ -4,7 +4,7 @@ title: "Money Greed And The Human Pursuit Of Survival"
 date: 2025-08-28
 categories: [essays, ethics, society]
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay explores the complex relationship between money, greed, and the human survival instinct. It questions whether our pursuit of wealth is a natural drive or a socially conditioned one, examining how our relationship with money shapes our values and whether true security can be found in a system that often prioritizes profit over people."
 ---
 
 "For the love of money is the root of all kinds of evil. And some
