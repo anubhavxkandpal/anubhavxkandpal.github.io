@@ -10,11 +10,11 @@ excerpt: "This essay delves into the modern paradox of happiness, questioning wh
 
 # The Paradox of Happiness: Between Joy and Suffering - Part 1
 
-{% include pull-quote.html quote="Happiness is like a butterfly: the more you chase it, the more it will elude you, but if you turn your attention to other things, it will come and sit softly on your shoulder."  - Henry David Thoreau %}
+{% include pull-quote.html quote="Happiness is like a butterfly: the more you chase it, the more it will elude you, but if you turn your attention to other things, it will come and sit softly on your shoulder." author="Henry David Thoreau" %}
 
 ## The Social Aspect of Happiness
 
-{% include pull-quote.html quote="All of humanity's problems stem from man's inability to sit quietly in a room alone." - Blaise Pascal %}
+{% include pull-quote.html quote="All of humanity's problems stem from man's inability to sit quietly in a room alone." author="Blaise Pascal" %}
 
 ![two women holding flowers](https://images.unsplash.com/photo-1505483531331-fc3cf89fd382?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1MXx8cGVvcGxlJTIwc21pbGluZ3xlbnwwfHx8fDE3MzE3MzExMTd8MA&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by Sam McNamara on Unsplash*
@@ -29,9 +29,7 @@ within us. This is why most people seek distractions and change; they
 search for an antidote to their suffering—hoping to become some kind of
 perfect and happy person.
 
-> {% include pull-quote.html quote="Men decide far more problems by hate, love, lust, rage, sorrow, joy,
-> hope, fear, illusion, or some other inward emotion, than by reality,
-> authority, any legal standard, judicial precedent, or statute." author="> Cicero" %}
+{% include pull-quote.html quote="Men decide far more problems by hate, love, lust, rage, sorrow, joy, hope, fear, illusion, or some other inward emotion, than by reality, authority, any legal standard, judicial precedent, or statute." author="Cicero" %}
 
 They believe they do it for themselves but if they do not have viewers
 to witness their happiness, the effort isn’t worth it—so in reality they
@@ -61,7 +59,7 @@ bonds, and any that we take up for a time must be tied loosely so that
 they can be untied again, quickly and as effortlessly as possible, when
 circumstances change."
 
-{% include pull-quote.html quote="Most men pursue pleasure with such breathless haste that they hurry past it." – Søren Kierkegaard %}
+{% include pull-quote.html quote="Most men pursue pleasure with such breathless haste that they hurry past it." author="Søren Kierkegaard" %}
 
 We all chase happiness because society told us to. We got these ideas
 via Bluetooth. We thought it was a worthy pursuit, but those who have
@@ -192,11 +190,7 @@ happy person becoming their prison.
 
 This paradox recalls the ancient Zen koan:  
 
-{% include pull-quote.html quote=A monk asked his master, "What is happiness?"  
-The master replied, "Grandfather dies, father dies, son dies."  
-The monk, confused, asked how this could be happiness.  
-The master explained, "This is the natural order. Any other way would
-bring great suffering." %}
+{% include pull-quote.html quote="A monk asked his master, 'What is happiness?' The master replied, 'Grandfather dies, father dies, son dies.' The monk, confused, asked how this could be happiness. The master explained, 'This is the natural order. Any other way would bring great suffering.'" %}
 
 
 In our relentless pursuit of happiness, we have perhaps forgotten what
