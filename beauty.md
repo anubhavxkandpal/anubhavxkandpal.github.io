@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Beauty
+title: Beauty & Reflection
 category: beauty
-description: "Aesthetic philosophy and the appreciation of sublime experience and artistic truth."
+description: "Aesthetic philosophy, the appreciation of sublime experience, travel reflections, and contemplations on the beauty found in everyday moments and nature."
 permalink: /categories/beauty/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Discipline And Chaos"
 date: 2025-08-27
-categories: essays
+categories: [essays, consciousness]
 reading_time: "10 minute"
 excerpt: ""
 ---

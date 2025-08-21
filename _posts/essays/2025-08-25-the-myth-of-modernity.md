@@ -2,7 +2,7 @@
 layout: post
 title: "The Myth Of Modernity"
 date: 2025-08-25
-categories: essays
+categories: [essays, society]
 reading_time: "10 minute"
 excerpt: "This essay challenges the 'myth of modernity,' arguing that despite technological advancements, human nature remains largely unchanged. It questions whether progress has truly empowered humanity or led to a spiritual and ecological crisis, urging a reconnection with our ancient heritage to navigate the future."
 ---

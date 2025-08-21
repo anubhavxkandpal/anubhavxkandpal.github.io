@@ -1,0 +1,29 @@
+{
+  "post_name": "yoga-part-1",
+  "images": [
+    {
+      "name": "Woman balancing yoga pose",
+      "url": "https://images.unsplash.com/photo-1516208398649-d5d401ba8c49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0OHx8eW9nYXxlbnwwfHx8fDE3MzQ3NTg5NjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "caption": "Photo by GMB Fitness on Unsplash",
+      "insert_after": "of modern yoga."
+    },
+    {
+      "name": "Grayscale gymnastics",
+      "url": "https://images.unsplash.com/photo-1560232657-ffb2e8f5938a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0Nnx8Z3ltbmFzdGljc3xlbnwwfHx8fDE3MzQ3NTkwMTF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "caption": "Photo by Wesley Tingey on Unsplash",
+      "insert_after": "life's work\"."
+    },
+    {
+      "name": "Primary Gymnastics Figure 1",
+      "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd73189-f5f8-4cfd-b3e9-d001704dee6f_604x202.png",
+      "caption": "Figure 1: Photo from Niels Bukh's Primary Gymnastics 1924",
+      "insert_after": "fitness\""
+    },
+    {
+      "name": "Primary Gymnastics Figure 2",
+      "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8c5be62-ecd7-435e-af7c-2a407dde1a9c_380x240.png",
+      "caption": "Figure 2: Another pose from Primary Gymnastics",
+      "insert_after": "*Figure 1: Photo from Niels Bukh's Primary Gymnastics 1924*"
+    }
+  ]
+}

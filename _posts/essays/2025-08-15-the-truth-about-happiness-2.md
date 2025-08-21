@@ -2,7 +2,7 @@
 layout: post
 title: "The Truth About Happiness Part 2"
 date: 2025-08-15
-categories: essays
+categories: [essays, consciousness]
 reading_time: "10 minute"
 excerpt: "This essay explores the 'violence of positivity' in our achievement-driven society. It examines how the constant pressure to be happy and productive, as analyzed by philosopher Byung-Chul Han, leads to burnout and a disconnect from our authentic selves, ultimately turning the pursuit of happiness into a source of suffering."
 ---

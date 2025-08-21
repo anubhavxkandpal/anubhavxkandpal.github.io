@@ -2,7 +2,7 @@
 layout: post
 title: "Nature And Our Connection To All Of Life"
 date: 2025-08-29
-categories: essays
+categories: [essays, beauty, consciousness]
 reading_time: "10 minute"
 excerpt: ""
 ---

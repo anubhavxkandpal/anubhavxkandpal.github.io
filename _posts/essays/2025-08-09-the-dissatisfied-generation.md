@@ -2,7 +2,7 @@
 layout: post
 title: "The Dissatisfied Generation"
 date: 2025-08-09
-categories: essays
+categories: [essays, society, consciousness]
 reading_time: "10 minute"
 excerpt: "We are breeding a certain kind of dissatisfied person. Everything provided in this world has only made us more unsatisfied—as if the whole world has grown in so many dimensions, and we could be satisfied ten times over, but it's still not enough."
 ---

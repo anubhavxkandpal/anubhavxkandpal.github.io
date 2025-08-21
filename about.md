@@ -6,7 +6,7 @@ permalink: /about/
 
 # The Writer Behind the Words
 
-Philosophy has always been more than an academic pursuit for me—it's a lived exploration of what it means to be human in this complex, beautiful, and often bewildering world. Through these essays, I attempt to bridge the eternal questions that have captivated thinkers across millennia with the immediate, felt experience of contemporary life.
+Philosophy has always been a way of life for me. It's a lived exploration of what it means to be human in this complex, beautiful, and often bewildering world. Through these essays, I attempt to bridge the eternal questions that have captivated thinkers across millennia with the immediate, felt experience of contemporary life.
 
 ## The Journey of Inquiry
 
@@ -16,7 +16,7 @@ Whether exploring the nature of consciousness, the foundations of ethics, or the
 
 ## Why "Heart of Reason"
 
-The title reflects a fundamental belief: that true wisdom emerges not from pure rationality alone, nor from sentiment divorced from clarity, but from the integration of heart and mind. Reason guided by compassion, analysis tempered by intuition, knowledge illuminated by understanding.
+The title reflects a fundamental belief: that true wisdom emerges not from pure rationality alone, nor from sentimentality isolated from clarity, but from the integration of heart and mind. Wisdom guided by compassion, analysis tempered by intuition, knowledge illuminated by understanding.
 
 In an age that often forces us to choose between cold logic and warm feeling, I believe there's a third way—a path that honors both the rigor of careful thinking and the wisdom of embodied experience. This is the heart of reason: thinking that feels, feeling that thinks.
 

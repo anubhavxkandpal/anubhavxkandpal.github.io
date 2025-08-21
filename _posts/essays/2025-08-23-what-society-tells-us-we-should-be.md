@@ -2,7 +2,7 @@
 layout: post
 title: "What Society Tells Us We Should Be"
 date: 2025-08-23
-categories: essays
+categories: [essays, society, consciousness]
 reading_time: "10 minute"
 excerpt: "This essay explores how societal and cultural pressures shape our identities, often leading to a disconnect from our authentic selves. It examines the impact of cultural trauma and the illusion of perfectionism, questioning how one can find a genuine path in a world that values security over soul."
 ---

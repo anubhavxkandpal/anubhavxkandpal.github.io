@@ -2,7 +2,7 @@
 layout: post
 title: "The Paradox Of Happiness"
 date: 2025-08-15
-categories: essays
+categories: [essays, consciousness]
 reading_time: "10 minute"
 excerpt: "This essay delves into the modern paradox of happiness, questioning why society's relentless pursuit of it often leads to dissatisfaction. It distinguishes between fleeting, performative happiness and deep, authentic joy, arguing that true contentment is found not in avoiding suffering but in embracing the full spectrum of human experience."
 ---

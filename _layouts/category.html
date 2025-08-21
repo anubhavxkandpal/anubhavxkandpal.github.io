@@ -14,9 +14,15 @@ layout: default
       <div class="articles-grid">
         {% for post in posts %}
         <article class="article-card">
+          {% assign first_image = post.content | split: '![' | last | split: '](https://' | first %}
           {% if post.featured_image %}
           <div class="article-image">
-            <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
+            <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}" onerror="this.parentElement.style.display='none'">
+          </div>
+          {% elsif post.content contains '![' and post.content contains '](https://' %}
+          {% assign image_url = post.content | split: '](https://' | last | split: ')' | first | prepend: 'https://' %}
+          <div class="article-image">
+            <img src="{{ image_url }}" alt="{{ post.title }}" onerror="this.parentElement.style.display='none'">
           </div>
           {% endif %}
           <div class="article-content">

@@ -2,7 +2,7 @@
 layout: post
 title: "Money Greed And The Human Pursuit Of Survival"
 date: 2025-08-28
-categories: essays
+categories: [essays, ethics, society]
 reading_time: "10 minute"
 excerpt: ""
 ---

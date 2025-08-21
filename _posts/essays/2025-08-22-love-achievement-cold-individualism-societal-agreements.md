@@ -2,7 +2,7 @@
 layout: post
 title: "The Pursuit of Love Through Achievement"
 date: 2025-08-22
-categories: essays
+categories: [essays, consciousness, society]
 reading_time: "10 minute"
 excerpt: "From the moment a baby struggles to put on their t-shirt, we learn that accomplishment equals love. This early conditioning drives us toward endless achievement-seeking, while our 'cold individualism' masks our deep interdependence. We chase comfort and reduce others to mere facts, forgetting that growth happens through challenges, not perfection. As Rilke reminds us, 'Perhaps all the dragons in our lives are princesses'—waiting for us to recognize that love asks nothing of us at all."
 ---

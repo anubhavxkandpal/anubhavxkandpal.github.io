@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="/assets/css/styles.css">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
   
-  <link type="application/atom+xml" rel="alternate" href="http://0.0.0.0:4000/feed.xml" title="Heart of Reason" />
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Heart of Reason" />
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Heart of Reason | A space for philosophical inquiry and meditative prose</title>
 <meta name="generator" content="Jekyll v4.3.4" />
@@ -20,14 +20,14 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="A space for philosophical inquiry and meditative prose" />
 <meta property="og:description" content="A space for philosophical inquiry and meditative prose" />
-<link rel="canonical" href="http://0.0.0.0:4000/" />
-<meta property="og:url" content="http://0.0.0.0:4000/" />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
 <meta property="og:site_name" content="Heart of Reason" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Heart of Reason" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Anubhav Kandpal"},"description":"A space for philosophical inquiry and meditative prose","headline":"Heart of Reason","name":"Heart of Reason","url":"http://0.0.0.0:4000/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Anubhav Kandpal"},"description":"A space for philosophical inquiry and meditative prose","headline":"Heart of Reason","name":"Heart of Reason","url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -35,107 +35,234 @@
   <body>
     <div class="container">
       <header class="site-header">
+  <div class="header-images">
+    <div class="header-image left">
+      <img src="/HOR%2014.jpg" alt="Heart of Reason">
+    </div>
+    <div class="header-image right">
+      <img src="/HOR%2013.jpg" alt="Heart of Reason">
+    </div>
+  </div>
   <div class="site-title">
     <a href="/">Heart of Reason</a>
   </div>
   <nav class="site-nav">
     <a href="/" class="nav-link">Home</a>
+    
+    <div class="nav-dropdown">
+      <span class="nav-link dropdown-toggle">Essays ▾</span>
+      <div class="dropdown-content">
+        <a href="/categories/consciousness/">Consciousness</a>
+        <a href="/categories/ethics/">Ethics</a>
+        <a href="/categories/beauty/">Beauty</a>
+        <a href="/categories/society/">Society</a>
+        <a href="/archive/">All Essays</a>
+      </div>
+    </div>
+    
     <a href="/about/" class="nav-link">About</a>
     <a href="/contact/" class="nav-link">Contact</a>
   </nav>
 </header>
 
       <main>
-        <div class="home">
-  <div class="intro">
-    <h2>Philosophical Inquiry Through Meditative Prose</h2>
-    <p>Welcome to Heart of Reason, a space dedicated to exploring philosophical ideas through thoughtful, flowing prose that invites contemplation rather than mere consumption.</p>
-  </div>
-
-  <div class="recent-posts">
-    <h3>Recent Reflections</h3>
-
-    <div class="post-list">
+        <div class="homepage">
+  <!-- Featured Article Hero Section -->
+  
+  <section class="hero-section">
+    <article class="featured-article">
       
-        <article class="post-item">
-          <h4 class="post-title">
-            <a href="/2025/08/08/welcome/">Welcome to Heart of Reason</a>
-          </h4>
-          <div class="post-meta">
-            <time datetime="2025-08-08T00:00:00+05:30">
-              August 8, 2025
-            </time>
-          </div>
-          <div class="post-excerpt">
-            <p>The voyage of philosophical inquiry begins not with certainty, but with the gentle acknowledgment of mystery. In this space, we will explore the landscapes of thought that have captivated minds across millennia – not as distant academic exercises, but as living conversations that continue to shape our understanding of existence.</p>
+      <div class="featured-content">
+        <span class="featured-label">Featured Essay</span>
+        <h1 class="featured-title">
+          <a href="/2025/08/21/the-lost-art-of-suffering-3/">The Lost Art Of Suffering Part 3</a>
+        </h1>
+        <p class="featured-excerpt">In our rush to smooth out life’s rough edges, we’ve begun to lose something precious—the art of sitting with ourselves in the quiet spaces between doing. This essay explores how our society's relentless push for positivity and productivity prevents us...</p>
+        <div class="featured-meta">
+          <time datetime="2025-08-21T00:00:00+05:30">
+            August 21, 2025
+          </time>
+          
+          <span class="reading-time">10 minute min read</span>
+          
+        </div>
+      </div>
+    </article>
+  </section>
 
-            <a href="/2025/08/08/welcome/" class="read-more">Continue reading →</a>
+  <!-- Author Introduction -->
+  <section class="author-intro">
+    <div class="intro-content">
+      <h2>Philosophical Inquiry Through Meditative Prose</h2>
+      <p>Welcome to Heart of Reason, a space dedicated to exploring philosophical ideas through thoughtful, flowing prose that invites contemplation rather than mere consumption. Here, we journey through the landscapes of consciousness, ethics, beauty, and the profound questions that shape human experience.</p>
+    </div>
+  </section>
+
+  <!-- Content Categories -->
+  <section class="content-categories">
+    <h2>Explore by Theme</h2>
+    <div class="category-grid">
+      <a href="/categories/consciousness/" class="category-card">
+        <h3>Consciousness</h3>
+        <p>Explorations of awareness, perception, and the nature of mind</p>
+      </a>
+      <a href="/categories/ethics/" class="category-card">
+        <h3>Ethics</h3>
+        <p>Moral philosophy and the question of how we ought to live</p>
+      </a>
+      <a href="/categories/beauty/" class="category-card">
+        <h3>Beauty</h3>
+        <p>Aesthetic philosophy and the appreciation of sublime experience</p>
+      </a>
+      <a href="/categories/society/" class="category-card">
+        <h3>Society</h3>
+        <p>Social philosophy and our collective human journey</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- Recent Reflections -->
+  <section class="recent-reflections">
+    <h2>Recent Reflections</h2>
+    <div class="articles-grid">
+      
+      <article class="article-card">
+        
+        <div class="article-content">
+          
+          <span class="article-category">Essays</span>
+          
+          <h3 class="article-title">
+            <a href="/2025/08/19/capitalist-realism/">Why We Can't Think Beyond Capitalism</a>
+          </h3>
+          <p class="article-excerpt">This essay explores Mark Fisher's concept of 'Capitalist Realism'—the pervasive sense that capitalism is the only viable system, making it impossible to imagine alternatives. It...</p>
+          <div class="article-meta">
+            <time datetime="2025-08-19T00:00:00+05:30">
+              August 19, 2025
+            </time>
+            
+            <span class="reading-time">10 minute min read</span>
+            
           </div>
-        </article>
+        </div>
+      </article>
+      
+      <article class="article-card">
+        
+        <div class="article-image">
+          <img src="/assets/images/yoga-philosophy-featured.jpg" alt="A History Of Yoga: The Nature of Reality">
+        </div>
+        
+        <div class="article-content">
+          
+          <span class="article-category">Society</span>
+          
+          <h3 class="article-title">
+            <a href="/2025/08/18/a-history-of-yoga-part-2/">A History Of Yoga: The Nature of Reality</a>
+          </h3>
+          <p class="article-excerpt">Now that we've covered what yoga currently is, let's discover what Yoga was. To discover this however, we will need to dive a bit deeper...</p>
+          <div class="article-meta">
+            <time datetime="2025-08-18T00:00:00+05:30">
+              August 18, 2025
+            </time>
+            
+            <span class="reading-time">12 min read</span>
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="article-card">
+        
+        <div class="article-image">
+          <img src="/assets/images/yoga-history-featured.jpg" alt="A History Of Yoga: The Pizza Effect">
+        </div>
+        
+        <div class="article-content">
+          
+          <span class="article-category">Society</span>
+          
+          <h3 class="article-title">
+            <a href="/2025/08/17/a-history-of-yoga-part-1/">A History Of Yoga: The Pizza Effect</a>
+          </h3>
+          <p class="article-excerpt">From ancient practice to modern movement: How physical culture transformed an ancient tradition. When I first encountered 'yoga' in the West, I felt like a...</p>
+          <div class="article-meta">
+            <time datetime="2025-08-17T00:00:00+05:30">
+              August 17, 2025
+            </time>
+            
+            <span class="reading-time">10 min read</span>
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="article-card">
+        
+        <div class="article-content">
+          
+          <span class="article-category">Essays</span>
+          
+          <h3 class="article-title">
+            <a href="/2025/08/16/modern-consumerism-and-the-shopping-delusion/">The Hidden Cost of Convenience</a>
+          </h3>
+          <p class="article-excerpt">This essay explores the hidden costs of modern consumerism, revealing how corporate practices and digital isolation fuel our shopping addiction. It examines the environmental and...</p>
+          <div class="article-meta">
+            <time datetime="2025-08-16T00:00:00+05:30">
+              August 16, 2025
+            </time>
+            
+            <span class="reading-time">10 minute min read</span>
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="article-card">
+        
+        <div class="article-content">
+          
+          <span class="article-category">Essays</span>
+          
+          <h3 class="article-title">
+            <a href="/2025/08/15/the-truth-about-happiness-2/">The Truth About Happiness Part 2</a>
+          </h3>
+          <p class="article-excerpt">This essay explores the 'violence of positivity' in our achievement-driven society. It examines how the constant pressure to be happy and productive, as analyzed by...</p>
+          <div class="article-meta">
+            <time datetime="2025-08-15T00:00:00+05:30">
+              August 15, 2025
+            </time>
+            
+            <span class="reading-time">10 minute min read</span>
+            
+          </div>
+        </div>
+      </article>
+      
+      <article class="article-card">
+        
+        <div class="article-content">
+          
+          <span class="article-category">Essays</span>
+          
+          <h3 class="article-title">
+            <a href="/2025/08/15/the-paradox-of-happiness-1/">The Paradox Of Happiness</a>
+          </h3>
+          <p class="article-excerpt">This essay delves into the modern paradox of happiness, questioning why society's relentless pursuit of it often leads to dissatisfaction. It distinguishes between fleeting, performative...</p>
+          <div class="article-meta">
+            <time datetime="2025-08-15T00:00:00+05:30">
+              August 15, 2025
+            </time>
+            
+            <span class="reading-time">10 minute min read</span>
+            
+          </div>
+        </div>
+      </article>
       
     </div>
-  </div>
+  </section>
 </div>
-
-<style>
-  .intro {
-    margin: 3em 0 4em;
-    text-align: center;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .intro h2 {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.8em;
-    margin-bottom: 0.8em;
-  }
-  
-  .intro p {
-    font-size: 1.2em;
-    color: #555;
-    line-height: 1.7;
-  }
-  
-  .recent-posts h3 {
-    font-family: 'Playfair Display', serif;
-    margin-bottom: 1.5em;
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid #eee;
-  }
-  
-  .post-item {
-    margin-bottom: 3em;
-  }
-  
-  .post-title {
-    font-family: 'Playfair Display', serif;
-    margin-bottom: 0.3em;
-  }
-  
-  .post-title a {
-    color: #333;
-    text-decoration: none;
-  }
-  
-  .post-meta {
-    color: #888;
-    margin-bottom: 1em;
-    font-size: 0.9em;
-  }
-  
-  .post-excerpt {
-    margin-top: 0.8em;
-  }
-  
-  .read-more {
-    display: inline-block;
-    margin-top: 0.5em;
-    font-style: italic;
-  }
-</style>
-
 
       </main>
       <footer class="site-footer">
