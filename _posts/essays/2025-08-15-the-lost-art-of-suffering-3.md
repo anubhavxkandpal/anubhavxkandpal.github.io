@@ -47,10 +47,7 @@ in the quiet spaces between doing.
 ![man in white crew neck shirt wearing black framed eyeglasses holding white tablet computer](https://images.unsplash.com/photo-1614454542040-a0125d70ba2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw4fHxkaXN0cmFjdGlvbnxlbnwwfHx8fDE3MzI4NjIwNTV8MA&ixlib.rb-4.0.3&q=80&w=1080)
 *Photo by Nubelson Fernandes on Unsplash*
 
-{% include pull-quote.html quote=“A man who lies to himself, and believes his own lies, becomes unable to
-recognize truth, either in himself or in anyone else, and he ends up
-losing respect for himself and for others.” – Fyodor Dostoevsky, “The
-Brothers Karamazov” %}
+{% include pull-quote.html quote="A man who lies to himself, and believes his own lies, becomes unable to recognize truth, either in himself or in anyone else, and he ends up losing respect for himself and for others." author="Fyodor Dostoevsky, The Brothers Karamazov" %}
 
 To suffer is to scrape the sandpaper on our material existence,
 revealing the underlying soul in all things. In our digital age, where
