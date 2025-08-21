@@ -10,16 +10,11 @@ excerpt: "This essay delves into the modern paradox of happiness, questioning wh
 
 # The Paradox of Happiness: Between Joy and Suffering - Part 1
 
-> "Happiness is like a butterfly: the more you chase it, the more it
-> will elude you, but if you turn your attention to other things, it
-> will come and sit softly on your shoulder."  
-> - Henry David Thoreau
+{% include pull-quote.html quote="Happiness is like a butterfly: the more you chase it, the more it will elude you, but if you turn your attention to other things, it will come and sit softly on your shoulder."  - Henry David Thoreau %}
 
 ## The Social Aspect of Happiness
 
-> "All of humanity's problems stem from man's inability to sit quietly
-> in a room alone."  
-> - Blaise Pascal
+{% include pull-quote.html quote="All of humanity's problems stem from man's inability to sit quietly in a room alone." - Blaise Pascal %}
 
 ![two women holding flowers](https://images.unsplash.com/photo-1505483531331-fc3cf89fd382?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1MXx8cGVvcGxlJTIwc21pbGluZ3xlbnwwfHx8fDE3MzE3MzExMTd8MA&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by Sam McNamara on Unsplash*
@@ -66,9 +61,7 @@ bonds, and any that we take up for a time must be tied loosely so that
 they can be untied again, quickly and as effortlessly as possible, when
 circumstances change."
 
-> "Most men pursue pleasure with such breathless haste that they hurry
-> past it."  
-> – Søren Kierkegaard
+{% include pull-quote.html quote="Most men pursue pleasure with such breathless haste that they hurry past it." – Søren Kierkegaard %}
 
 We all chase happiness because society told us to. We got these ideas
 via Bluetooth. We thought it was a worthy pursuit, but those who have
@@ -83,7 +76,8 @@ exuberance.
 
 ## Joy versus Happiness: The Prison of Perpetual Happiness
 
-> {% include pull-quote.html quote="Joy is the serious business of Heaven." author="C" %}.S. Lewis
+> {% include pull-quote.html quote="Joy is the serious business of Heaven." author="C.S. Lewis" %}
+
 
 ![a woman on a beach](https://images.unsplash.com/photo-1660629465812-1c550d2a2342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNXx8aGFwcGluZXNzfGVufDB8fHx8MTczMTcyMjIxMnww&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by sandra lansue on Unsplash*
@@ -197,11 +191,13 @@ lies a hidden blessing, a paradox like the privilege of the perpetually
 happy person becoming their prison.
 
 This paradox recalls the ancient Zen koan:  
-A monk asked his master, "What is happiness?"  
+
+{% include pull-quote.html quote=A monk asked his master, "What is happiness?"  
 The master replied, "Grandfather dies, father dies, son dies."  
 The monk, confused, asked how this could be happiness.  
 The master explained, "This is the natural order. Any other way would
-bring great suffering."
+bring great suffering." %}
+
 
 In our relentless pursuit of happiness, we have perhaps forgotten what
 the ancients knew: that happiness is not a destination but a by-product
@@ -211,6 +207,4 @@ us. Perhaps true contentment lies not in the chase, but in the
 acceptance of life's full spectrum of experiences, including those
 moments of divine discontent that make us uniquely human.
 
-> {% include pull-quote.html quote="The purpose of life is not to be happy. It is to be useful, to be
-> honorable, to be compassionate, to have it make some difference that
-> you have lived and lived well." author="Ralph Waldo Emerson" %}
+> {% include pull-quote.html quote="The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." author="Ralph Waldo Emerson" %}
