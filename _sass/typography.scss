@@ -1,27 +1,46 @@
+// Import Sina Nova font from OnlineWebFonts
+@import url('https://db.onlinewebfonts.com/c/faf8d8ddb2bbec6d255985bf1e77a815?family=Sina+Nova+W01+Regular');
+
 // Typography for philosophical content
 .post-content, .page-content {
-  // Headings
+  // Use Sina Nova for body text
+  font-family: 'Sina Nova W01 Regular', 'Sina Nova', 'EB Garamond', 'Georgia', serif;
+  
+  // Headings - revert to better looking fonts
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display', serif;
-    margin: 1.5em 0 0.8em;
+    font-family: 'Playfair Display', 'Charter', serif;
+    margin: 1.8em 0 1em;
     line-height: 1.3;
+    font-weight: 400;
+  }
+  
+  h1 {
+    font-size: 2.4em;
+    font-weight: 600;
   }
   
   h2 {
-    font-size: 1.8em;
+    font-size: 1.9em;
     border-bottom: 1px solid #eee;
-    padding-bottom: 0.3em;
+    padding-bottom: 0.4em;
+    margin-top: 2.2em;
   }
   
   h3 {
-    font-size: 1.5em;
+    font-size: 1.6em;
+    margin-top: 2em;
   }
   
-  // Paragraphs
+  h4 {
+    font-size: 1.3em;
+  }
+  
+  // Paragraphs with better Sina Nova styling
   p {
-    margin-bottom: 1.5em;
-    font-size: 1.1em;
-    line-height: 1.8;
+    margin-bottom: 1.8em;
+    font-size: 1.15em;
+    line-height: 1.75;
+    font-weight: 400;
   }
   
   // Quotes for philosophical passages
