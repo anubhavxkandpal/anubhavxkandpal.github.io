@@ -4,8 +4,7 @@ title: "From Self-Concern to Selfless Activity"
 date: 2025-08-10
 categories: [essays, consciousness]
 reading_time: "12 minute"
-excerpt: "There's something exhausting about people who can't stop talking about themselves. Every conversation circles back to their story, their problems, their drama. And the strange thing is, they seem genuinely fascinated by their own lives—like someone who's fallen in love with their own reflection and can't look away."
----
+excerpt: {% include pull-quote.html quote="There's something exhausting about people who can't stop talking about themselves. Every conversation circles back to their story, their problems, their drama. And the strange thing is, they seem genuinely fascinated by their own lives—like someone who's fallen in love with their own reflection and can't look away." author="--" %}
 
 There's something exhausting about people who can't stop talking about themselves. You know the type. Every conversation somehow circles back to their story, their problems, their latest drama. And the strange thing is, they seem genuinely fascinated by their own lives. Like someone who's fallen in love with their own reflection and can't look away.
 
@@ -31,7 +30,7 @@ Think about a child. They're completely focused on their own needs, their own wo
 
 He mapped this out in seven-year cycles. From birth to seven, children are pure imitation. They absorb everything around them, learning how to be human by copying what they see. From seven to fourteen, they start developing their emotional world, but they're still heavily influenced by authority figures, by the adults around them.
 
-And then from fourteen to twenty-one, something interesting happens. This is when their own inner world really starts to blossom. Their desires, their passions, their independent thinking. Steiner called this the birth of what he termed the "astral body"—the part of us that experiences pleasure and pain, attraction and repulsion.
+And then from fourteen to twenty-one, something interesting happens. This is when their own inner world really starts to blossom. Their desires, their passions, their independent thinking. Steiner called this the birth of what he termed the {% include pull-quote.html quote="astral body" author="the part of us that experiences pleasure and pain, attraction and repulsion" %}.
 
 But here's the crucial part: the "I" proper, according to Steiner, isn't fully born until around age twenty-one. This is when we have the potential for true self-consciousness and genuine freedom.
 
@@ -45,7 +44,7 @@ Steiner was very clear about this transition:
 
 > "Up to the twenty-seventh, twenty-eighth year, the human being is, in a certain respect, a natural product. After that, he is what he makes of himself. Up to this point in time, the progressive forces of development are at work in him, which he brings with him from the spiritual world into the physical. From then on, what he has received from nature begins to fade. And he must then work on himself through his soul and spirit, so that he can continue his development. If he does not do this, he remains at the stage he reached at twenty-seven or twenty-eight."
 
-This is a sobering thought. If we don't consciously work on ourselves after our late twenties, we just stop growing. We become what Steiner called "sclerotic"—dried up, hardened, stuck.
+This is a sobering thought. If we don't consciously work on ourselves after our late twenties, we just stop growing. We become what Steiner called {% include pull-quote.html quote="sclerotic" author="dried up, hardened, stuck" %}.
 
 And I think we all know people like this. People who seem to have stopped developing somewhere in their twenties. They're not necessarily bad people, but there's something stagnant about them. Something that feels closed off to new possibilities.
 
@@ -79,7 +78,7 @@ And this transition brings with it a new kind of inner experience. A feeling tha
 
 This is the existential crisis that hits so many people in their thirties. That sense of emptiness, of standing before a void. The feeling that the things that used to give your life meaning have somehow lost their power.
 
-But Steiner is saying this isn't a breakdown. It's a call to transformation. It's your soul demanding that you find a new way to experience your own "I"—not through the vital forces of youth, but through conscious spiritual activity.
+But Steiner is saying this isn't a breakdown. It's a call to transformation. It's your soul demanding that you find a new way to experience your own {% include pull-quote.html quote="I" author="not through the vital forces of youth, but through conscious spiritual activity" %}.
 
 ## Learning to Love What Doesn't Serve You
 

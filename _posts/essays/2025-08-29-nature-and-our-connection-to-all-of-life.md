@@ -4,13 +4,12 @@ title: "Nature And Our Connection To All Of Life"
 date: 2025-08-29
 categories: [essays, beauty, consciousness]
 reading_time: "10 minute"
-excerpt: "This essay explores our deep, often forgotten, connection to the natural world. It questions the modern illusion of separation from nature, arguing that our well-being is intrinsically linked to the health of the planet. Drawing on indigenous wisdom and scientific insights, it calls for a renewed sense of kinship with all life."
----
+excerpt: {% include pull-quote.html quote="This essay explores our deep, often forgotten, connection to the natural world. It questions the modern illusion of separation from nature, arguing that our well-being is intrinsically linked to the health of the planet. Drawing on indigenous wisdom and scientific insights, it calls for a renewed sense of kinship with all life." author="--" %}
 
-"I went to the woods because I wished to live deliberately, to front
+{% include pull-quote.html quote="I went to the woods because I wished to live deliberately, to front
 only the essential facts of life, and see if I could not learn what it
 had to teach, and not, when I came to die, discover that I had not
-lived." – Henry David Thoreau
+lived." author="Henry David Thoreau" %}
 
 Somehow our connection to nature and our continual search for meaning
 are tied together at the root.
@@ -254,10 +253,10 @@ The people who will depart this planet within the next 50 years don't
 seem to care all that much. And I get that, but does that really help
 anyone?
 
-"The more clearly we can focus our attention on the wonders and
+{% include pull-quote.html quote="The more clearly we can focus our attention on the wonders and
 realities of the universe about us, the less taste we shall have for
 destruction. Wonder and humility are wholesome emotions, and they do not
-exist side by side with a lust for destruction." – Rachel Carson
+exist side by side with a lust for destruction." author="Rachel Carson" %}
 
 We may want to reawaken that reverence that once existed in all our
 cultures. We may want to start seeing the sun as a light-giving entity,

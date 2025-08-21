@@ -4,8 +4,7 @@ title: "The Truth About Happiness Part 2"
 date: 2025-08-15
 categories: [essays, consciousness]
 reading_time: "10 minute"
-excerpt: "This essay explores the 'violence of positivity' in our achievement-driven society. It examines how the constant pressure to be happy and productive, as analyzed by philosopher Byung-Chul Han, leads to burnout and a disconnect from our authentic selves, ultimately turning the pursuit of happiness into a source of suffering."
----
+excerpt: {% include pull-quote.html quote="This essay explores the 'violence of positivity' in our achievement-driven society. It examines how the constant pressure to be happy and productive, as analyzed by philosopher Byung-Chul Han, leads to burnout and a disconnect from our authentic selves, ultimately turning the pursuit of happiness into a source of suffering." author="--" %}
 
 *“The present-day crisis is not that life has become poorer, less
 brilliant, less meaningful, nor that we have less access to happiness
@@ -36,8 +35,8 @@ unacceptable.
 
 ## The Violence of Achievement
 
-"One of the most dangerous forms violence can take is the compulsion to
-do good." -- Simone Weil
+{% include pull-quote.html quote="One of the most dangerous forms violence can take is the compulsion to
+do good." author="- Simone Weil" %}
 
 Han observes that "the achievement-subject stands free from any external
 instance of domination forcing it to work... It is an entrepreneur of
@@ -89,7 +88,7 @@ in a bad loop.
 
 ## The Digital Exhaustion of Being
 
-"We are all exhausted from our own reflection." – Jean Baudrillard
+{% include pull-quote.html quote="We are all exhausted from our own reflection." author="Jean Baudrillard" %}
 
 In the fog of our struggles, the lifting clouds are always aided by the
 mind and its conviction about truth. We are not what the world tells us
@@ -152,7 +151,7 @@ gaps of information or vision. But both human thought and inspiration
 require a void, a gap... Today, there is no longer any intermediary
 space for reflection, for quiet contemplation." This constant
 visibility—both to see and be seen—this ceaseless performance of
-positivity, creates what he terms "digital exhaustion"—a state where we
+positivity, creates what he terms {% include pull-quote.html quote="digital exhaustion" author="a state where we" %}
 are *too tired to even recognize our own fatigue*.
 
 Jean Baudrillard's prophetic observation that "We live in a world where
@@ -170,7 +169,7 @@ As Han observes, "Digital communication enables immediate response.
 Immediacy makes reflection impossible... Respect requires a pathos of
 distance. Today, distance is yielding to promiscuous intimacy." This
 collapse of distance that both Baudrillard and Han identify creates what
-Baudrillard calls "the desert of the real" – a space where authentic
+Baudrillard calls {% include pull-quote.html quote="the desert of the real" author="a space where authentic" %}
 experience becomes impossible because everything is mediated through
 screens and simulations.
 
@@ -211,8 +210,8 @@ that exist. When we start putting focus only on positivity we secretly
 deny the negativity in life. When we start focusing only on the light we
 forget the depth of the dark—not to mention the only time we can enjoy
 the beauty of the stars. It is not too different from people who believe
-sadness to be the only way of all life. We become, in Han's words, "too
-alive to die, too dead to live"—caught in a weird space where authentic
+sadness to be the only way of all life. We become, in Han's words, {% include pull-quote.html quote="too
+alive to die, too dead to live" author="caught in a weird space where authentic" %}
 experience becomes impossible.
 
 If life is just happiness with small respites of sadness, or sadness

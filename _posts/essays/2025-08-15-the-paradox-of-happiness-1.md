@@ -4,8 +4,7 @@ title: "The Paradox Of Happiness"
 date: 2025-08-15
 categories: [essays, consciousness]
 reading_time: "10 minute"
-excerpt: "This essay delves into the modern paradox of happiness, questioning why society's relentless pursuit of it often leads to dissatisfaction. It distinguishes between fleeting, performative happiness and deep, authentic joy, arguing that true contentment is found not in avoiding suffering but in embracing the full spectrum of human experience."
----
+excerpt: {% include pull-quote.html quote="This essay delves into the modern paradox of happiness, questioning why society's relentless pursuit of it often leads to dissatisfaction. It distinguishes between fleeting, performative happiness and deep, authentic joy, arguing that true contentment is found not in avoiding suffering but in embracing the full spectrum of human experience." author="--" %}
 
 # The Paradox of Happiness: Between Joy and Suffering - Part 1
 
@@ -33,10 +32,9 @@ within us. This is why most people seek distractions and change; they
 search for an antidote to their suffering—hoping to become some kind of
 perfect and happy person.
 
-> "Men decide far more problems by hate, love, lust, rage, sorrow, joy,
+> {% include pull-quote.html quote="Men decide far more problems by hate, love, lust, rage, sorrow, joy,
 > hope, fear, illusion, or some other inward emotion, than by reality,
-> authority, any legal standard, judicial precedent, or statute." -
-> Cicero
+> authority, any legal standard, judicial precedent, or statute." author="> Cicero" %}
 
 They believe they do it for themselves but if they do not have viewers
 to witness their happiness, the effort isn’t worth it—so in reality they
@@ -83,7 +81,7 @@ exuberance.
 
 ## Joy versus Happiness: The Prison of Perpetual Happiness
 
-> "Joy is the serious business of Heaven." - C.S. Lewis
+> {% include pull-quote.html quote="Joy is the serious business of Heaven." author="C" %}.S. Lewis
 
 ![a woman on a beach](https://images.unsplash.com/photo-1660629465812-1c550d2a2342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNXx8aGFwcGluZXNzfGVufDB8fHx8MTczMTcyMjIxMnww&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by sandra lansue on Unsplash*
@@ -139,8 +137,8 @@ and those of the mind. Suffering grounds us and joy brings us into
 states of wonder, elation, awe and both can be associated with
 transcendence.
 
-> "Out of suffering have emerged the strongest souls; the most massive
-> characters are seared with scars." - Kahlil Gibran
+> {% include pull-quote.html quote="Out of suffering have emerged the strongest souls; the most massive
+> characters are seared with scars." author="Kahlil Gibran" %}
 
 ## The Folly of the Happiness Chase 
 
@@ -161,8 +159,8 @@ In a strange turn of events, they later welcome despair and depression
 for these states finally offer this person respite and a ‘deep rest’
 from this exhausting search for happiness.
 
-> "The search for happiness is one of the chief sources of
-> unhappiness." - Eric Hoffer
+> {% include pull-quote.html quote="The search for happiness is one of the chief sources of
+> unhappiness." author="Eric Hoffer" %}
 
 Consider the wisdom of the ancient Stoics, particularly Epictetus who
 taught that happiness comes not from getting what we want, but from
@@ -211,6 +209,6 @@ us. Perhaps true contentment lies not in the chase, but in the
 acceptance of life's full spectrum of experiences, including those
 moments of divine discontent that make us uniquely human.
 
-> "The purpose of life is not to be happy. It is to be useful, to be
+> {% include pull-quote.html quote="The purpose of life is not to be happy. It is to be useful, to be
 > honorable, to be compassionate, to have it make some difference that
-> you have lived and lived well." - Ralph Waldo Emerson
+> you have lived and lived well." author="Ralph Waldo Emerson" %}

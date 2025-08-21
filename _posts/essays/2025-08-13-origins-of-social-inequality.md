@@ -4,8 +4,7 @@ title: "Origins Of Social Inequality"
 date: 2025-08-13
 categories: [essays, society]
 reading_time: "10 minute"
-excerpt: "How did the question of social inequality become so central to our thinking? In 1754, European intellectuals encountered indigenous critics who challenged their assumptions about civilization, freedom, and hierarchy. Native American leaders like Kandiaronk questioned why Europeans accepted poverty and arbitrary power when more egalitarian societies existed. What followed was a defensive narrative that dismissed these critiques—leading to today's myths about 'primitive' societies and the inevitability of inequality."
----
+excerpt: {% include pull-quote.html quote="How did the question of social inequality become so central to our thinking? In 1754, European intellectuals encountered indigenous critics who challenged their assumptions about civilization, freedom, and hierarchy. Native American leaders like Kandiaronk questioned why Europeans accepted poverty and arbitrary power when more egalitarian societies existed. What followed was a defensive narrative that dismissed these critiques—leading to today's myths about 'primitive' societies and the inevitability of inequality." author="--" %}
 
 By Anubhav Kandpal
 

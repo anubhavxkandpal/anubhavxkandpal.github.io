@@ -8,8 +8,7 @@ series: "A History Of Yoga"
 series_part: 2
 excerpt: "Now that we've covered what yoga currently is, let's discover what Yoga was. To discover this however, we will need to dive a bit deeper into ancient philosophies of Hinduism and how they influenced each other."
 reading_time: 12
-author: "Anubhav Kandpal"
----
+author: {% include pull-quote.html quote="Anubhav Kandpal" author="--" %}
 
 ![Man sitting beside river painting](https://images.unsplash.com/flagged/photo-1574787929769-db45db9e4f10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMXx8YW5jaWVudCUyMHBoaWxvc29waHl8ZW58MHx8fHwxNzM1MjkyNDg4fDA&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by British Library on Unsplash*
@@ -168,16 +167,16 @@ But in all this, moksha does not wish to introduce more separation. Once
 liberated, a being can understand the true nature of reality and how the
 spiritual and material, like day and night, imply each other.
 
-"The Supreme Good is mokṣha which consists in the permanent
+{% include pull-quote.html quote="The Supreme Good is mokṣha which consists in the permanent
 impossibility of the incidence of pain... in the realisation of the Self
-as Self pure and simple." —*Samkhyakarika* I.3
+as Self pure and simple." author="*Samkhyakarika* I" %}.3
 
 What's interesting here is the Samkhya version—it says that it is
 actually Prakriti (matter) that binds itself to spirit and so it is not
 to free consciousness (purusha) but to free matter itself.
 
-"By seven modes nature binds herself by herself: by one, she releases
-(herself), for the soul's wish" —*Samkhyakarika* Verse 63
+{% include pull-quote.html quote="By seven modes nature binds herself by herself: by one, she releases
+(herself), for the soul's wish" author="*Samkhyakarika* Verse 63" %}
 
 Quite a fascinating take, for we so easily think it is this
 consciousness trapped in the body but what if it is the other way

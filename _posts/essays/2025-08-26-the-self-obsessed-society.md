@@ -4,8 +4,7 @@ title: "The Self Obsessed Society"
 date: 2025-08-26
 categories: [essays, society, consciousness]
 reading_time: "10 minute"
-excerpt: "This essay examines the rise of the self-obsessed society through the lens of philosophers Byung-Chul Han and Slavoj Žižek. It explores how digital culture and the pressure to perform an idealized self lead to a state of 'ideological cynicism' and alienation, trapping individuals in a cycle of self-optimization and dissatisfaction."
----
+excerpt: {% include pull-quote.html quote="This essay examines the rise of the self-obsessed society through the lens of philosophers Byung-Chul Han and Slavoj Žižek. It explores how digital culture and the pressure to perform an idealized self lead to a state of 'ideological cynicism' and alienation, trapping individuals in a cycle of self-optimization and dissatisfaction." author="--" %}
 
 This essay takes the work of two philosophers at the heart of modern
 critique. Byung-Chul Han and Slavoj Žižek’s work has shown us ways in

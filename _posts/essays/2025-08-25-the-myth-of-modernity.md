@@ -4,13 +4,11 @@ title: "The Myth Of Modernity"
 date: 2025-08-25
 categories: [essays, society]
 reading_time: "10 minute"
-excerpt: "This essay challenges the 'myth of modernity,' arguing that despite technological advancements, human nature remains largely unchanged. It questions whether progress has truly empowered humanity or led to a spiritual and ecological crisis, urging a reconnection with our ancient heritage to navigate the future."
----
+excerpt: {% include pull-quote.html quote="This essay challenges the 'myth of modernity,' arguing that despite technological advancements, human nature remains largely unchanged. It questions whether progress has truly empowered humanity or led to a spiritual and ecological crisis, urging a reconnection with our ancient heritage to navigate the future." author="--" %}
 
-"We live in a decaying age. Young people no longer respect their
+{% include pull-quote.html quote="We live in a decaying age. Young people no longer respect their
 parents. They are rude and impatient. They frequently inhabit taverns
-and have no self-control."  
-- Inscription, 6000-year-old Egyptian tomb
+and have no self-control." author="Inscription, 6000-year-old Egyptian tomb" %}
 
 ## The Illusion of Progress
 

@@ -4,8 +4,7 @@ title: "The Hidden Cost of Convenience"
 date: 2025-08-16
 categories: [essays, society, ethics]
 reading_time: "10 minute"
-excerpt: "This essay explores the hidden costs of modern consumerism, revealing how corporate practices and digital isolation fuel our shopping addiction. It examines the environmental and social consequences of our consumption, from the mountains of waste in developing countries to the engineered obsolescence of our devices, and questions what we've lost in our pursuit of convenience."
----
+excerpt: {% include pull-quote.html quote="This essay explores the hidden costs of modern consumerism, revealing how corporate practices and digital isolation fuel our shopping addiction. It examines the environmental and social consequences of our consumption, from the mountains of waste in developing countries to the engineered obsolescence of our devices, and questions what we've lost in our pursuit of convenience." author="--" %}
 
 ## how corporate practices and digital isolation feed our shopping addiction
 
@@ -40,8 +39,8 @@ donated. Is it too late to ask: **What is the true cost of this
 convenience?**
 
 The story becomes more complex when we consider how this system
-perpetuates global inequalities. The very concept of "third world
-countries" – a term that artificially divides our one shared planet –has
+perpetuates global inequalities. The very concept of {% include pull-quote.html quote="third world
+countries" author="a term that artificially divides our one shared planet –has" %}
 become convenient concept for places where our excess can disappear,
 where our waste can vanish from sight but not from existence. This
 geographical and psychological distance allows us to maintain the
@@ -50,9 +49,8 @@ illusion that our consumption habits have no consequences.
 ![boy holding cardboard box](https://images.unsplash.com/photo-1495556650867-99590cea3657?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzMnx8c2hvcHBpbmclMjB3YXN0ZXxlbnwwfHx8fDE3MzQxMDczODh8MA&ixlib-rb-4.0.3&q=80&w=1080)
 *Photo by Hermes Rivera on Unsplash*
 
-*"The cost of a thing is the amount of what I will call life which is
-required to be exchanged for it, immediately or in the long run." –
-Henry David Thoreau*
+*{% include pull-quote.html quote="The cost of a thing is the amount of what I will call life which is
+required to be exchanged for it, immediately or in the long run." author="Henry David Thoreau*" %}
 
 ## From shopping cart to silent shores
 
@@ -144,7 +142,7 @@ disconnection from traditional sources of meaning and belonging.
 Our digital devices, while promising connection, often deepen our
 isolation. The same technology that allows us to buy anything at 2 AM
 has restructured our social relationships into what sociologist Sherry
-Turkle calls "alone together"—physically isolated but digitally
+Turkle calls {% include pull-quote.html quote="alone together" author="physically isolated but digitally" %}
 tethered. This digital isolation creates a perfect storm for
 consumption: we feel increasingly empty and disconnected, while the
 means to temporarily fill that void are literally at our fingertips. The
@@ -192,7 +190,7 @@ as neighbours, collaborators, and friends.
 Similar experiments are blooming globally. Copenhagen's *Folkehuset*
 community centres demonstrate how shared spaces can weave stronger
 social fabric than any shopping mall. In Japan, the concept of
-"*mottainai*" – a deep cultural respect for the inherent value of
+{% include pull-quote.html quote="*mottainai*" author="a deep cultural respect for the inherent value of" %}
 objects – is finding new relevance in modern repair movements. These
 initiatives aren't just about reducing consumption; they're about
 remembering what it means to be human in a world that increasingly

@@ -4,8 +4,7 @@ title: "We Dont Know How To Spend Our Time"
 date: 2025-08-30
 categories: [essays, beauty, consciousness, society]
 reading_time: "10 minute"
-excerpt: "This essay examines our modern inability to spend time meaningfully, exploring why we fill our lives with busyness and distractions. It questions the societal glorification of productivity and the loss of true leisure, suggesting that our struggle with free time reveals a deeper existential unease and a disconnection from our authentic selves."
----
+excerpt: {% include pull-quote.html quote="This essay examines our modern inability to spend time meaningfully, exploring why we fill our lives with busyness and distractions. It questions the societal glorification of productivity and the loss of true leisure, suggesting that our struggle with free time reveals a deeper existential unease and a disconnection from our authentic selves." author="--" %}
 
 Two people walk the street. One admires the beauty of spring, the orange
 flowers and the purple ones near their feet. Red flowers adorn a barren
@@ -56,7 +55,7 @@ videos pushing “facts” on us, on how to hack your body, how to
 streamline our digestive system and so on. When the simple problem may
 be: we don’t move enough.
 
-"Attention is the rarest and purest form of generosity." — Simone Weil
+{% include pull-quote.html quote="Attention is the rarest and purest form of generosity." author="Simone Weil" %}
 
 Our lives are far more sedentary than our ancestors who lived off the
 land. Our lives are far more isolated than our ancestors who lived in
@@ -152,14 +151,14 @@ for entertainment, creating feedback loops that privilege emotional
 reaction over reasoned response. Today, we swim in oceans of information
 while our capacity for meaningful action drowns.
 
-"We must learn to reawaken and keep ourselves awake, not by mechanical
+{% include pull-quote.html quote="We must learn to reawaken and keep ourselves awake, not by mechanical
 aids, but by an infinite expectation of the dawn, which does not forsake
-us even in our soundest sleep." — Henry David Thoreau
+us even in our soundest sleep." author="Henry David Thoreau" %}
 
 ## Reclaiming Our Time: Making Reality Primary 
 
 Philosophers from Husserl to Merleau-Ponty have explored what they call
-"*phenomenological presence*"—the quality of being fully immersed in
+{% include pull-quote.html quote="*phenomenological presence*" author="the quality of being fully immersed in" %}
 one's immediate lived experience. This state of attentive engagement
 with reality is an active, intentional way of perceiving that allows the
 world to reveal itself to us in its rich complexity. When we achieve
@@ -206,8 +205,8 @@ really watching anything but constantly scrolling, as if enjoying the
 movement. My own experience of slavery to my screen has taught me that
 we primarily use this entertainment and distraction as an escape.
 
-"The present is the only time that any of us have to be alive, to know
-anything, to perceive, to learn, to act, to change, to heal." — Jon
+{% include pull-quote.html quote="The present is the only time that any of us have to be alive, to know
+anything, to perceive, to learn, to act, to change, to heal." author="Jon" %}
 Kabat-Zinn
 
 One must concede that screens are a new phenomenon for the human
@@ -253,7 +252,7 @@ screen use is ‘okay’ when it is not.
 I will leave you with this relevant, timely and beautiful poem about
 being present in a forest.
 
-"Lost" — by David Wagoner
+{% include pull-quote.html quote="Lost" author="by David Wagoner" %}
 
 Stand still. The trees ahead and bushes beside you
 

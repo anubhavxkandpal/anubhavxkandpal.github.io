@@ -8,8 +8,7 @@ series: "A History Of Yoga"
 series_part: 1
 excerpt: "From ancient practice to modern movement: How physical culture transformed an ancient tradition. When I first encountered 'yoga' in the West, I felt like a traveller discovering a familiar landscape transformed into something almost unrecognizable."
 reading_time: 10
-author: "Anubhav Kandpal"
----
+author: {% include pull-quote.html quote="Anubhav Kandpal" author="--" %}
 
 From ancient practice to modern movement: How physical culture
 transformed an ancient tradition

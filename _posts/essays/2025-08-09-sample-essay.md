@@ -3,8 +3,7 @@ layout: post
 title: "The Silence Between Words"
 date: 2025-08-09
 categories: essays
-reading_time: "8 minute"
----
+reading_time: {% include pull-quote.html quote="8 minute" author="--" %}
 
 In the space between one word and the next, entire universes unfold. This pause—this breath—contains more meaning than the sounds that bracket it. We have become so accustomed to the rush of language, the torrent of expression, that we forget the profound eloquence of silence.
 

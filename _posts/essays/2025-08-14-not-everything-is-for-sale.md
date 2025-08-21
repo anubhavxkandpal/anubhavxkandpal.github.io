@@ -4,8 +4,7 @@ title: "Not Everything Is For Sale"
 date: 2025-08-14
 categories: [essays, ethics, society]
 reading_time: "10 minute"
-excerpt: "Searching for pure honey revealed a bitter truth about our modern markets: 75% of retail honey is adulterated with sugar syrup. The honey seller faces an impossible choice—produce 100 genuine jars or 500 fake ones to meet demand. This isn't just about honey; it's about how our free market system has created more illusion than opportunity, forcing survival ethics that compromise authenticity. When everything has a price, what happens to purity?"
----
+excerpt: {% include pull-quote.html quote="Searching for pure honey revealed a bitter truth about our modern markets: 75% of retail honey is adulterated with sugar syrup. The honey seller faces an impossible choice—produce 100 genuine jars or 500 fake ones to meet demand. This isn't just about honey; it's about how our free market system has created more illusion than opportunity, forcing survival ethics that compromise authenticity. When everything has a price, what happens to purity?" author="--" %}
 
 Have you ever tried to buy real, pure honey lately? It's harder than
 you'd think. Yesterday, whilst hunting for honey at our local shops, I

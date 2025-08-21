@@ -4,12 +4,11 @@ title: "The Dissatisfied Generation"
 date: 2025-08-09
 categories: [essays, society, consciousness]
 reading_time: "10 minute"
-excerpt: "We are breeding a certain kind of dissatisfied person. Everything provided in this world has only made us more unsatisfied—as if the whole world has grown in so many dimensions, and we could be satisfied ten times over, but it's still not enough."
----
+excerpt: {% include pull-quote.html quote="We are breeding a certain kind of dissatisfied person. Everything provided in this world has only made us more unsatisfied—as if the whole world has grown in so many dimensions, and we could be satisfied ten times over, but it's still not enough." author="--" %}
 
 I think we are breeding a certain kind of dissatisfied person. It seems like everything that is provided in this world has only made us more and more unsatisfied. It's as if the whole world has grown in so many dimensions, and we could be satisfied ten times over, but it's still not enough. The strange thing is, this attitude is now seeping into how we perceive people as well, because it seems like people are also not enough. They're either not smart enough, not good-looking enough, they don't give us enough attention, or they're not spiritual enough. It's as if everything is just fundamentally unsatisfactory to us, yet we keep chasing this satisfaction.
 
-> "Every new thing excites the mind, but a mind that seeks truth turns from the new and seeks the old." — Seneca, Letters to Lucilius
+> {% include pull-quote.html quote="Every new thing excites the mind, but a mind that seeks truth turns from the new and seeks the old." author="Seneca, Letters to Lucilius" %}
 
 I do wonder why we got to such a place and whether it's a factor of our conditioning or just a factor of humans being humans. I think there is a social element to this because our culture has brainwashed us into believing that more is better, that new is better, and that we must use and discard: change jobs, change companies, change partners. We have been told that things are temporary, so we should never really commit to anything (except capitalism, that is). The strange paradox of this is that the more we chase this kind of lifestyle, the more we are permanently dissatisfied.
 
@@ -47,7 +46,7 @@ An adventure is never about arriving at the place; it's about the journey you to
 
 This is not to say that all of society's values are a lie, but rather the ones that promise us things that we might not want, or goals that might never arrive, are the lies that we need to wake up from. And why even say "wake up"? To my mind, it seems like we need to open our eyes to see the way the world is going, to see what we are doing and why we are doing it. Without the ability to introspect and reflect, we have no reason to be sure of anything. Without the ability to reflect, we can take anyone's word for anything as long as it fits in our neat little filters. 
 
-> "We must not wish for the disappearance of our troubles but for the grace to transform them." — Simone Weil
+> {% include pull-quote.html quote="We must not wish for the disappearance of our troubles but for the grace to transform them." author="Simone Weil" %}
 
 ## The Secret of Letting Go
 

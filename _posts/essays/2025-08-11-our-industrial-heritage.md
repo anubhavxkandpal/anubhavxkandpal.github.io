@@ -4,8 +4,7 @@ title: "Our Industrial Heritage"
 date: 2025-08-11
 categories: essays
 reading_time: "10 minute"
-excerpt: "How did we arrive at our current existential crisis of ecological grief? By examining the transformation from Rome's slave-based economy to the bourgeois capitalism of the Industrial Revolution, we discover that economic behavior once guided by ethics has become detached from human values. The result: a system that prioritizes growth over well-being, leaving us to confront whether we can still change course as individuals in the machinery of progress."
----
+excerpt: {% include pull-quote.html quote="How did we arrive at our current existential crisis of ecological grief? By examining the transformation from Rome's slave-based economy to the bourgeois capitalism of the Industrial Revolution, we discover that economic behavior once guided by ethics has become detached from human values. The result: a system that prioritizes growth over well-being, leaving us to confront whether we can still change course as individuals in the machinery of progress." author="--" %}
 
 **Progress and ecological grief**
 

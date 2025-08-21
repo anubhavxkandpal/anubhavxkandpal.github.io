@@ -4,8 +4,7 @@ title: "What Society Tells Us We Should Be"
 date: 2025-08-23
 categories: [essays, society, consciousness]
 reading_time: "10 minute"
-excerpt: "This essay explores how societal and cultural pressures shape our identities, often leading to a disconnect from our authentic selves. It examines the impact of cultural trauma and the illusion of perfectionism, questioning how one can find a genuine path in a world that values security over soul."
----
+excerpt: {% include pull-quote.html quote="This essay explores how societal and cultural pressures shape our identities, often leading to a disconnect from our authentic selves. It examines the impact of cultural trauma and the illusion of perfectionism, questioning how one can find a genuine path in a world that values security over soul." author="--" %}
 
 We drift in an ocean of humanity, each wave of society shaping us,
 moulding us, pushing us toward shores of conformity. Like water flowing
@@ -24,10 +23,9 @@ rediscovered.
 
 ## The Tides of Expectation
 
-> "The most important kind of freedom is to be what you really are. You
+> {% include pull-quote.html quote="The most important kind of freedom is to be what you really are. You
 > trade in your reality for a role. You trade in your sense for an act.
-> You give up your ability to feel, and in exchange, put on a mask." –
-> Jim Morrison
+> You give up your ability to feel, and in exchange, put on a mask." author="> Jim Morrison" %}
 
 The woman tells her child, “Yes, you can do it darling.” You are only a
 darling when you are going after what you desire—or what they desire for
@@ -85,10 +83,10 @@ in a place to respect it, honour it and take care of it.
 
 ## Waves of Cultural Trauma
 
-> "The individual has always had to struggle to keep from being
+> {% include pull-quote.html quote="The individual has always had to struggle to keep from being
 > overwhelmed by the tribe. If you try it, you will be lonely often, and
 > sometimes frightened. But no price is too high to pay for the
-> privilege of owning yourself." – Friedrich Nietzsche
+> privilege of owning yourself." author="Friedrich Nietzsche" %}
 
 I look around me only to see the strange constellations of society
 functioning. They seem to go on and on taking decisions and choices that
@@ -135,8 +133,8 @@ meaning beyond what society tells us we should be.
 
 ## Finding a Harbor in the Storm
 
-> "The only way to deal with an unfree world is to become so absolutely
-> free that your very existence is an act of rebellion." – Albert Camus
+> {% include pull-quote.html quote="The only way to deal with an unfree world is to become so absolutely
+> free that your very existence is an act of rebellion." author="Albert Camus" %}
 
 To break away from the societal conditioning that lives within us
 requires a power we have to find within ourselves. There is no other

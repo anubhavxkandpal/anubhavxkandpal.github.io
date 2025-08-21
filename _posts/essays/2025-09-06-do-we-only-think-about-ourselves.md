@@ -33,8 +33,8 @@ hasn't stretched beyond its first boundaries, the person sees only
 themselves, and even the world they see, so rich and multifaceted, is
 secondary, a mere backdrop to their own starring role.
 
-*"In the universe, there are things that are known, and things that are
-unknown, and in between, there are doors." – William Blake*
+*{% include pull-quote.html quote="In the universe, there are things that are known, and things that are
+unknown, and in between, there are doors." author="William Blake*" %}
 
 It's a strange human tendency, isn't it? This constant circling around
 ourselves, as if each of us is a sun with our own planets of thoughts
@@ -68,17 +68,16 @@ that because they cannot see, no one can see them. It's a world filtered
 almost completely through their own lens, a universe where their
 perceptions are the absolute truth.
 
-As we grow, we're supposed to develop what's called a "theory of mind"
--- the crucial understanding that others have their own independent
+As we grow, we're supposed to develop what's called a {% include pull-quote.html quote="theory of mind" author="- the crucial understanding that others have their own independent" %}
 mental states, their own beliefs, desires, intentions, and knowledge,
 which may be completely different from our own. This is the foundation
 of social interaction, the base upon which empathy and complex
 relationships are built.
 
-*"Perhaps all the dragons in our lives are princesses who are only
+*{% include pull-quote.html quote="Perhaps all the dragons in our lives are princesses who are only
 waiting to see us act, just once, with beauty and courage. Perhaps
 everything that frightens us is, in its deepest essence, something
-helpless that wants our love." – Rainer Maria Rilke*
+helpless that wants our love." author="Rainer Maria Rilke*" %}
 
 Yet, echoes of this egocentrism can remain, sometimes quite loudly, into
 teenage years and even adulthood, making me wonder if what I see in
@@ -120,7 +119,7 @@ when life circumstances—perhaps trauma, long-term stress, or even too
 much praise without grounding—push a person back into a more
 self-protective, self-focused mode, we might see this pattern. Their
 interactions with others might then become mostly transactional, framed
-by "duties or usefulness" — what can this person do for me, how do they
+by {% include pull-quote.html quote="duties or usefulness" author="what can this person do for me, how do they" %}
 reflect on me, or what do I owe them in a way that serves my story,
 rather than a genuine curiosity about who they are, what they feel, and
 what the world looks like through their eyes.
@@ -221,7 +220,7 @@ mean recognising that the self, however important, is not the whole
 landscape, not the only flower in the garden.
 
 The philosopher Iris Murdoch wrote beautifully about this, calling it
-"unselfing"—those moments when attention to something outside ourselves
+{% include pull-quote.html quote="unselfing" author="those moments when attention to something outside ourselves" %}
 (beauty, art, another person's reality) jolts us out of our
 self-absorption. Instead of losing ourselves we find ourselves as part
 of something larger, something that includes but transcends our

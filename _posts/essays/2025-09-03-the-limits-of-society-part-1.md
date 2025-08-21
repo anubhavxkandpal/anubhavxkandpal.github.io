@@ -4,14 +4,13 @@ title: "The Limits Of Society"
 date: 2025-09-03
 categories: essays
 reading_time: "10 minute"
-excerpt: "This essay explores the inherent limitations of societal structures, questioning whether our attempts to create order inevitably lead to new forms of control. Drawing on thinkers like Freud, Fromm, and Marcuse, it examines the tension between individual freedom and collective security, and asks if we can build a society that nurtures our humanity rather than suppressing it."
----
+excerpt: {% include pull-quote.html quote="This essay explores the inherent limitations of societal structures, questioning whether our attempts to create order inevitably lead to new forms of control. Drawing on thinkers like Freud, Fromm, and Marcuse, it examines the tension between individual freedom and collective security, and asks if we can build a society that nurtures our humanity rather than suppressing it." author="--" %}
 
-*"Progress is not an illusion; it happens, but it is slow and invariably
+*{% include pull-quote.html quote="Progress is not an illusion; it happens, but it is slow and invariably
 disappointing. Things always develop more slowly than one has expected.
 But equally, when one has successfully avoided disaster for a
 considerable time, the danger that one is in shows the tendency to be
-forgotten." - George Orwell*
+forgotten." author="George Orwell*" %}
 
 The isolated individual has reached their peak—they cannot be more
 alone. Our rationalistic society has reached its limit—our technology
@@ -77,9 +76,9 @@ For it is impossible for us to imagine a harmonious existence between
 mankind and machine. This is because we secretly believe, if we were the
 machine we would readily rule over humans—clearly a lesser species.
 
-*"To the degree that \[humans\] master their tools, they can invest the
+*{% include pull-quote.html quote="To the degree that \[humans\] master their tools, they can invest the
 world with their meaning; to the degree that they are mastered by their
-tools, the shape of the tool determines their own self-image." – Ivan
+tools, the shape of the tool determines their own self-image." author="Ivan" %}
 Illich*
 
 The amount of information we have been able to process and understand
@@ -104,7 +103,7 @@ seems we missed the point all together. The interpretation of
 information is far more important than the amount of information
 available.
 
-*"We are drowning in information, while starving for wisdom." - E.O.
+*{% include pull-quote.html quote="We are drowning in information, while starving for wisdom." author="E" %}.O.
 Wilson*
 
 We also cannot easily teach or tell people how to interpret what they
@@ -182,9 +181,9 @@ uses natural resources, a company that provides only services also uses
 natural resources—for let us not be so quick to forget that humans are
 parts of nature and thus are aptly called human resources.
 
-*"The ecological crisis is a social crisis. The very notion of the
+*{% include pull-quote.html quote="The ecological crisis is a social crisis. The very notion of the
 domination of nature by man stems from the very real domination of human
-by human." – Murray Bookchin*
+by human." author="Murray Bookchin*" %}
 
 This exploitation of nature and human resources springs from the same
 root – a worldview that sees everything as a resource to be used rather

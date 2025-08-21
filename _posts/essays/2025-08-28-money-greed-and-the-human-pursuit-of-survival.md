@@ -4,12 +4,11 @@ title: "Money Greed And The Human Pursuit Of Survival"
 date: 2025-08-28
 categories: [essays, ethics, society]
 reading_time: "10 minute"
-excerpt: "This essay explores the complex relationship between money, greed, and the human survival instinct. It questions whether our pursuit of wealth is a natural drive or a socially conditioned one, examining how our relationship with money shapes our values and whether true security can be found in a system that often prioritizes profit over people."
----
+excerpt: {% include pull-quote.html quote="This essay explores the complex relationship between money, greed, and the human survival instinct. It questions whether our pursuit of wealth is a natural drive or a socially conditioned one, examining how our relationship with money shapes our values and whether true security can be found in a system that often prioritizes profit over people." author="--" %}
 
-"For the love of money is the root of all kinds of evil. And some
+{% include pull-quote.html quote="For the love of money is the root of all kinds of evil. And some
 people, craving money, have wandered from the true faith and pierced
-themselves with many sorrows." – Timothy 6:10
+themselves with many sorrows." author="Timothy 6:10" %}
 
 ## The Primal Drive: From Survival to Status
 
@@ -41,8 +40,8 @@ What if I need to bribe an invading army? It is in such cases where fear
 for one’s life comes in that a human being starts hoarding, preparing
 for a catastrophic eventuality that only exists in their mind.
 
-"Money is only a tool. It will take you wherever you wish, but it will
-not replace you as the driver." - Ayn Rand
+{% include pull-quote.html quote="Money is only a tool. It will take you wherever you wish, but it will
+not replace you as the driver." author="Ayn Rand" %}
 
 Erich Fromm, in his book "*Escape from Freedom,*" argues that greed is
 often a response to existential anxiety and the fear of insignificance.
@@ -201,8 +200,7 @@ forces that perpetuate inequality.
 
 ## Being Versus Having: Rediscovering What Matters
 
-"The price of anything is the amount of life you exchange for it." –
-Henry David Thoreau
+{% include pull-quote.html quote="The price of anything is the amount of life you exchange for it." author="Henry David Thoreau" %}
 
 As we draw towards a conclusion we must think of the freedom and leisure
 we think money can provide.

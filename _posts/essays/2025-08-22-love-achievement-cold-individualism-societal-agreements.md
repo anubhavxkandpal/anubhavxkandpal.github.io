@@ -4,8 +4,7 @@ title: "The Pursuit of Love Through Achievement"
 date: 2025-08-22
 categories: [essays, consciousness, society]
 reading_time: "10 minute"
-excerpt: "From the moment a baby struggles to put on their t-shirt, we learn that accomplishment equals love. This early conditioning drives us toward endless achievement-seeking, while our 'cold individualism' masks our deep interdependence. We chase comfort and reduce others to mere facts, forgetting that growth happens through challenges, not perfection. As Rilke reminds us, 'Perhaps all the dragons in our lives are princesses'—waiting for us to recognize that love asks nothing of us at all."
----
+excerpt: {% include pull-quote.html quote="From the moment a baby struggles to put on their t-shirt, we learn that accomplishment equals love. This early conditioning drives us toward endless achievement-seeking, while our 'cold individualism' masks our deep interdependence. We chase comfort and reduce others to mere facts, forgetting that growth happens through challenges, not perfection. As Rilke reminds us, 'Perhaps all the dragons in our lives are princesses'—waiting for us to recognize that love asks nothing of us at all." author="--" %}
 
 # The Early Seeds of Achievement-Based Love
 
@@ -19,7 +18,7 @@ frustration—either externally when we don't perform, or internally when
 we do but find ourselves somehow still unfulfilled.
 
 In this dance of early love and achievement, we mirror what Winnicott
-called the "good enough mother"—not the perfect parent, but one who
+called the {% include pull-quote.html quote="good enough mother" author="not the perfect parent, but one who" %}
 gradually allows disappointment to enter the child's world. Yet somehow
 our modern lives have twisted this natural process. Where once there was
 room for imperfection and growth, we now find ourselves trapped in an
@@ -328,8 +327,8 @@ reliance on others and the systems we've collectively created.
 Our increasing individuality is further fueled by the pursuit of
 comfort. Paradoxically, it is often through facing challenges and
 hardships that people form the strongest bonds. The shared experience of
-weathering life's storms creates what Aristotle called "friendships of
-virtue"—relationships built on mutual respect and shared values.
+weathering life's storms creates what Aristotle called {% include pull-quote.html quote="friendships of
+virtue" author="relationships built on mutual respect and shared values" %}.
 
 Khalil Gibran wisely noted, "Comfort kills the soul," and indeed,
 excessive comfort can rob us of vital experiences that shape our

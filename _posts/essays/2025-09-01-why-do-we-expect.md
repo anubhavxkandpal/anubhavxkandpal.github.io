@@ -4,11 +4,10 @@ title: "Why Do We Expect"
 date: 2025-09-01
 categories: essays
 reading_time: "10 minute"
-excerpt: "This essay delves into the nature of expectation, exploring how our projections and desires shape our relationships and lead to disappointment. It examines the psychological roots of our expectations, from childhood conditioning to the 'repetition compulsion,' and questions whether we can learn to love people for who they are, not who we expect them to be."
----
+excerpt: {% include pull-quote.html quote="This essay delves into the nature of expectation, exploring how our projections and desires shape our relationships and lead to disappointment. It examines the psychological roots of our expectations, from childhood conditioning to the 'repetition compulsion,' and questions whether we can learn to love people for who they are, not who we expect them to be." author="--" %}
 
-"Between what is said and not meant, and what is meant and not said,
-most of love is lost." — Kahlil Gibran
+{% include pull-quote.html quote="Between what is said and not meant, and what is meant and not said,
+most of love is lost." author="Kahlil Gibran" %}
 
 Why do we want things from one another? We struggle for power and we
 struggle in love. And so the truth is we struggle. It is in the nature
@@ -107,8 +106,8 @@ there’s a small difference. The farmer knows if the land is not treated
 properly, if it isn’t respected then we have a poor harvest or worse,
 crop failure.
 
-"We have forgotten how to be good guests, how to walk lightly on the
-earth as its other creatures do." — Barbara Ward
+{% include pull-quote.html quote="We have forgotten how to be good guests, how to walk lightly on the
+earth as its other creatures do." author="Barbara Ward" %}
 
 The farmer knows not to expect more than one can hope for, and yet knows
 still to respect the land for what it provides—treating it almost with a
@@ -177,8 +176,8 @@ question would not be of expectation and trying to get something out of
 them, it would be about respect. An honest observation of a person.
 Consequently, it would lead us to an honest observation about ourselves.
 
-"The real voyage of discovery consists not in seeking new landscapes,
-but in having new eyes." — Marcel Proust
+{% include pull-quote.html quote="The real voyage of discovery consists not in seeking new landscapes,
+but in having new eyes." author="Marcel Proust" %}
 
 We could look at the soil of each other’s lives and find ways to share
 with each other, our gifts and our struggles. The nature of reality is

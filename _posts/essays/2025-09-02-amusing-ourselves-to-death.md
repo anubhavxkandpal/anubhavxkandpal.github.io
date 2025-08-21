@@ -4,8 +4,7 @@ title: "Amusing Ourselves To Death"
 date: 2025-09-02
 categories: essays
 reading_time: "10 minute"
-excerpt: "This essay explores Neil Postman's prophetic warning in 'Amusing Ourselves to Death,' examining how our culture's shift from print to screen has transformed public discourse into a form of entertainment. It delves into the consequences of a society that prioritizes amusement over rational thought, and questions our ability to engage with serious ideas in an age of endless distraction."
----
+excerpt: {% include pull-quote.html quote="This essay explores Neil Postman's prophetic warning in 'Amusing Ourselves to Death,' examining how our culture's shift from print to screen has transformed public discourse into a form of entertainment. It delves into the consequences of a society that prioritizes amusement over rational thought, and questions our ability to engage with serious ideas in an age of endless distraction." author="--" %}
 
 I am scrolling on Reddit and I see a video of Donald Trump dancing with
 a ceremonial sword. It seems funny, but also like a serious moment. A
@@ -163,7 +162,7 @@ addictive pictures and sounds. The "bite-sized" nature isn't just about
 it being short; it's also about the speed and the amount. We consume
 little bits of information very quickly, rarely stopping to digest them,
 question them, or connect the pieces. Our mental ability to stay focused
-gets weaker, leading to what some people bluntly call "brain rot"—a
+gets weaker, leading to what some people bluntly call {% include pull-quote.html quote="brain rot" author="a" %}
 feeling that we're losing the ability to focus, think critically,
 remember things properly, or solve complex problems. The constant flood
 of information trains us to be distracted—and to look for distractions.
