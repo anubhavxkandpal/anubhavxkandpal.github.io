@@ -2,21 +2,93 @@
 layout: default
 ---
 <article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-meta">
-    <time datetime="{{ page.date | date_to_xmlschema }}">
-      {{ page.date | date: site.date_format }}
-    </time>
-    {% if page.categories.size > 0 %}
-    <span class="categories">
-      in 
-      {% for category in page.categories %}
-      <a href="/categories/{{ category | slugify }}/">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
-      {% endfor %}
-    </span>
-    {% endif %}
+  {% if page.featured_image %}
+  <div class="post-hero-image">
+    <img src="{{ page.featured_image | relative_url }}" alt="{{ page.title }}">
   </div>
+  {% endif %}
+  
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: site.date_format }}
+      </time>
+      {% if page.categories.size > 0 %}
+      <span class="categories">
+        in 
+        {% for category in page.categories %}
+        <a href="/categories/{{ category | slugify }}/">{{ category | capitalize }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </span>
+      {% endif %}
+      {% if page.reading_time %}
+      <span class="reading-time">{{ page.reading_time }} minute read</span>
+      {% endif %}
+    </div>
+  </header>
+  
   <div class="post-content">
     {{ content }}
+  </div>
+  
+  {% if page.series %}
+  <div class="series-navigation">
+    <h3>This essay is part of: {{ page.series }}</h3>
+    {% assign series_posts = site.posts | where: "series", page.series | sort: "series_part" %}
+    <div class="series-list">
+      {% for series_post in series_posts %}
+      <div class="series-item {% if series_post.url == page.url %}current{% endif %}">
+        {% if series_post.series_part %}
+        <span class="series-number">Part {{ series_post.series_part }}</span>
+        {% endif %}
+        <a href="{{ series_post.url | relative_url }}">{{ series_post.title }}</a>
+      </div>
+      {% endfor %}
+    </div>
+    
+    <!-- Previous/Next Navigation -->
+    {% assign current_index = 0 %}
+    {% for series_post in series_posts %}
+      {% if series_post.url == page.url %}
+        {% assign current_index = forloop.index0 %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    
+    <div class="series-nav-buttons">
+      {% if current_index > 0 %}
+        {% assign prev_post = series_posts[current_index | minus: 1] %}
+        <a href="{{ prev_post.url | relative_url }}" class="series-nav prev">
+          ← Previous: {{ prev_post.title }}
+        </a>
+      {% endif %}
+      
+      {% assign next_index = current_index | plus: 1 %}
+      {% if next_index < series_posts.size %}
+        {% assign next_post = series_posts[next_index] %}
+        <a href="{{ next_post.url | relative_url }}" class="series-nav next">
+          Next: {{ next_post.title }} →
+        </a>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+  
+  <!-- Related Posts -->
+  <div class="related-posts">
+    <h3>Related Reflections</h3>
+    {% assign related_posts = site.related_posts | limit: 3 %}
+    {% if related_posts.size == 0 %}
+      {% assign related_posts = site.posts | where_exp: "post", "post.categories contains page.categories.first" | limit: 3 %}
+    {% endif %}
+    <div class="related-grid">
+      {% for related in related_posts %}
+      <article class="related-card">
+        <h4><a href="{{ related.url | relative_url }}">{{ related.title }}</a></h4>
+        <p>{{ related.excerpt | strip_html | truncatewords: 15 }}</p>
+      </article>
+      {% endfor %}
+    </div>
   </div>
 </article>

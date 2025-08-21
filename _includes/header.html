@@ -12,8 +12,18 @@
   </div>
   <nav class="site-nav">
     <a href="{{ "/" | relative_url }}" class="nav-link">Home</a>
-    <a href="{{ "/essays/" | relative_url }}" class="nav-link">Essays</a>
-    <a href="{{ "/poetry/" | relative_url }}" class="nav-link">Poetry</a>
+    
+    <div class="nav-dropdown">
+      <span class="nav-link dropdown-toggle">Essays ▾</span>
+      <div class="dropdown-content">
+        <a href="/categories/consciousness/">Consciousness</a>
+        <a href="/categories/ethics/">Ethics</a>
+        <a href="/categories/beauty/">Beauty</a>
+        <a href="/categories/society/">Society</a>
+        <a href="/archive/">All Essays</a>
+      </div>
+    </div>
+    
     <a href="{{ "/about/" | relative_url }}" class="nav-link">About</a>
     <a href="{{ "/contact/" | relative_url }}" class="nav-link">Contact</a>
   </nav>

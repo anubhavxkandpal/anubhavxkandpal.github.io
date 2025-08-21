@@ -4,7 +4,7 @@ title: "Why We Can't Think Beyond Capitalism"
 date: 2025-08-19
 categories: essays
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay explores Mark Fisher's concept of 'Capitalist Realism'—the pervasive sense that capitalism is the only viable system, making it impossible to imagine alternatives. It delves into how this ideology contributes to a mental health crisis by promoting a sense of 'reflexive impotence' and individual failure, and calls for a reawakening of our collective capacity to dream of different futures."
 ---
 
 We all know this food called pizza. Let’s imagine a scenario where
@@ -40,6 +40,9 @@ can't find it, doesn't mean the evidence doesn't exist.
 “Compared to cavemen, who were a 1, on the scale of human development we
 are a 5. And we think we've made it, but we don't realise that the scale
 goes to a million.” – George Lucas
+
+![a man holding a green sign in front of a crowd of people](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8f4a7f0-0e48-4000-95c7-3d04e4efdbb7_1080x859.jpeg)
+*Photo by William Gibson on Unsplash*
 
 ## Capitalist Realism
 
@@ -124,7 +127,10 @@ naturally led to a disappearance of our sense of collective
 responsibility—because somehow we believe no one else cares so we don’t
 have to either.
 
-## The Mental Health Problem 
+![brown concrete building during daytime](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdc5cd23-ebff-4e8b-a2e6-0eb35945f1c5_1080x849.jpeg)
+*Photo by Mitch on Unsplash*
+
+## The Mental Health Problem
 
 People do care though, they care more than we can know. But we’re all
 trapped and need to look out for ourselves. The will to survive is more
@@ -223,6 +229,9 @@ our deepest held beliefs.
 Fisher wrote: "**It's easier to imagine the end of the world than the
 end of capitalism.**" And that’s why it is a powerful idea that has
 grasped us so tightly.
+
+![a large sign that reads the name of the town](https://images.unsplash.com/photo-1715654177939-2206d89e6e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw2fHxlbmQlMjBvZiUyMHRoZSUyMHdvcmxkfGVufDB8fHx8MTczNjA1MjEzM3ww&ixlib-rb-4.0.3&q=80&w=1080)
+*Photo by Mandy Ferrer on Unsplash*
 
 I would like to quote a paragraph verbatim from [this article from
 *Jacobin*

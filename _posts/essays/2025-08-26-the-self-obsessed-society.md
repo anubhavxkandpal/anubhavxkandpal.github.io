@@ -4,7 +4,7 @@ title: "The Self Obsessed Society"
 date: 2025-08-26
 categories: essays
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay examines the rise of the self-obsessed society through the lens of philosophers Byung-Chul Han and Slavoj Žižek. It explores how digital culture and the pressure to perform an idealized self lead to a state of 'ideological cynicism' and alienation, trapping individuals in a cycle of self-optimization and dissatisfaction."
 ---
 
 This essay takes the work of two philosophers at the heart of modern
@@ -41,6 +41,9 @@ becomes sacred and privacy profane. In our society, your value is not
 measured by inner worth but by visibility, by the degree to which one
 can be seen, liked, and followed. The digital age has transformed the
 traditional religious impulse into a compulsive need for self-display.
+
+![woman in black shirt covering face with hands](https://substackcdn.com/image/fetch/$s_!uebz!f_autoq_auto:goodfl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26b8d197-8bae-47e6-81ff-eca1616d05b8_1080x1086.jpeg)
+*Photo by Joeyy Lee on Unsplash*
 
 ## The Performance: A Cracked Mirror
 
@@ -111,6 +114,9 @@ crafted caption. Our digital avatars both reflect and construct our
 reality, making it increasingly difficult to distinguish between the
 authentic self and the curated one.
 
+![person taking picture of the foods](https://images.unsplash.com/photo-1472393365320-db77a5abbecc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyN3x8c29jaWFsJTIwbWVkaWElMjB0cmFwfGVufDB8fHx8MTczNjY1NzAyM3ww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Eaters Collective on Unsplash*
+
 ## The Trap
 
 This crisis of authenticity isn't limited to digital natives. Those who
@@ -171,6 +177,8 @@ generation. Instead of enjoying their old age, or their circumstances,
 they find themselves dissatisfied with everything because something in
 them calls for more.
 
+![A person's hands typing on a vintage typewriter.](https://substackcdn.com/image/fetch/$s_!xVHv!f_autoq_auto:goodfl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F747538ff-949d-436b-bf7e-606662761e21_1472x832.jpeg)
+
 ## Breaking Free
 
 In the end, no one wins. We're all failures to ourselves because we've
@@ -217,4 +225,3 @@ reflection, but in the spaces between reflections, in the shadows our
 society so desperately tries to eliminate. The question isn't whether
 we'll choose perfection or imperfection, but whether we're brave enough
 to shatter the mirror altogether.
-

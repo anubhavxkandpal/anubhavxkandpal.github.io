@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="category-page">
+  <header class="category-header">
+    <h1>{{ page.category | capitalize }}</h1>
+    <p class="category-description">{{ page.description }}</p>
+  </header>
+  
+  <div class="category-posts">
+    {% assign posts = site.categories[page.category] %}
+    {% if posts.size > 0 %}
+      <div class="articles-grid">
+        {% for post in posts %}
+        <article class="article-card">
+          {% if post.featured_image %}
+          <div class="article-image">
+            <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
+          </div>
+          {% endif %}
+          <div class="article-content">
+            <h3 class="article-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h3>
+            <p class="article-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+            <div class="article-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%B %d, %Y" }}
+              </time>
+              {% if post.reading_time %}
+              <span class="reading-time">{{ post.reading_time }} min read</span>
+              {% endif %}
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p class="no-posts">No essays found in this category yet.</p>
+    {% endif %}
+  </div>
+</div>

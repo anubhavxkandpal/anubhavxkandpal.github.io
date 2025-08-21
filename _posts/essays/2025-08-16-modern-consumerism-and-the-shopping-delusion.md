@@ -4,7 +4,7 @@ title: "The Hidden Cost of Convenience"
 date: 2025-08-16
 categories: essays
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay explores the hidden costs of modern consumerism, revealing how corporate practices and digital isolation fuel our shopping addiction. It examines the environmental and social consequences of our consumption, from the mountains of waste in developing countries to the engineered obsolescence of our devices, and questions what we've lost in our pursuit of convenience."
 ---
 
 ## how corporate practices and digital isolation feed our shopping addiction

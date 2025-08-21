@@ -1,0 +1,68 @@
+<div class="newsletter-signup">
+  <div class="newsletter-content">
+    <h3>Join the Contemplative Journey</h3>
+    <p>Receive new essays on philosophy, consciousness, and the art of thoughtful living.</p>
+    <form action="https://formspree.io/f/your-form-id" method="POST" class="newsletter-form">
+      <input type="email" name="email" placeholder="Your email address" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>
+</div>
+
+<style>
+  .newsletter-signup {
+    margin: 3em 0;
+    padding: 2em;
+    background: linear-gradient(135deg, rgba(255, 182, 193, 0.08) 0%, rgba(255, 182, 193, 0.03) 100%);
+    border-radius: 12px;
+    text-align: center;
+  }
+  
+  .newsletter-content h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    color: #333;
+  }
+  
+  .newsletter-content p {
+    color: #666;
+    margin-bottom: 1.5em;
+  }
+  
+  .newsletter-form {
+    display: flex;
+    gap: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .newsletter-form input {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 1em;
+  }
+  
+  .newsletter-form button {
+    padding: 12px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+  }
+  
+  .newsletter-form button:hover {
+    background-color: #555;
+  }
+  
+  @media (max-width: 600px) {
+    .newsletter-form {
+      flex-direction: column;
+    }
+  }
+</style>

@@ -4,7 +4,7 @@ title: "The Lost Art Of Suffering Part 3"
 date: 2025-08-21
 categories: essays
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "In our rush to smooth out life’s rough edges, we’ve begun to lose something precious—the art of sitting with ourselves in the quiet spaces between doing. This essay explores how our society's relentless push for positivity and productivity prevents us from engaging with the contemplative life, a state that allows for genuine human experience, including the necessary shadows of pain and doubt."
 ---
 
 “Let everything happen to you: beauty and terror. Just keep going. No

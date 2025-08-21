@@ -2,9 +2,14 @@
 layout: post
 title: "A History Of Yoga: The Pizza Effect"
 date: 2025-08-17
-categories: essays
-reading_time: "10 minute"
-excerpt: ""
+categories: [society, consciousness]
+tags: [yoga, culture, spirituality, history]
+series: "A History Of Yoga"
+series_part: 1
+featured_image: "/assets/images/yoga-history-featured.jpg"
+excerpt: "From ancient practice to modern movement: How physical culture transformed an ancient tradition. When I first encountered 'yoga' in the West, I felt like a traveller discovering a familiar landscape transformed into something almost unrecognizable."
+reading_time: 10
+author: "Anubhav Kandpal"
 ---
 
 From ancient practice to modern movement: How physical culture

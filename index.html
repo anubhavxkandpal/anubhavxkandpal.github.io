@@ -1,0 +1,96 @@
+---
+layout: default
+---
+
+<div class="homepage">
+  <!-- Featured Article Hero Section -->
+  {% assign featured_post = site.posts.first %}
+  <section class="hero-section">
+    <article class="featured-article">
+      {% if featured_post.featured_image %}
+      <div class="featured-image">
+        <img src="{{ featured_post.featured_image | relative_url }}" alt="{{ featured_post.title }}">
+      </div>
+      {% endif %}
+      <div class="featured-content">
+        <span class="featured-label">Featured Essay</span>
+        <h1 class="featured-title">
+          <a href="{{ featured_post.url | relative_url }}">{{ featured_post.title }}</a>
+        </h1>
+        <p class="featured-excerpt">{{ featured_post.excerpt | strip_html | truncatewords: 40 }}</p>
+        <div class="featured-meta">
+          <time datetime="{{ featured_post.date | date_to_xmlschema }}">
+            {{ featured_post.date | date: "%B %d, %Y" }}
+          </time>
+          {% if featured_post.reading_time %}
+          <span class="reading-time">{{ featured_post.reading_time }} min read</span>
+          {% endif %}
+        </div>
+      </div>
+    </article>
+  </section>
+
+  <!-- Author Introduction -->
+  <section class="author-intro">
+    <div class="intro-content">
+      <h2>Philosophical Inquiry Through Meditative Prose</h2>
+      <p>Welcome to Heart of Reason, a space dedicated to exploring philosophical ideas through thoughtful, flowing prose that invites contemplation rather than mere consumption. Here, we journey through the landscapes of consciousness, ethics, beauty, and the profound questions that shape human experience.</p>
+    </div>
+  </section>
+
+  <!-- Content Categories -->
+  <section class="content-categories">
+    <h2>Explore by Theme</h2>
+    <div class="category-grid">
+      <a href="/categories/consciousness/" class="category-card">
+        <h3>Consciousness</h3>
+        <p>Explorations of awareness, perception, and the nature of mind</p>
+      </a>
+      <a href="/categories/ethics/" class="category-card">
+        <h3>Ethics</h3>
+        <p>Moral philosophy and the question of how we ought to live</p>
+      </a>
+      <a href="/categories/beauty/" class="category-card">
+        <h3>Beauty</h3>
+        <p>Aesthetic philosophy and the appreciation of sublime experience</p>
+      </a>
+      <a href="/categories/society/" class="category-card">
+        <h3>Society</h3>
+        <p>Social philosophy and our collective human journey</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- Recent Reflections -->
+  <section class="recent-reflections">
+    <h2>Recent Reflections</h2>
+    <div class="articles-grid">
+      {% for post in site.posts limit:6 offset:1 %}
+      <article class="article-card">
+        {% if post.featured_image %}
+        <div class="article-image">
+          <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
+        </div>
+        {% endif %}
+        <div class="article-content">
+          {% if post.categories.size > 0 %}
+          <span class="article-category">{{ post.categories.first | capitalize }}</span>
+          {% endif %}
+          <h3 class="article-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          <p class="article-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+          <div class="article-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%B %d, %Y" }}
+            </time>
+            {% if post.reading_time %}
+            <span class="reading-time">{{ post.reading_time }} min read</span>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+</div>

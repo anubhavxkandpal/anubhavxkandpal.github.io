@@ -4,7 +4,7 @@ title: "The Myth Of Modernity"
 date: 2025-08-25
 categories: essays
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay challenges the 'myth of modernity,' arguing that despite technological advancements, human nature remains largely unchanged. It questions whether progress has truly empowered humanity or led to a spiritual and ecological crisis, urging a reconnection with our ancient heritage to navigate the future."
 ---
 
 "We live in a decaying age. Young people no longer respect their
@@ -26,6 +26,9 @@ smartphones. Ignorance is still ignorance, albeit with a general
 consensus from the internet. Hatred is still rampant and with the rise
 of the internet has only found new and ever widening digital channels to
 spread its false message.
+
+![green leafed trees](https://images.unsplash.com/photo-1526572728358-228f6b8ca29b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyNHx8bW9kZXJufGVufDB8fHx8MTczODQ3MTQ5NXww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Serhat Beyazkaya on Unsplash*
 
 We are not modern. I want to start out by stating this fact—we are
 living in a myth of modernity. We didn’t get a fresh start with all this
@@ -60,6 +63,9 @@ civilisations and religions knew about the stars and plotted their
 movement to accuracy. They even determined the circumference of the
 earth through the stars. A feat we could not imagine accomplishing. Can
 we still entertain the notion that we are modern?
+
+![Several white arrows pointing upwards on a wooden wall](https://images.unsplash.com/photo-1465343161283-c1959138ddaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxwcm9ncmVzc3xlbnwwfHx8fDE3Mzg0NjQ1Mjh8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Jungwoo Hong on Unsplash*
 
 ## The Price of Progress
 
@@ -148,6 +154,9 @@ what is right and what is wrong, what is the meaning of life and how
 does one live it. But all that is irrelevant if we don’t ask ourselves
 this one question: Who are we?  
 There is no short answer to this question.
+
+![dome cathedral](https://images.unsplash.com/photo-1492000984364-f025f4ea856a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNXx8YW5jaWVudHxlbnwwfHx8fDE3Mzg0MTQ2MjV8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Amisha Nakhwa on Unsplash*
 
 ## Remembering Our Heritage
 

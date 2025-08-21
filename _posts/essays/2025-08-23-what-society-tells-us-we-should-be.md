@@ -4,7 +4,7 @@ title: "What Society Tells Us We Should Be"
 date: 2025-08-23
 categories: essays
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay explores how societal and cultural pressures shape our identities, often leading to a disconnect from our authentic selves. It examines the impact of cultural trauma and the illusion of perfectionism, questioning how one can find a genuine path in a world that values security over soul."
 ---
 
 We drift in an ocean of humanity, each wave of society shaping us,
@@ -18,6 +18,9 @@ for our own way to swim, even as the tides of culture and convention
 pull us toward predetermined shores. Yet beneath these churning waters
 lies an ancient wisdom—a truth about who we really are, waiting to be
 rediscovered.
+
+![people laughing and talking outside during daytime](https://substackcdn.com/image/fetch/$s_!BTgy!f_autoq_auto:goodfl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ed39145-2e0e-4f14-8791-6365158b553c_1080x600.jpeg)
+*Photo by Priscilla Du Preez 🇨🇦 on Unsplash*
 
 ## The Tides of Expectation
 
@@ -76,6 +79,9 @@ basic loop of desire-satisfaction.
 We are silly. We are mad. Only when we can realise this will we open up
 to the beauty of life and what it provides for us. Maybe then we can be
 in a place to respect it, honour it and take care of it.
+
+![persons hand on white surface](https://substackcdn.com/image/fetch/$s_!Uo6i!f_autoq_auto:goodfl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf8ce488-9e5b-43eb-9acd-a4363b9a110a_1080x744.jpeg)
+*Photo by Matheus Viana on Unsplash*
 
 ## Waves of Cultural Trauma
 
@@ -181,6 +187,9 @@ security that makes the light in one's eyes fade.
 As Krishnamurti put it, *“It is no measure of health to be well adjusted
 to a profoundly sick society.”* Yet this is what we are encouraged to
 aspire to.
+
+![man face covered with white tape](https://images.unsplash.com/photo-1551389267-fb1d08dc6bf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw2M3x8c2lja3xlbnwwfHx8fDE3MzcxNzYyNTN8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Armin Lotfi on Unsplash*
 
 In youth, we possess a fiery vitality, an untempered wisdom that sees
 through the illusions of society. But as Hemingway observed, “*No, that

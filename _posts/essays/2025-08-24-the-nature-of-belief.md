@@ -4,12 +4,15 @@ title: "The Nature Of Belief"
 date: 2025-08-24
 categories: essays
 reading_time: "10 minute"
-excerpt: ""
+excerpt: "This essay explores how beliefs shape our reality, acting as both a necessary grounding mechanism and a potential prison. It examines the 'epidemiology of representations'—how beliefs spread like viruses—and the psychological need for certainty that can lead to dogmatism, urging a balance of conviction with a healthy dose of doubt."
 ---
 
 ## How Beliefs Shape Our Certainty
 
 *“We don't see things as they are, we see them as we are.” - Anaïs Nin*
+
+![woman in church](https://images.unsplash.com/photo-1572977221447-056868f11aae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1NXx8YmVsaWVmfGVufDB8fHx8MTczNzgxNzExM3ww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Thomas Vitali on Unsplash*
 
 From the whispered stories around ancient fires to the viral tweets of
 today, humans have always been compelled to share their beliefs and
@@ -61,6 +64,9 @@ Perhaps in our rush to understand belief, we sometimes forget to pause
 and wonder at its mystery. Like watching waves shape shorelines or winds
 carve mountains, we're witnessing forces both ancient and immediate,
 both personal and universal.
+
+![A chart showing the cycle of belief](https://substackcdn.com/image/fetch/$s_!XsMC!f_autoq_auto:goodfl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F934668a2-dd9c-4887-8786-24cdb3c62662_1080x441.jpeg)
+*Image by Morgan Housel*
 
 ## A Virus of Certainty
 
@@ -125,6 +131,9 @@ universe that offers none. Yet this tension itself might hold a key to
 understanding our relationship with belief.
 
 ## Between Doubt and Dogma
+
+![person holding light bulb](https://substackcdn.com/image/fetch/$s_!VVX_!f_autoq_auto:goodfl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13aaf522-0acc-4604-8306-500e4a398ff3_1080x1076.jpeg)
+*Photo by Diego PH on Unsplash*
 
 *“The whole problem with the world is that fools and fanatics are always
 so certain of themselves, and wiser people so full of doubts.” -
@@ -234,4 +243,3 @@ Like the ancient practice of philosophical dialogue, perhaps we can
 learn to dance with our beliefs rather than being imprisoned by them. In
 this dance, both certainty and doubt have their place, each step
 informed by the wisdom that comes from knowing how little we truly know.
-

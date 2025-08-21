@@ -2,9 +2,14 @@
 layout: post
 title: "A History Of Yoga: The Nature of Reality"
 date: 2025-08-18
-categories: essays
-reading_time: "10 minute"
-excerpt: ""
+categories: [society, consciousness]
+tags: [yoga, philosophy, hinduism, spirituality]
+series: "A History Of Yoga"
+series_part: 2
+featured_image: "/assets/images/yoga-philosophy-featured.jpg"
+excerpt: "Now that we've covered what yoga currently is, let's discover what Yoga was. To discover this however, we will need to dive a bit deeper into ancient philosophies of Hinduism and how they influenced each other."
+reading_time: 12
+author: "Anubhav Kandpal"
 ---
 
 ![Man sitting beside river painting](https://images.unsplash.com/flagged/photo-1574787929769-db45db9e4f10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMXx8YW5jaWVudCUyMHBoaWxvc29waHl8ZW58MHx8fHwxNzM1MjkyNDg4fDA&ixlib=rb-4.0.3&q=80&w=1080)
