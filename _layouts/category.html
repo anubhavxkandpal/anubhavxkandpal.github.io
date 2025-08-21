@@ -11,7 +11,8 @@ layout: default
   <div class="category-posts">
     {% assign posts = site.categories[page.category] %}
     {% if posts.size > 0 %}
-      <div class="articles-grid">
+      <section class="recent-reflections">
+        <div class="articles-grid">
         {% for post in posts %}
         <article class="article-card">
           {% assign category_image = post | post_featured_image %}
@@ -36,7 +37,8 @@ layout: default
           </div>
         </article>
         {% endfor %}
-      </div>
+        </div>
+      </section>
     {% else %}
       <p class="no-posts">No essays found in this category yet.</p>
     {% endif %}
