@@ -198,8 +198,8 @@ remembering what it means to be human in a world that increasingly
 treats us as mere consumers.
 
 The Dalai Lama's wisdom rings true here:  
-{% include pull-quote.html quote="*If you think you are too small to make a difference, try sleeping with
-a mosquito.*" %}
+{% include pull-quote.html quote="If you think you are too small to make a difference, try sleeping with
+a mosquito." %}
 
 While systemic change is crucial, we mustn't underestimate the power of
 conscious consumption and community building. When we repair instead of
