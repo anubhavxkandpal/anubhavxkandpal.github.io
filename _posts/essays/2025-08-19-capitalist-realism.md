@@ -37,9 +37,7 @@ that have existed on this planet. And without conclusive proof stating
 otherwise, we seem quite convinced that this is so. But just because we
 can't find it, doesn't mean the evidence doesn't exist.
 
-“Compared to cavemen, who were a 1, on the scale of human development we
-are a 5. And we think we've made it, but we don't realise that the scale
-goes to a million.” – George Lucas
+{% include pull-quote.html quote="Compared to cavemen, who were a 1, on the scale of human development we are a 5. And we think we've made it, but we don't realise that the scale goes to a million." author="George Lucas" %}
 
 ![a man holding a green sign in front of a crowd of people](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8f4a7f0-0e48-4000-95c7-3d04e4efdbb7_1080x859.jpeg)
 *Photo by William Gibson on Unsplash*
@@ -55,12 +53,11 @@ only is capitalism the only viable political and economic system, but
 also that it is now impossible even to imagine a coherent alternative to
 it.”
 
-As Fisher writes in 'Capitalist Realism': “Capitalism is what is left
-when beliefs have collapsed at the level of ritual or symbolic
-elaboration, and all that is left is the consumer-spectator, trudging
-through the ruins and the relics.” This haunting description captures
-how capitalism survives not through inspiration, but through the
-exhaustion of alternatives.
+As Fisher writes in 'Capitalist Realism': 
+
+{% include pull-quote.html quote="Capitalism is what is left when beliefs have collapsed at the level of ritual or symbolic elaboration, and all that is left is the consumer-spectator, trudging through the ruins and the relics." author="" %}
+
+This haunting description captures how capitalism survives not through inspiration, but through the exhaustion of alternatives.
 
 This feeling of ‘stuckness’ is something I relate to. Capitalism and its
 goals set for the individual have always made me feel like a failure.

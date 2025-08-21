@@ -171,14 +171,14 @@ spiritual and material, like day and night, imply each other.
 
 {% include pull-quote.html quote="The Supreme Good is mokṣha which consists in the permanent
 impossibility of the incidence of pain... in the realisation of the Self
-as Self pure and simple." author="*Samkhyakarika*" %}
+as Self pure and simple." author="Samkhyakarika" %}
 
 What's interesting here is the Samkhya version—it says that it is
 actually Prakriti (matter) that binds itself to spirit and so it is not
 to free consciousness (purusha) but to free matter itself.
 
 {% include pull-quote.html quote="By seven modes nature binds herself by herself: by one, she releases
-(herself), for the soul's wish" author="*Samkhyakarika* Verse 63" %}
+(herself), for the soul's wish" author="Samkhyakarika Verse 63" %}
 
 Quite a fascinating take, for we so easily think it is this
 consciousness trapped in the body but what if it is the other way

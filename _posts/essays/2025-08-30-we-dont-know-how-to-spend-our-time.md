@@ -75,7 +75,7 @@ our neural pathways are literally reshaped by digital engagement
 patterns. The brain adapts to the rapid switching between stimuli by
 building stronger connections for novelty-seeking and weaker ones for
 sustained attention—a physical manifestation of what is aptly described
-as "Brain Rot.
+as "Brain Rot."
 
 What happens is we lose the ability to focus. This constant flood of
 amusement also undermines the cognitive abilities we need for purposeful
@@ -160,8 +160,7 @@ us even in our soundest sleep." author="Henry David Thoreau" %}
 ## Reclaiming Our Time: Making Reality Primary 
 
 Philosophers from Husserl to Merleau-Ponty have explored what they call
-{% include pull-quote.html quote="*phenomenological presence*" author="the quality of being fully immersed in" %}
-one's immediate lived experience. This state of attentive engagement
+*phenomenological presence* the quality of being fully immersed in one's immediate lived experience. This state of attentive engagement
 with reality is an active, intentional way of perceiving that allows the
 world to reveal itself to us in its rich complexity. When we achieve
 this quality of presence, the ordinary becomes extraordinary—the veins
@@ -208,8 +207,8 @@ movement. My own experience of slavery to my screen has taught me that
 we primarily use this entertainment and distraction as an escape.
 
 {% include pull-quote.html quote="The present is the only time that any of us have to be alive, to know
-anything, to perceive, to learn, to act, to change, to heal." author="Jon" %}
-Kabat-Zinn
+anything, to perceive, to learn, to act, to change, to heal." author="Jon Kabat-Zinn" %}
+
 
 One must concede that screens are a new phenomenon for the human
 consciousness, only with us for the last 20-30 years. Still, we are
@@ -254,28 +253,6 @@ screen use is ‘okay’ when it is not.
 I will leave you with this relevant, timely and beautiful poem about
 being present in a forest.
 
-{% include pull-quote.html quote="Lost" author="by David Wagoner" %}
+{% include pull-quote.html quote="Stand still. The trees ahead and bushes beside you / Are not lost. Wherever you are is called Here, / And you must treat it as a powerful stranger, / Must ask permission to know it and be known. / The forest breathes. Listen. It answers, / I have made this place around you. / If you leave it, you may come back again, saying Here. / No two trees are the same to Raven. / No two branches are the same to Wren. / If what a tree or a bush does is lost on you, / You are surely lost. Stand still. The forest knows / Where you are. You must let it find you." author="David Wagoner" %}
 
-Stand still. The trees ahead and bushes beside you
 
-Are not lost. Wherever you are is called Here,
-
-And you must treat it as a powerful stranger,
-
-Must ask permission to know it and be known.
-
-The forest breathes. Listen. It answers,
-
-I have made this place around you.
-
-If you leave it, you may come back again, saying Here.
-
-No two trees are the same to Raven.
-
-No two branches are the same to Wren.
-
-If what a tree or a bush does is lost on you,
-
-You are surely lost. Stand still. The forest knows
-
-Where you are. You must let it find you.
