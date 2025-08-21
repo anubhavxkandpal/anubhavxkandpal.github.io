@@ -7,7 +7,7 @@ reading_time: "10 minute"
 excerpt: "In our rush to smooth out life’s rough edges, we’ve begun to lose something precious—the art of sitting with ourselves in the quiet spaces between doing. This essay explores how our society's relentless push for positivity and productivity prevents us from engaging with the contemplative life, a state that allows for genuine human experience, including the necessary shadows of pain and doubt."
 ---
 
-{% include pull-quote.html quote="Let everything happen to you: beauty and terror. Just keep going. No feeling is final." author="Rainer Maria Rilke" %}
+"Let everything happen to you: beauty and terror. Just keep going. No feeling is final." – Rainer Maria Rilke
 
 # This is part 3 of a 3 part series on the truth about happiness.
 
@@ -143,7 +143,7 @@ untameable, uncontrollable and is, for all intents and purposes, free.
 
 ## Do we fear what’s real?
 
-{% include pull-quote.html quote="The cure for pain is in the pain." author="Rumi" %}
+"The cure for pain is in the pain." – Rumi
 
 ![a woman covering her eyes with her hands](https://images.unsplash.com/photo-1706510568563-4dfe62d2aeb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzM3x8aWxsdXNpb258ZW58MHx8fHwxNzMyNzY1MzM1fDA&ixlib.rb-4.0.3&q=80&w=1080)
 *Photo by Leila de Haan on Unsplash*
