@@ -171,7 +171,7 @@ spiritual and material, like day and night, imply each other.
 
 {% include pull-quote.html quote="The Supreme Good is mokṣha which consists in the permanent
 impossibility of the incidence of pain... in the realisation of the Self
-as Self pure and simple." author="*Samkhyakarika* I" %}.3
+as Self pure and simple." author="*Samkhyakarika*" %}
 
 What's interesting here is the Samkhya version—it says that it is
 actually Prakriti (matter) that binds itself to spirit and so it is not
@@ -218,11 +218,12 @@ practice; to study ourself, to reflect, introspect; and finally to
 contemplate the True Self, the greater being, the thing above all things
 that reminds one of a greater unity.
 
-Pleasure and pain results from contact of soul, sense, mind and object.
+{% include pull-quote.html quote=Pleasure and pain results from contact of soul, sense, mind and object.
 Non-origination of that follows when the mind becomes steady in the
 soul. After it, there is non-existence of pain in the embodied soul.
 **This is that Yoga**.  
-— *Vaiśeṣika Sūtra 5.2.15–5.2.16*
+— *Vaiśeṣika Sūtra 5.2.15–5.2.16* %}
+
 
 Adi Sankara, the 8th century scholar, described the Yoga school of
 thought as "Samkhya school with God." This addition of *Ishwara* (often
