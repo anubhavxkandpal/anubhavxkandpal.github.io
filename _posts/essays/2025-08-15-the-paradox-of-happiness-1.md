@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "The Truth About Happiness: The Paradox of Happiness (Part 1)"
+title: "The Paradox Of Happiness"
 date: 2025-08-15
 categories: [essays, consciousness]
 reading_time: "10 minute"
 excerpt: "This essay delves into the modern paradox of happiness, questioning why society's relentless pursuit of it often leads to dissatisfaction. It distinguishes between fleeting, performative happiness and deep, authentic joy, arguing that true contentment is found not in avoiding suffering but in embracing the full spectrum of human experience."
-series: "The Truth About Happiness"
-series_part: 1
 ---
+
+
+# The Paradox of Happiness: Between Joy and Suffering - Part 1
 
 {% include pull-quote.html quote="Happiness is like a butterfly: the more you chase it, the more it will elude you, but if you turn your attention to other things, it will come and sit softly on your shoulder." author="Henry David Thoreau" %}
 
@@ -73,8 +74,7 @@ exuberance.
 
 ## Joy versus Happiness: The Prison of Perpetual Happiness
 
-{% include pull-quote.html quote="Joy is the serious business of Heaven." - C.S. Lewis %}
-
+{% include pull-quote.html quote="Joy is the serious business of Heaven." author="C.S. Lewis" %}
 
 ![a woman on a beach](https://images.unsplash.com/photo-1660629465812-1c550d2a2342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNXx8aGFwcGluZXNzfGVufDB8fHx8MTczMTcyMjIxMnww&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by sandra lansue on Unsplash*
@@ -130,7 +130,7 @@ and those of the mind. Suffering grounds us and joy brings us into
 states of wonder, elation, awe and both can be associated with
 transcendence.
 
-{% include pull-quote.html quote="Out of suffering have emerged the strongest souls; the most massive characters are seared with scars." Kahlil Gibran %}
+{% include pull-quote.html quote="Out of suffering have emerged the strongest souls; the most massive characters are seared with scars." author="Kahlil Gibran" %}
 
 ## The Folly of the Happiness Chase 
 
@@ -189,7 +189,6 @@ This paradox recalls the ancient Zen koan:
 
 {% include pull-quote.html quote="A monk asked his master, 'What is happiness?' The master replied, 'Grandfather dies, father dies, son dies.' The monk, confused, asked how this could be happiness. The master explained, 'This is the natural order. Any other way would bring great suffering.'" author="Zen Koan" %}
 
-
 In our relentless pursuit of happiness, we have perhaps forgotten what
 the ancients knew: that happiness is not a destination but a by-product
 of a life well-lived. The modern obsession with happiness has created a
@@ -197,5 +196,4 @@ peculiar paradox: the more desperately we chase it, the more it eludes
 us. Perhaps true contentment lies not in the chase, but in the
 acceptance of life's full spectrum of experiences, including those
 moments of divine discontent that make us uniquely human.
-
 {% include pull-quote.html quote="The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." author="Ralph Waldo Emerson" %}

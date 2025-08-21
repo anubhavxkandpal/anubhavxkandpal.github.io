@@ -8,11 +8,10 @@ excerpt: "This essay explores the 'violence of positivity' in our achievement-dr
 ---
 
 
-*“The present-day crisis is not that life has become poorer, less
+{% include pull-quote.html quote=“The present-day crisis is not that life has become poorer, less
 brilliant, less meaningful, nor that we have less access to happiness
 and perfection. Rather, we are suffering from the imperative to be
-happy."  
-– Byung-Chul Han, "The Burnout Society"*
+happy." author="Byung-Chul Han, The Burnout Society" %}
 
 This is part 2 of this essay series. We will be examining different forms of violence in modern society through the lens of Byung-Chul Han’s work.
 
@@ -38,7 +37,7 @@ unacceptable.
 ## The Violence of Achievement
 
 {% include pull-quote.html quote="One of the most dangerous forms violence can take is the compulsion to
-do good." author="- Simone Weil" %}
+do good." author="Simone Weil" %}
 
 Han observes that "the achievement-subject stands free from any external
 instance of domination forcing it to work... It is an entrepreneur of
@@ -83,7 +82,7 @@ perfection grow tighter. What we don’t realise in all this is that
 contentment becomes impossible. It will never be enough and we’re stuck
 in a bad loop.
 
-“Nothing is enough to the man for whom enough is too little” – Epicurus.
+{% include pull-quote.html quote=“Nothing is enough to the man for whom enough is too little” author="Epicurus" %}
 
 ![woman wearing white and black sweater sitting on stair](https://images.unsplash.com/photo-1507294994578-a3015ffbab52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw2fHxleGhhdXN0aW9ufGVufDB8fHx8MTczMjc5MjE5N3ww&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by Nick Karvounis on Unsplash*
@@ -153,8 +152,7 @@ gaps of information or vision. But both human thought and inspiration
 require a void, a gap... Today, there is no longer any intermediary
 space for reflection, for quiet contemplation." This constant
 visibility—both to see and be seen—this ceaseless performance of
-positivity, creates what he terms {% include pull-quote.html quote="digital exhaustion" author="a state where we" %}
-are *too tired to even recognize our own fatigue*.
+positivity, creates what he terms "digital exhaustion" a state where we are too tired to even recognize our own fatigue.
 
 Jean Baudrillard's prophetic observation that "We live in a world where
 there is more and more information, and less and less meaning" captures
@@ -171,7 +169,7 @@ As Han observes, "Digital communication enables immediate response.
 Immediacy makes reflection impossible... Respect requires a pathos of
 distance. Today, distance is yielding to promiscuous intimacy." This
 collapse of distance that both Baudrillard and Han identify creates what
-Baudrillard calls {% include pull-quote.html quote="the desert of the real" author="a space where authentic" %}
+Baudrillard calls "the desert of the real a space where authentic
 experience becomes impossible because everything is mediated through
 screens and simulations.
 
@@ -212,8 +210,8 @@ that exist. When we start putting focus only on positivity we secretly
 deny the negativity in life. When we start focusing only on the light we
 forget the depth of the dark—not to mention the only time we can enjoy
 the beauty of the stars. It is not too different from people who believe
-sadness to be the only way of all life. We become, in Han's words, {% include pull-quote.html quote="too
-alive to die, too dead to live" author="caught in a weird space where authentic" %}
+sadness to be the only way of all life. We become, in Han's words, 'too
+alive to die, too dead to live, caught in a weird space where authentic
 experience becomes impossible.
 
 If life is just happiness with small respites of sadness, or sadness
