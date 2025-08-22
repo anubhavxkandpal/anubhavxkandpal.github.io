@@ -16,6 +16,9 @@ lived." author="Henry David Thoreau" %}
 Somehow our connection to nature and our continual search for meaning
 are tied together at the root.
 
+![Nature and sun](https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBhbmQlMjBzdW58ZW58MHx8fHwxNzQwMzE5MDI5fDA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Robert Lukeman on Unsplash*
+
 The other day, I saw my grandmother raise her hands at the sun. The
 morning light bathing her small body in a golden orange hue as she
 closed her eyes facing the sun just risen behind the mountain. She then
@@ -57,7 +60,7 @@ wrote about basic processes in nature that may evoke wonder in us if we
 looked at them carefully. I will share most of the following as direct
 quotations as her writing is far too beautiful to need any rephrasing:
 
-The Liver (Quote from “Silent Spring”):
+### The Liver (Quote from “Silent Spring”):
 
 "Of all organs in the body the liver is most extraordinary. In its
 versatility and in the indispensable nature of its functions, it has no
@@ -72,7 +75,7 @@ itself is one of the most remarkable examples of regeneration in the
 animal kingdom. This organ, so vital to our survival, is a testament to
 the intricate and awe-inspiring design of nature.
 
-Photosynthesis (from "The Sea Around Us"):
+### Photosynthesis (from "The Sea Around Us"):
 
 "The process of photosynthesis is one of the true miracles of life on
 earth. It is the means by which green plants utilize the energy of
@@ -84,7 +87,7 @@ world, and from them have come, directly or indirectly, the substances
 that feed all animals. The process of photosynthesis is the basic source
 of life; without it, the world as we know it could not exist."
 
-The Water Cycle (from "The Sea Around Us"):
+### The Water Cycle (from "The Sea Around Us"):
 
 "The water cycle is a vast and never-ending circulation that involves
 the whole earth and its atmosphere. Water evaporates from the ocean,
@@ -112,6 +115,9 @@ Lovelock, suggests that Earth's biological systems and the planet itself
 work together as a single entity, with negative feedback loops that keep
 conditions favourable for life.
 
+![Person standing on rock by water](https://images.unsplash.com/photo-1490730141103-6cac27aaab94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjBhbmQlMjBzcGlyaXR8ZW58MHx8fHwxNzQwMzE5NzQ3fDA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Mohamed Nohassi on Unsplash*
+
 As Ralph Waldo Emerson once said, "Nature always wears the colours of
 the spirit." This spiritual colouring of nature reflects back to us a
 deeper truth about our own essence. We look at ourselves as bodies that
@@ -120,8 +126,8 @@ gas. Where has the mystical element of life gone? In our pursuit of
 knowing everything, we've discarded the mystery of life that once
 enriched us with mysticism and magic.
 
-“One way to open your eyes is to ask yourself, “What if I had never seen
-this before? What if I knew I would never see it again?” – Rachel Carson
+{% include pull-quote.html quote=“One way to open your eyes is to ask yourself, “What if I had never seen
+this before? What if I knew I would never see it again?" author="Rachel Carson" %}
 
 In ancient days, people determined which stars were stars and which were
 planets merely by looking at the night sky. They used their eyes to see
@@ -173,7 +179,7 @@ In this cacophony of crisis, perhaps what we need most is silence—a
 space to reconnect with that which we've forgotten. As Pablo Neruda
 wrote in his poem "Keeping Quiet":
 
-"Now we will count to twelve
+{% include pull-quote.html quote="Now we will count to twelve
 
 and we will all keep still.
 
@@ -183,7 +189,10 @@ let's not speak any language,
 
 let's stop for one second,
 
-and not move our arms so much."
+and not move our arms so much." %}
+
+![Capitalism sign on rock](https://images.unsplash.com/photo-1591373382242-6df054b3f869?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyN3x8Y2FwaXRhbGlzbSUyMHZzfGVufDB8fHx8MTc0MDMxOTg3NXww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Mike Erskine on Unsplash*
 
 This stillness might reveal what our constant motion conceals—that our
 economic systems mirror our inner fragmentation. Who cares about the
@@ -260,6 +269,9 @@ realities of the universe about us, the less taste we shall have for
 destruction. Wonder and humility are wholesome emotions, and they do not
 exist side by side with a lust for destruction." author="Rachel Carson" %}
 
+![Birds flying over water](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f5cfde3-e88f-4d4a-bfed-a84651fec2a7_1080x984.jpeg)
+*Photo by Anuj Yadav on Unsplash*
+
 We may want to reawaken that reverence that once existed in all our
 cultures. We may want to start seeing the sun as a light-giving entity,
 imbued with a pure soul that keeps giving—maybe we want to give it some
@@ -270,15 +282,12 @@ world, "Yes, I want to keep you alive as well." Right now, it's not too
 much of a stretch to say we're killing the world and with it our
 collective selves.
 
-The winds, the sea, and the moving tides are what they are. If there is
+{% include pull-quote.html quote="The winds, the sea, and the moving tides are what they are. If there is
 wonder and beauty and majesty in them, science will discover these
 qualities. If they are not there, science cannot create them. If there
 is poetry in my book about the sea, it is not because I deliberately put
 it there, but because no one could write truthfully about the sea and
-leave out the poetry.
-
-— Rachel Carson; Address upon receiving National Book Award at
-reception,
+leave out the poetry." author="Rachel Carson" %}
 
 Even death as the necessary promoter of life is a wonder in itself. And
 as we know, but don’t often admit, all life ends in death. The pessimist
@@ -296,38 +305,40 @@ Let's start seeing the world as alive and participate in its aliveness.
 To conclude I will leave you with one of my favorite poems "Wild Geese"
 by Mary Oliver:
 
-"You do not have to be good.
+> You do not have to be good.
+>
+> You do not have to walk on your knees
+>
+> for a hundred miles through the desert repenting.
+>
+> You only have to let the soft animal of your body
+>
+> love what it loves.
+>
+> Tell me about despair, yours, and I will tell you mine.
+>
+> Meanwhile the world goes on.
+>
+> Meanwhile the sun and the clear pebbles of the rain
+>
+> are moving across the landscapes,
+>
+> over the prairies and the deep trees,
+>
+> the mountains and the rivers.
+>
+> Meanwhile the wild geese, high in the clean blue air,
+>
+> are heading home again.
+>
+> Whoever you are, no matter how lonely,
+>
+> the world offers itself to your imagination,
+>
+> calls to you like the wild geese, harsh and exciting
+>
+> over and over announcing your place
+>
+> in the family of things.
 
-You do not have to walk on your knees
-
-for a hundred miles through the desert repenting.
-
-You only have to let the soft animal of your body
-
-love what it loves.
-
-Tell me about despair, yours, and I will tell you mine.
-
-Meanwhile the world goes on.
-
-Meanwhile the sun and the clear pebbles of the rain
-
-are moving across the landscapes,
-
-over the prairies and the deep trees,
-
-the mountains and the rivers.
-
-Meanwhile the wild geese, high in the clean blue air,
-
-are heading home again.
-
-Whoever you are, no matter how lonely,
-
-the world offers itself to your imagination,
-
-calls to you like the wild geese, harsh and exciting
-
-over and over announcing your place
-
-in the family of things."
+— Mary Oliver, "Wild Geese"

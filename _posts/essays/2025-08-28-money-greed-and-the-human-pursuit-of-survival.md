@@ -33,6 +33,9 @@ in the day to hoard seashells, fine fabric, inert useless metals such as
 gold and silver, has always come from a survival stand point—but morphed
 into greed for resources.
 
+![Hoarded plastic packs](https://images.unsplash.com/photo-1585742832738-02de795f4885?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxob2FyZGluZ3xlbnwwfHx8fDE3NDAzODIwODd8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Mick Haupt on Unsplash*
+
 It makes sense, humans fear dying and naturally want to survive and this
 makes them chase whatever avenue there is to increase their chances of
 survival. But most humans are bad at math. How many seashells do you
@@ -78,6 +81,9 @@ concept of conspicuous consumption, where individuals display their
 wealth as a means of demonstrating their social status. Veblen argues
 that this behaviour is driven by a desire to gain respect and envy from
 others.
+
+![Business person with coffee](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d2d93f0-ff8b-49c2-b924-3f183674d97c_1080x834.jpeg)
+*Photo by Brock Wegner on Unsplash*
 
 Veblen's insight is incisive in how he connects economic behaviour to
 primal social and psychological drives. The leisure class, as he calls
@@ -150,6 +156,9 @@ most importantly, no amount of money bought a second of time.
 
 ## The Inequality Machine: System and Society
 
+![People standing in a tunnel](https://images.unsplash.com/photo-1638526970908-b18e32b0bc42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxpbmVxdWFsaXR5fGVufDB8fHx8MTc0MDM4MjQ4OXww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Elyse Chia on Unsplash*
+
 On the question of leisure, yes a wealthy person might have more time
 than a labourer who toils for most of their day but are they really? In
 "The Wealth of Nations," Adam Smith discusses the division of labour and
@@ -206,6 +215,9 @@ forces that perpetuate inequality.
 
 As we draw towards a conclusion we must think of the freedom and leisure
 we think money can provide.
+
+![Family time together](https://images.unsplash.com/photo-1511632765486-a01980e01a18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHx0aW1lJTIwd2l0aCUyMGZhbWlseXxlbnwwfHx8fDE3NDAzODI1NDh8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Helena Lopes on Unsplash*
 
 Is not leisure the ability to decide what to do with one’s time? This
 ability to decide what to do with one's time relates to Aristotle's

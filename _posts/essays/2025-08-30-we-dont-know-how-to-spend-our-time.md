@@ -21,8 +21,11 @@ check where they’ve reached.
 A small example of two wildly different experiences in the same reality.
 This is what it has come to. I read a recent report of a man who was
 convicted 30 years ago and was just released from prison earlier this
-year. He got out and his first comment was “Everyone is hunched over
-their phones.”
+year. He got out and his first comment was "Everyone is hunched over
+their phones."
+
+![Yellow bird on white flower](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F397d03e5-db92-4221-9b70-8c0edf0ed547_1080x1091.jpeg)
+*Photo by Mark Olsen on Unsplash*
 
 ## The War for Attention
 
@@ -54,8 +57,10 @@ The industrial era ethos of conquering nature, having direct control
 over all that moves and making it work efficiently according to our
 desires is still somewhat present today. We are flooded with influencer
 videos pushing “facts” on us, on how to hack your body, how to
-streamline our digestive system and so on. When the simple problem may
-be: we don’t move enough.
+streamline our digestive system and so on. When the simple problem may be: we don't move enough.
+
+![Person at laptop](https://images.unsplash.com/photo-1664575603992-0f17b771dd91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxN3x8Y29ycG9yYXRlfGVufDB8fHx8MTc0MTQxMDMxMnww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Microsoft 365 on Unsplash*
 
 {% include pull-quote.html quote="Attention is the rarest and purest form of generosity." author="Simone Weil" %}
 
@@ -140,7 +145,10 @@ shape our thinking and then choosing how to use media consciously. He
 argues that keeping space for the written word is absolutely crucial to
 maintain our capacity for logical, sequential thinking. In this way we
 avoid becoming what Huxley warned of: People who “love their oppression”
-and “adore the technologies that undo their capacities to think.”
+and "adore the technologies that undo their capacities to think."
+
+![Media graffiti on bridge](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836e24ee-16e6-4688-b237-1527bc0d3727_1080x750.jpeg)
+*Photo by fabian jones on Unsplash*
 
 Postman's insights on television now seem almost cute in the age of
 social media. What he diagnosed as a troubling shift—from typographic

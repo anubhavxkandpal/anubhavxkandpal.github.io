@@ -8,8 +8,7 @@ excerpt: "This essay explores the delicate balance between discipline and chaos,
 ---
 
 
-*“Out of chaos, find simplicity. From discord, find harmony.”* —*Bruce
-Lee*
+{% include pull-quote.html quote="Out of chaos, find simplicity. From discord, find harmony." author="Bruce Lee" %}
 
 There are so many kinds of discipline. There is a discipline of the
 heart, a discipline of the mind, and the discipline we use everyday in
@@ -18,6 +17,9 @@ path. All discipline is directed toward some kind of outcome, some state
 of being or some specific action or series of actions. However, if one
 solely practices discipline for the sake of discipline, then I believe
 there is some kind of sickness there.
+
+![People meditating in a line.](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0174a7b7-152e-4286-9f2e-42c23f2f8a5c_4096x2731.jpeg)
+*Photo by Thao LEE on Unsplash*
 
 This modern obsession with discipline reflects what philosopher Alan
 Watts called “the fallacy of misplaced concreteness”, which is **our
@@ -42,7 +44,7 @@ taking this path to understand why we do what we do, but merely seeking
 to be disciplined actively avoids this understanding. Discipline is
 never the *why*, it is the *how*.
 
-Nature's way: Order within Chaos
+## Nature's way: Order within Chaos
 
 In nature, we find a different kind of order. Biological systems
 demonstrate what scientists call “dynamic equilibrium”, a constant dance
@@ -55,8 +57,8 @@ would actually cause it to fail. Your body doesn't maintain 37°C
 within a small range, adapting and responding to both internal and
 external changes.
 
-*“In all chaos there is a cosmos, in all disorder a secret order.” —Carl
-Jung*
+{% include pull-quote.html quote=“In all chaos there is a cosmos, in all disorder a secret order.” author="Carl Jung" %}
+
 
 This natural wisdom is reflected in the ancient Chinese concept of
 *wu-wei*, or “non-forcing”. Unlike the Western notion of discipline as
@@ -79,6 +81,9 @@ an avoidance of spontaneity, of play, of naturalness; it is an avoidance
 of all that truly makes this game of life. The regimented life and the
 way it seems to play out in people who seek it often does not look like
 life—it looks like gardening with barbed wire.
+
+![A forest with a path.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b2e5a5e-8f99-4d6a-9b1b-85d7e2968369_4096x2731.jpeg)
+*Photo by veeterzy on Unsplash*
 
 Gregory Bateson, in his seminal work “Mind and Nature,” spoke of what he
 called “*the pattern that connects*”, which is the living, breathing web
@@ -133,8 +138,7 @@ us? Our persistence to create perfect and absolute forms of order around
 us has become a near obsession, but the inner landscape cannot be
 ordered and perfected. In its imperfection, it is already perfect.
 
-> “The child is not a vessel to be filled but a fire to be lit.”
-> —Plutarch
+{% include pull-quote.html quote=“The child is not a vessel to be filled but a fire to be lit.” author="Plutarch" %}
 
 Can we look at the forest and call it disordered? Can we look at the
 ocean and tell the waves they are chaotic? In life and nature, we see
@@ -185,6 +189,9 @@ passage. A tea bowl with visible repairs might be considered more
 beautiful than a flawless one, because it carries within it a history of
 life lived, broken, and mended.
 
+![A broken and repaired pot.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d74b96e-1d54-4f24-9b2f-9271632551a3_4096x2731.jpeg)
+*Photo by Moto Miwa on Unsplash*
+
 The only path that seems logical to me is to embrace this kind of
 imperfection. It is to allow ourselves to connect to an order that is
 greater than us—an order that is us. Our natural bodies and the way they
@@ -228,4 +235,4 @@ chaos and order. Like a jazz musician who knows the rules well enough to
 break them beautifully, we might learn to play with both structure and
 freedom, finding our own rhythm in this dance we call life.
 
-> {% include pull-quote.html quote="Nature does not hurry, yet everything is accomplished." author="Lao Tzu" %}
+{% include pull-quote.html quote="Nature does not hurry, yet everything is accomplished." author="Lao Tzu" %}
