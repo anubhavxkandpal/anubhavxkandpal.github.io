@@ -19,9 +19,7 @@ where expectations met are celebrated and those unmet are greeted with
 frustration—either externally when we don't perform, or internally when
 we do but find ourselves somehow still unfulfilled.
 
-In this dance of early love and achievement, we mirror what Winnicott
-called the {% include pull-quote.html quote="good enough mother" author="not the perfect parent, but one who" %}
-gradually allows disappointment to enter the child's world. Yet somehow
+In this dance of early love and achievement, we mirror what Winnicott called the "good enough mother", not the perfect parent, but one who gradually allows disappointment to enter the child's world. Yet somehow
 our modern lives have twisted this natural process. Where once there was
 room for imperfection and growth, we now find ourselves trapped in an
 endless cycle of proving our worth. Like children forever trying to
@@ -41,6 +39,9 @@ the primal factors—the need for belonging that we have hardwired into
 us. Because you and I share the same air, and wherever we go, we find
 humans having their own quirks, but in that, they are much more like us
 than we think.
+
+![Baby in sweater](https://images.unsplash.com/photo-1608093602519-ccd31f515f83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxiYWJ5JTIwd2Fsa2luZ3xlbnwwfHx8fDE3MzEyOTk2MTR8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Nathan Dumlao on Unsplash*
 
 ![Knight holding a sword, facing a dragon. By Midjourney.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0975691e-9274-4b47-b353-0c46a6f11e9a_1024x1024.jpeg)
 *Knight holding a sword, facing a dragon. By Midjourney.*
@@ -79,8 +80,9 @@ to depend on others—stands in stark contrast to our Western myth of the
 self-made individual. It whispers to us an ancient truth: that
 dependence is not weakness but the very fabric of human society. As
 Buber understood, when we truly meet each other, something divine sparks
-between us—{% include pull-quote.html quote="God is the electricity that surges between them" author="Buber" %}. Yet we
-keep our distance, afraid perhaps, of the voltage, clinging to our
+between us—
+{% include pull-quote.html quote="God is the electricity that surges between them" author="Buber" %} 
+Yet we keep our distance, afraid perhaps, of the voltage, clinging to our
 illusion of independence.
 
 ![A lone person walking on a path that splits into many directions. By Midjourney.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53a1a459-7171-419b-a010-0985c7657d4b_1024x1024.jpeg)
@@ -98,7 +100,8 @@ What's further driven our individuality is comfort. It is when facing
 the challenges and hardships in life that people bond together. The path
 through collective suffering is strewn with friendships of virtue where
 people have found powerful relatability in how one weathers change.
-{% include pull-quote.html quote="Comfort kills the soul" author="Khalil Gibran" %}, and it is my experience too that it takes away more than it gives.
+{% include pull-quote.html quote="Comfort kills the soul" author="Khalil Gibran" %} 
+and it is my experience too that it takes away more than it gives.
 
 Most of us realise too late or not at all that something has left us on
 our days on the couch that used to once bring light to our innocent
@@ -182,7 +185,7 @@ for the very first time—living it all.
 
 {% include pull-quote.html quote="Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it" author="Rumi" %} 
 
-![Man looking at his reflection in a broken mirror. By Midjourney.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0042a420-a612-42c6-a60d-1e1b19313b63_1024x1024.jpeg)
-*Man looking at his reflection in a broken mirror. By Midjourney.*
+![Book about facing suffering](https://images.unsplash.com/photo-1539877254216-818ed7c76096?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxOXx8ZmFjaW5nJTIwc3VmZmVyaW5nfGVufDB8fHx8MTczMTI5OTc2OXww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Thought Catalog on Unsplash*
 
 
