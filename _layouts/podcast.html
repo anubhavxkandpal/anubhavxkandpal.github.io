@@ -1,0 +1,167 @@
+---
+layout: default
+---
+
+<article class="podcast-episode">
+  <header class="episode-header">
+    {% if page.episode_number %}
+    <div class="episode-label">Episode {{ page.episode_number }}</div>
+    {% endif %}
+    
+    <h1 class="episode-title">{{ page.title }}</h1>
+    
+    <div class="episode-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %d, %Y" }}
+      </time>
+      {% if page.duration %}
+      <span class="episode-duration">{{ page.duration }}</span>
+      {% endif %}
+      {% if page.guest %}
+      <span class="episode-guest">Guest: {{ page.guest }}</span>
+      {% endif %}
+    </div>
+  </header>
+  
+  <div class="episode-player">
+    {% if page.spotify_embed %}
+    <div class="spotify-embed">
+      {{ page.spotify_embed }}
+    </div>
+    {% endif %}
+    
+    {% if page.apple_podcasts_link or page.spotify_link or page.youtube_link %}
+    <div class="episode-platforms">
+      <p>Also available on:</p>
+      <div class="platform-links">
+        {% if page.spotify_link %}
+        <a href="{{ page.spotify_link }}" target="_blank" rel="noopener" class="platform-link spotify">Spotify</a>
+        {% endif %}
+        {% if page.apple_podcasts_link %}
+        <a href="{{ page.apple_podcasts_link }}" target="_blank" rel="noopener" class="platform-link apple">Apple Podcasts</a>
+        {% endif %}
+        {% if page.youtube_link %}
+        <a href="{{ page.youtube_link }}" target="_blank" rel="noopener" class="platform-link youtube">YouTube</a>
+        {% endif %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+  
+  <div class="episode-content">
+    {% if page.show_notes %}
+    <section class="episode-section show-notes">
+      <h2>Show Notes</h2>
+      {{ content }}
+    </section>
+    {% else %}
+    {{ content }}
+    {% endif %}
+    
+    {% if page.key_topics %}
+    <section class="episode-section key-topics">
+      <h2>Key Topics Discussed</h2>
+      <ul class="topics-list">
+        {% for topic in page.key_topics %}
+        <li>{{ topic }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+    
+    {% if page.resources %}
+    <section class="episode-section resources">
+      <h2>Resources Mentioned</h2>
+      <ul class="resources-list">
+        {% for resource in page.resources %}
+        <li>
+          {% if resource.link %}
+          <a href="{{ resource.link }}" target="_blank" rel="noopener">{{ resource.title }}</a>
+          {% else %}
+          {{ resource.title }}
+          {% endif %}
+          {% if resource.author %}
+          by {{ resource.author }}
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+    
+    {% if page.transcript %}
+    <section class="episode-section transcript" id="transcript">
+      <h2>Episode Transcript</h2>
+      <div class="transcript-content">
+        {{ page.transcript | markdownify }}
+      </div>
+    </section>
+    {% elsif page.has_transcript %}
+    <section class="episode-section transcript-placeholder" id="transcript">
+      <h2>Episode Transcript</h2>
+      <p class="transcript-notice">Transcript coming soon...</p>
+    </section>
+    {% endif %}
+    
+    {% if page.quotes %}
+    <section class="episode-section notable-quotes">
+      <h2>Notable Quotes</h2>
+      <div class="quotes-list">
+        {% for quote in page.quotes %}
+        <blockquote class="episode-quote">
+          <p>"{{ quote.text }}"</p>
+          {% if quote.speaker %}
+          <cite>— {{ quote.speaker }}</cite>
+          {% endif %}
+        </blockquote>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+  </div>
+  
+  <footer class="episode-footer">
+    <div class="episode-navigation">
+      {% assign podcast_posts = site.categories.podcast | sort: 'date' %}
+      {% assign current_index = nil %}
+      {% for post in podcast_posts %}
+        {% if post.id == page.id %}
+          {% assign current_index = forloop.index0 %}
+        {% endif %}
+      {% endfor %}
+      
+      {% if current_index %}
+        {% assign prev_index = current_index | minus: 1 %}
+        {% assign next_index = current_index | plus: 1 %}
+        
+        <div class="nav-links">
+          {% if prev_index >= 0 %}
+          <a href="{{ podcast_posts[prev_index].url | relative_url }}" class="nav-link prev-episode">
+            ← Previous Episode
+          </a>
+          {% endif %}
+          
+          <a href="/podcast/" class="nav-link all-episodes">
+            All Episodes
+          </a>
+          
+          {% if next_index < podcast_posts.size %}
+          <a href="{{ podcast_posts[next_index].url | relative_url }}" class="nav-link next-episode">
+            Next Episode →
+          </a>
+          {% endif %}
+        </div>
+      {% endif %}
+    </div>
+    
+    <div class="episode-subscribe">
+      <p>Subscribe to the Heart of Reason Podcast:</p>
+      <div class="subscribe-buttons">
+        <a href="/podcast/feed.xml" class="subscribe-button rss">RSS</a>
+        {% if site.podcast_spotify_url %}
+        <a href="{{ site.podcast_spotify_url }}" target="_blank" rel="noopener" class="subscribe-button spotify">Spotify</a>
+        {% endif %}
+      </div>
+    </div>
+  </footer>
+</article>
