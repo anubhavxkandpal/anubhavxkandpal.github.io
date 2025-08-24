@@ -17,7 +17,7 @@ permalink: /podcast/
       <p class="subscribe-text">Subscribe and listen on:</p>
       <div class="subscribe-links">
         <a href="https://open.spotify.com/show/5erW3vFyvkRrPEh9elZuzA" target="_blank" rel="noopener" class="subscribe-button spotify">Spotify</a>
-        <a href="https://anchor.fm/s/f78b6bfc/podcast/rss" target="_blank" rel="noopener" class="subscribe-button rss">RSS Feed</a>
+        <a href="/podcast/feed.xml" target="_blank" rel="noopener" class="subscribe-button rss">RSS Feed (for podcast apps)</a>
         <!-- Add more platform links as needed -->
       </div>
     </div>
@@ -81,7 +81,8 @@ permalink: /podcast/
   
   <div class="podcast-rss">
     <a href="/podcast/feed.xml" class="rss-link">
-      <span>RSS Feed</span>
+      <span>RSS Feed (for podcast apps)</span>
     </a>
+    <p class="rss-help">Copy this link to add the podcast to your favorite podcast app</p>
   </div>
 </div>

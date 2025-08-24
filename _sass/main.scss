@@ -25,6 +25,11 @@ body {
   }
 }
 
+// Global heading styles to ensure consistent fonts
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', 'Charter', 'Source Serif 4', 'Georgia', serif;
+}
+
 // Header styles
 .site-header {
   margin: 40px 0;
@@ -407,7 +412,7 @@ main {
   
   h2 {
     text-align: center;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', 'Charter', 'Source Serif 4', 'Georgia', serif;
     font-size: 1.8em;
     margin-bottom: 40px;
   }
@@ -876,7 +881,7 @@ main {
     margin: 0 auto;
     
     h2 {
-      font-family: 'Playfair Display', serif;
+      font-family: 'Playfair Display', 'Charter', 'Source Serif 4', 'Georgia', serif;
       font-size: 1.8em;
       margin-bottom: 2em;
       text-align: center;
@@ -1024,6 +1029,13 @@ main {
         border-color: #ff6600;
         color: #ff6600;
       }
+    }
+    
+    .rss-help {
+      margin-top: 10px;
+      font-size: 0.8em;
+      color: #888;
+      font-style: italic;
     }
   }
 }
