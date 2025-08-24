@@ -7,8 +7,8 @@ episode_number: 5
 duration: "14:33"
 guest: 
 excerpt: "This episode talks about helping others and how it is an expression of our collective nature."
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e2pvud1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e2pvud1"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/59TfNMw9NUvr8E2mUbeeRw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/59TfNMw9NUvr8E2mUbeeRw"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false

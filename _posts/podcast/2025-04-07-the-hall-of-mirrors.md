@@ -7,8 +7,8 @@ episode_number: 11
 duration: "22:14"
 guest: 
 excerpt: "In this episode we discuss whether it is healthy to allow any social media reel to dictate how we see ourselves and our own worth."
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e3172bc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e3172bc"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0RetdWHP5KDfbJbJggYXGI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/0RetdWHP5KDfbJbJggYXGI"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false

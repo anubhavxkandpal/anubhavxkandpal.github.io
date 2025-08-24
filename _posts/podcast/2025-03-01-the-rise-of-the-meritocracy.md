@@ -7,8 +7,8 @@ episode_number: 10
 duration: "22:00"
 guest: 
 excerpt: "In this episode, I explore Michael Young's eerily prophetic 1958 satire 'The Rise of the Meritocracy' and its disturbing relevance to our modern world."
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e2vi7bo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e2vi7bo"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0BB2mEXIyKDpOLSwBfg83V?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/0BB2mEXIyKDpOLSwBfg83V"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false

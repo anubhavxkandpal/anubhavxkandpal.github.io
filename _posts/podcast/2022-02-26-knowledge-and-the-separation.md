@@ -7,8 +7,8 @@ episode_number: 2
 duration: "19:54"
 guest: 
 excerpt: "The separation is not out there, it is in us. We don't divide the world, we divide ourselves."
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e2kq6il?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e2kq6il"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4EbJ5K0s8n4tHpgPc373rr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/4EbJ5K0s8n4tHpgPc373rr"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false

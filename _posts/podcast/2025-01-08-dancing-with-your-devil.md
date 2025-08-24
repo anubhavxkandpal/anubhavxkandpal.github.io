@@ -7,8 +7,8 @@ episode_number: 9
 duration: "20:21"
 guest: 
 excerpt: "Must we always be good? Ancient wisdom traditions, from Zen masters to trickster gods, suggest otherwise. In this episode, we explore the fascinating dance between light and shadow within human nature."
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e2t7buf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e2t7buf"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0stj0xxdy2VsfSqPGjP0Uu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/0stj0xxdy2VsfSqPGjP0Uu"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false

@@ -7,8 +7,8 @@ episode_number: 3
 duration: "20:42"
 guest: 
 excerpt: "There is only one solitude, and it is large and not easy to bear. - Rainer Maria Rilke"
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e2kq6im?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e2kq6im"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2u0jIj2ibc2qigDoEuIMi5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/2u0jIj2ibc2qigDoEuIMi5"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false

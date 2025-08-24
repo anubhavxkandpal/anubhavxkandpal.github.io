@@ -7,8 +7,8 @@ episode_number: 7
 duration: "22:52"
 guest: 
 excerpt: "Ever notice how you're either living a moment or trying to capture it? Journey into the fascinating world of your two selves - the one who experiences life and the one who remembers it."
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e2r6dgp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e2r6dgp"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3QhKosqTKH28cWYhZysetI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/3QhKosqTKH28cWYhZysetI"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false

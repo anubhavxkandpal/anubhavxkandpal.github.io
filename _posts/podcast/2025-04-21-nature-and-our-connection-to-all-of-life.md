@@ -7,8 +7,8 @@ episode_number: 13
 duration: "24:59"
 guest: 
 excerpt: "In this reflective episode, we explore the profound yet often forgotten relationship between humans and the natural world."
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e319cgj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e319cgj"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4atzzvqx9QpaqLPtA4gLJk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/4atzzvqx9QpaqLPtA4gLJk"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false

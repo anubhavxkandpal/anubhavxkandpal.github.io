@@ -7,8 +7,8 @@ episode_number: 6
 duration: "21:52"
 guest: 
 excerpt: "In this episode we discuss the nuances of listening authentically. Inspired by a quote from Jiddu Krishnamurti, I discuss this fascinating topic from his lens."
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e2qpepj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e2qpepj"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7mWPTrraXw5bf3un4N8Flk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/7mWPTrraXw5bf3un4N8Flk"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false

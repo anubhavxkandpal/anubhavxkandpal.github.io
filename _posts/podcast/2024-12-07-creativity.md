@@ -7,8 +7,8 @@ episode_number: 8
 duration: "20:52"
 guest: 
 excerpt: "A contemplative exploration of creativity's true nature - not as a skill to master, but as a force that moves through us like water through a stream."
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e2s0onm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e2s0onm"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0pCIwOMbxT0Gue1cMoL6vr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/0pCIwOMbxT0Gue1cMoL6vr"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false

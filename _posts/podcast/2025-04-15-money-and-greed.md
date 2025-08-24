@@ -7,8 +7,8 @@ episode_number: 12
 duration: "28:55"
 guest: 
 excerpt: "In this contemplative episode, I explore our complex relationship with money and why we pursue it with such desperation."
-spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/e3178sf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-spotify_link: "https://open.spotify.com/episode/e3178sf"
+spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6mKfT3CiUaxIj6qVauCYdK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+spotify_link: "https://open.spotify.com/episode/6mKfT3CiUaxIj6qVauCYdK"
 apple_podcasts_link: 
 youtube_link: 
 has_transcript: false
