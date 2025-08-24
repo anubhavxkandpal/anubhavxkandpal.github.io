@@ -49,6 +49,9 @@ This back and forth goes on and we find the constant struggle of the
 want to ask is: can we ever be free of our expectations from one
 another?
 
+![Understanding through dialogue](https://images.unsplash.com/photo-1625479203878-b4db4d1d7795?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNnx8YXJndWVtZW50fGVufDB8fHx8MTc0MjcwMjU2OHww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by [Afif Ramdhasuma](https://unsplash.com/@ramdhasuma) on [Unsplash](https://unsplash.com/)*
+
 When we expect something from others, we often reduce them to an object
 serving our needs, rather than encountering them as a complete being
 whose existence transcends our desires—even our understanding. Our
@@ -111,6 +114,9 @@ crop failure.
 {% include pull-quote.html quote="We have forgotten how to be good guests, how to walk lightly on the
 earth as its other creatures do." author="Barbara Ward" %}
 
+![Farmer with traditional baskets](https://images.unsplash.com/photo-1545830790-68595959c491?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNXx8ZmFybWVyfGVufDB8fHx8MTc0MjcwMjYyOHww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by [Who's Denilo ?](https://unsplash.com/@whosdenilo) on [Unsplash](https://unsplash.com/)*
+
 The farmer knows not to expect more than one can hope for, and yet knows
 still to respect the land for what it provides—treating it almost with a
 reverence we find uncommon in our society. What if we were also to adopt
@@ -169,6 +175,9 @@ it does not exist till it arrives. In a way, our expectations are so
 dependent on the compliance of others that they do not exist until the
 other agrees. So we do live in a world where there is no future but we
 are providing ourselves with the mental security of having one.
+
+![Contemplation and presence](https://images.unsplash.com/photo-1554457945-229b8867b30d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNXx8YnVkZGhpc3QlMjBtb25rfGVufDB8fHx8MTc0MjcwMjc5NHww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by [Quinten de Graaf](https://unsplash.com/@quinten149) on [Unsplash](https://unsplash.com/)*
 
 What if we looked at each other like a transitory moment? Each person is
 not merely a snapshot but a long story that has arrived up to this

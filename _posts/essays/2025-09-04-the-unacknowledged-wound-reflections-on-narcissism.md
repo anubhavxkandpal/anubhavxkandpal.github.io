@@ -37,9 +37,9 @@ Of course, we talk of narcissism as if it affects only a few, but we all
 have certain narcissistic tendencies. If we reduce the fundamentals of
 narcissism to self-obsession and self-centredness, then we will find
 that in order to live life, all of us have to engage in this kind of
-perspective. **This self-focus is, perhaps, a natural function of the
+perspective. This self-focus is, perhaps, a natural function of the
 ego, the part of us concerned with identity, survival, and navigating
-the world**.
+the world.
 
 Healthy self-esteem, a sense of competence, the drive to achieve—these
 can share roots with narcissistic traits, representing an ego
@@ -49,6 +49,9 @@ empathy and authentic connection. And by destructive, I also mean in
 situations where one finds it hard to keep harmony in their
 relationships. So we could separate this into healthy and unhealthy
 forms of narcissism, the latter being the focus of this exploration.
+
+![A culture of narcissism](https://images.unsplash.com/photo-1616235891569-a69fa8558037?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxuYXJjaXNzaXNtfGVufDB8fHx8MTc0NTcyNTA0OHww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by [Marija Zaric](https://unsplash.com/@simplicity) on [Unsplash](https://unsplash.com/)*
 
 It seems like people come into this life with their own challenges and
 limitations. These are not only defined by their circumstance, but also
@@ -96,9 +99,12 @@ What is troubling is how this kind of philosophy causes hurt and
 distress to the people around them. Because of their situation, such
 people have developed a lack of empathy and as a consequence, they
 trained themselves not to perceive this distress.  
-“Everything is fine,” they say. “is it not?”  
+"Everything is fine," they say. "is it not?"  
 They seem genuinely unable, or unwilling, to register the emotional
 impact of their actions.
+
+![The complexity of human connection](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c7b52f7-0f80-4f2d-aa87-5a8e6c7320fa_1080x649.jpeg)
+*Photo by [Klara Kulikova](https://unsplash.com/@kkalerry) on [Unsplash](https://unsplash.com/)*
 
 This inner turmoil often spills outwards. Because they cannot face their
 own difficulties, they may unconsciously project these onto others,
@@ -133,8 +139,8 @@ Culture of Narcissism*, diagnosed a societal shift towards intense
 self-preoccupation. He described the rise of "psychological man,"
 feeling alienated and insecure, constantly seeking affirmation from
 others rather than grounding themselves in history or community. As
-Lasch noted, "*To live for the moment is the prevailing passion - to
-live for yourself, not for your predecessors or posterity.*"
+Lasch noted, "To live for the moment is the prevailing passion - to
+live for yourself, not for your predecessors or posterity."
 
 Lasch's cultural critique resonates powerfully with the individual
 pattern we're exploring here. The person avoiding their suffering is
@@ -144,6 +150,9 @@ distraction, mirrors that "psychological man" seeking external props for
 a fragile sense of self. It suggests, perhaps, that these individual
 struggles are sometimes amplified by, or find fertile ground in, broader
 cultural tendencies.
+
+![The hidden wounds we carry](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa107844-bc61-448f-9305-95327b89c5bc_1080x881.jpeg)
+*Photo by [Sergio Rodriguez - Portugues del Olmo](https://unsplash.com/@sergyo) on [Unsplash](https://unsplash.com/)*
 
 The difficulty with such a person is not how to handle them, but how to
 stop them when they go into their fit of anger, despair, and

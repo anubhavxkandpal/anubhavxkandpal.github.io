@@ -829,14 +829,22 @@ main {
         display: flex;
         flex-direction: row;
         height: auto;
+        overflow: hidden; // Ensure clean edges
+        align-items: stretch; // Ensure both sides have equal height
         
         .article-image {
           width: 280px;
-          height: 200px;
+          height: 200px; // Fixed height to prevent gaps
           flex-shrink: 0;
           overflow: hidden;
+          background-color: #f8f8f8; // Subtle fallback color
+          position: relative;
+          border-radius: 12px 0 0 12px; // Match card border radius on left side
           
           img {
+            position: absolute;
+            top: 0;
+            left: 0;
             width: 100%;
             height: 100%;
             object-fit: cover;
@@ -850,6 +858,7 @@ main {
           display: flex;
           flex-direction: column;
           justify-content: center;
+          min-height: 200px; // Match the image height
           
           .article-excerpt {
             font-size: 1em;
@@ -868,10 +877,12 @@ main {
           .article-image {
             width: 100%;
             height: 180px;
+            border-radius: 12px 12px 0 0; // Top corners rounded on mobile
           }
           
           .article-content {
             padding: 25px;
+            min-height: auto; // Remove min-height on mobile
           }
         }
       }

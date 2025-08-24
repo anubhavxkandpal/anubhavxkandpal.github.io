@@ -40,9 +40,12 @@ unknowingly dealing with their own unacknowledged feelings of
 superiority.
 
 In this way, the world can become a mirror reflecting these disowned
-parts of who we are. As Jung himself suggested, "*Everything that
+parts of who we are. As Jung himself suggested, 
+{% include pull-quote.html quote="Everything that
 irritates us about others can lead us to an understanding of
-ourselves*."
+ourselves." %}
+
+![The world as our mirror](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28c47825-24d6-4f07-87b6-4fcdeef2353c_1920x946.jpeg)
 
 ## Projection, Reflection and Connection
 
@@ -73,6 +76,9 @@ their own suffering is eclipsed by this intense pity for anyone below
 them (economically). Projections do not change based on the state of the
 person suffering; they remain attuned to what the person doing the
 projecting is unable to feel.
+
+![Looking inward through reflection](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3cdd9b5-477b-46a0-a7e6-8c5e726ef580_1080x667.jpeg)
+*Photo by [Gabriella Clare Marino](https://unsplash.com/@gabiontheroad) on [Unsplash](https://unsplash.com/)*
 
 The care someone wants to give the whole world is a simple reminder for
 this person to give care to themselves, which they often don’t do. The
@@ -108,6 +114,9 @@ I wonder if our mind does this purposely to create some kind of
 protective barrier? Or does this happen as a consequence of something
 else? Perhaps the latter is more likely. If we combine both of these
 reasons, we will find that this protective barrier resembles the ego.
+
+![The ego's protective mechanisms](https://images.unsplash.com/photo-1610557710113-1a40172807be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMXx8dGhlJTIwZWdvfGVufDB8fHx8MTc0Njc3MzU0MHww&ixlib=rb-4.1.0&q=80&w=1080)
+*Photo by [Orkun Azap](https://unsplash.com/@orkunazap) on [Unsplash](https://unsplash.com/)*
 
 Indeed, the ego, as Jung understood it, is the centre of our conscious
 mind—our sense of 'I' that we show to the world and how we see our daily
@@ -151,6 +160,9 @@ to others:
   from my past, or of characteristics I dislike (or secretly desire) in
   myself?
 
+![The shadows within us](https://images.unsplash.com/photo-1631881067255-446016deb8a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw4fHxhbmd1aXNofGVufDB8fHx8MTc0Njc3MzY0OHww&ixlib=rb-4.1.0&q=80&w=1080)
+*Photo by [Diane Picchiottino](https://unsplash.com/@diane_soko) on [Unsplash](https://unsplash.com/)*
+
 Jung also spoke of the **'hook'** in projection. We don't typically
 project onto a complete blank slate. Often, the other person possesses a
 slight trait, a faint reminder or suggestion of the quality that we then
@@ -165,9 +177,9 @@ intimately connected to each other through the human organism. No matter
 how much the lies of individualism may push us away from each other, our
 subconscious will always find a way to remind us of these facts.
 
-As Jung is often quoted, "Your visions will become clear only when you
+{% include pull-quote.html quote="Your visions will become clear only when you
 can look into your own heart. Who looks outside, dreams; who looks
-inside, awakes."
+inside, awakes." author="Carl Jung" %}
 
 So, all we need to do is to pay attention to our projections, to pay
 heed to the way we see the world. To try and decipher what colour we are

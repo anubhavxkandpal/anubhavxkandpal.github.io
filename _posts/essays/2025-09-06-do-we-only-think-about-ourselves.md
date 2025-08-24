@@ -33,8 +33,8 @@ hasn't stretched beyond its first boundaries, the person sees only
 themselves, and even the world they see, so rich and multifaceted, is
 secondary, a mere backdrop to their own starring role.
 
-*{% include pull-quote.html quote="In the universe, there are things that are known, and things that are
-unknown, and in between, there are doors." author="William Blake*" %}
+{% include pull-quote.html quote="In the universe, there are things that are known, and things that are
+unknown, and in between, there are doors." author="William Blake" %}
 
 It's a strange human tendency, isn't it? This constant circling around
 ourselves, as if each of us is a sun with our own planets of thoughts
@@ -68,16 +68,18 @@ that because they cannot see, no one can see them. It's a world filtered
 almost completely through their own lens, a universe where their
 perceptions are the absolute truth.
 
-As we grow, we're supposed to develop what's called a {% include pull-quote.html quote="theory of mind" author="- the crucial understanding that others have their own independent" %}
-mental states, their own beliefs, desires, intentions, and knowledge,
+![The world through a child's perspective](https://images.unsplash.com/photo-1483193722442-5422d99849bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHxjaGlsZHxlbnwwfHx8fDE3NDgwMTI3NzN8MA&ixlib=rb-4.1.0&q=80&w=1080)
+*Photo by [Caleb Woods](https://unsplash.com/@calebjwoods) on [Unsplash](https://unsplash.com/)*
+
+As we grow, we're supposed to develop what's called a "theory of mind" - the crucial understanding that others have their own independent mental states, their own beliefs, desires, intentions, and knowledge,
 which may be completely different from our own. This is the foundation
 of social interaction, the base upon which empathy and complex
 relationships are built.
 
-*{% include pull-quote.html quote="Perhaps all the dragons in our lives are princesses who are only
+{% include pull-quote.html quote="Perhaps all the dragons in our lives are princesses who are only
 waiting to see us act, just once, with beauty and courage. Perhaps
 everything that frightens us is, in its deepest essence, something
-helpless that wants our love." author="Rainer Maria Rilke*" %}
+helpless that wants our love." author="Rainer Maria Rilke" %}
 
 Yet, echoes of this egocentrism can remain, sometimes quite loudly, into
 teenage years and even adulthood, making me wonder if what I see in
@@ -99,6 +101,9 @@ little too loud, their gestures a little too big, demanding a kind of
 attention that feels... off, because it seems disconnected from a
 genuine shared experience.
 
+![The empty theater of our imaginary audience](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b4642e7-b33a-4070-b0f5-fd414a2aedee_1080x542.jpeg)
+*Photo by [Andrew Seaman](https://unsplash.com/@amseaman) on [Unsplash](https://unsplash.com/)*
+
 Then there's the personal fable. The deeply held belief that one's own
 experiences, feelings, and thoughts are completely unique, so deep, so
 intense, that no one else could possibly understand. “You just don't get
@@ -119,8 +124,7 @@ when life circumstances—perhaps trauma, long-term stress, or even too
 much praise without grounding—push a person back into a more
 self-protective, self-focused mode, we might see this pattern. Their
 interactions with others might then become mostly transactional, framed
-by {% include pull-quote.html quote="duties or usefulness" author="what can this person do for me, how do they" %}
-reflect on me, or what do I owe them in a way that serves my story,
+by "duties or usefulness" what can this person do for me, how do they reflect on me, or what do I owe them in a way that serves my story,
 rather than a genuine curiosity about who they are, what they feel, and
 what the world looks like through their eyes.
 
@@ -171,6 +175,9 @@ consciousness that genuinely sees and values others beyond their
 usefulness to the self, beyond their role as supporting characters in
 our personal drama?
 
+![Breaking free from self-centered perspectives](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55e918a4-613d-489d-b76c-de48074da66f_1080x765.jpeg)
+*Photo by [Nathan Dumlao](https://unsplash.com/@nate_dumlao) on [Unsplash](https://unsplash.com/)*
+
 This is where concepts like "decentering" and "empathy" become so
 crucial, acting as counterweights to our built-in self-focus.
 Decentering, in a psychological sense, is the ability to step back from
@@ -208,9 +215,12 @@ questions not to gather information for our own story, or to confirm our
 own theories, but to truly learn about theirs, to understand their
 unique story.
 
+![The journey of connection and empathy](https://images.unsplash.com/photo-1451471016731-e963a8588be8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxlbXBhdGh5fGVufDB8fHx8MTc0Nzk5ODk3OHww&ixlib=rb-4.1.0&q=80&w=1080)
+*Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/)*
+
 Perhaps the most important shift in consciousness, the true marker of
 its growth, is the move from a default setting of "What does this mean
-for me?" to 🡪 "What might this mean for them?" or even, more broadly,
+for me?" to "What might this mean for them?" or even, more broadly,
 "What does this mean for us?" It's an expansion of the circle of
 concern, from the self, to the family, to the community, to the wider
 world. It doesn't mean erasing the self or becoming a selfless martyr; a
@@ -220,7 +230,7 @@ mean recognising that the self, however important, is not the whole
 landscape, not the only flower in the garden.
 
 The philosopher Iris Murdoch wrote beautifully about this, calling it
-{% include pull-quote.html quote="unselfing" author="those moments when attention to something outside ourselves" %}
+"unselfing" those moments when attention to something outside ourselves
 (beauty, art, another person's reality) jolts us out of our
 self-absorption. Instead of losing ourselves we find ourselves as part
 of something larger, something that includes but transcends our
@@ -258,3 +268,6 @@ attempt to see beyond our own reflection, to listen more deeply, and to
 connect more authentically. It's an acknowledgment that the self, while
 central to our experience, doesn't have to be the sole occupant, or the
 loudest voice, in the vast concert hall of our awareness.
+
+![The path toward expanded consciousness](https://images.unsplash.com/photo-1583848697106-f0339cbb6ab2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw3fHxlbXBhdGh5fGVufDB8fHx8MTc0Nzk5ODk3OHww&ixlib=rb-4.1.0&q=80&w=1080)
+*Photo by [Clay Banks](https://unsplash.com/@claybanks) on [Unsplash](https://unsplash.com/)*

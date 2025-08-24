@@ -36,6 +36,9 @@ distractions, and non-stop amusement. The people in this world,
 overloaded with pleasure and useless facts, lost interest in thinking
 deeply, in history, in reading altogether. Does this sound familiar?
 
+![Dystopian cityscape during crisis](https://images.unsplash.com/photo-1599689018459-fcf807a9eceb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxkeXN0b3BpYXxlbnwwfHx8fDE3NDMyMzAyODB8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by [Patrick Perkins](https://unsplash.com/@patrickperkins) on [Unsplash](https://unsplash.com/)*
+
 Welcome to Dystopia—the troubled future, now arrived! It’s very possible
 that we’re all living in it now, whether we chose to or not. Social
 media content is quick and comes in small bites. It gives you the
@@ -54,10 +57,7 @@ images and electronic media (and now, we must add, a digital world
 driven by algorithms) wasn't simply an upgrade in technology, but a
 disaster for how we know and understand things.
 
-> "Reading is thinking. And thinking is hard work. It requires patience,
-> concentration, and a willingness to grapple with complex ideas. In a
-> world saturated with instant gratification and bite-sized information,
-> the act of reading—true reading—becomes an act of resistance."
+{% include pull-quote.html quote="Reading is thinking. And thinking is hard work. It requires patience, concentration, and a willingness to grapple with complex ideas. In a world saturated with instant gratification and bite-sized information, the act of reading—true reading—becomes an act of resistance." author="Neil Postman" %}
 
 Postman looked back, maybe with some longing but also with sharp
 analysis, to a time when the printed word was dominant, especially in
@@ -68,9 +68,9 @@ with ideas in a steady, logical way. The written word, unlike the
 fast-flickering images of modern media, makes you actively participate.
 It requires thinking in a line, step-by-step, and holding several ideas
 in your mind as you follow a long argument. As Postman pointed out,
-"T*ypography \[using print\] is by its nature a technique for slowing
+{% include pull-quote.html quote="Typography \[using print\] is by its nature a technique for slowing
 down communication, as anyone who has watched a reader's eyes move
-across a page can attest*."
+across a page can attest." %}
 
 The simple act of figuring out sentences, following connections, and
 building meaning from marks on a page encourages a different way of
@@ -79,6 +79,9 @@ in order. This "way of thinking shaped by reading print," Postman
 suggested, was the foundation for the reasoned public debates that were
 common in early America, which you could see in the detailed writing of
 historical documents or famous debates.
+
+![Historical debate and discussion](https://images.unsplash.com/photo-1679833645645-e262e042f532?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzNXx8ZGViYXRlfGVufDB8fHx8MTc0MzE2NjgzMXww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by [Llyfrgell Genedlaethol Cymru / The National Library of Wales](https://unsplash.com/@llgc) on [Unsplash](https://unsplash.com/)*
 
 While Postman focused a lot on America, looking at reading habits and
 how information was shared in different parts of the world around the
@@ -123,10 +126,10 @@ for words or ideas (like characters) instead of letters—shapes different
 ways the brain works and different connections between the reader and
 the text compared to cultures using alphabets.
 
-> "Where is the wisdom we have lost in knowledge? Where is the knowledge
-> we have lost in information?"
->
-> —T.S. Eliot, Choruses from 'The Rock' (1934)
+{% include pull-quote.html quote="Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?" author="T.S. Eliot, Choruses from 'The Rock' (1934)" %}
+
+![The contemplative act of reading](https://images.unsplash.com/photo-1598024055266-e772a5f8c128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0fHxyZWFkaW5nfGVufDB8fHx8MTc0MzIyMjEyOXww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by [Matias North](https://unsplash.com/@matiasnorth) on [Unsplash](https://unsplash.com/)*
 
 Looking at these different histories around the world shows us something
 important about Postman's argument: the special connection he saw
@@ -164,18 +167,17 @@ addictive pictures and sounds. The "bite-sized" nature isn't just about
 it being short; it's also about the speed and the amount. We consume
 little bits of information very quickly, rarely stopping to digest them,
 question them, or connect the pieces. Our mental ability to stay focused
-gets weaker, leading to what some people bluntly call {% include pull-quote.html quote="brain rot" author="a" %}
-feeling that we're losing the ability to focus, think critically,
+gets weaker, leading to what some people bluntly call "brain rot" a feeling that we're losing the ability to focus, think critically,
 remember things properly, or solve complex problems. The constant flood
 of information trains us to be distracted—and to look for distractions.
 It rewards quickly scanning things and reacting immediately, rather than
 thinking patiently.
 
-> "The medium is the message."
->
-> —Marshall McLuhan, Understanding Media: The Extensions of Man (1964)  
-> (The way we get information shapes us more than the information
-> itself)
+{% include pull-quote.html quote="The medium is the message.(The way we get information shapes us more than the information itself)" author="Marshall McLuhan, Understanding Media: The Extensions of Man (1964)" %}
+
+![The medium of television](https://images.unsplash.com/photo-1588473158757-afdb399558d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1fHx0ZWxldmlzaW9ufGVufDB8fHx8MTc0MzE3NTI4MXww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by [Nabil Saleh](https://unsplash.com/@nabilsaleh) on [Unsplash](https://unsplash.com/)*
+
 
 This kind of environment is perfect ground for misinformation and "fake
 news" to spread rapidly. When background information is left out just to

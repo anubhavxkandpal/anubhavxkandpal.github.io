@@ -17,7 +17,9 @@ how the region was suffering and they didn’t have any money. Even though
 they had a small banana plantation, he said it wasn’t enough. I told him
 how I found it funny that people from the city want to live in places
 like these and people from these places wanted money. It was the classic
-case of wanting what one cannot have—a cycle that’s hard to break.
+case of wanting what one cannot have—a cycle that's hard to break.
+
+![The Road to Munnar](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37ad678b-607e-46f9-8b8d-0304569389ba_2304x1675.jpeg)
 
 The nature of our desire gives us this pull towards what we might not
 have and might eventually want. There is a curse in this but maybe also
@@ -72,6 +74,9 @@ tourist needs is something I cannot really get behind. I need moments of
 stillness and today, with its slow and calm movements, has been a
 blessing.
 
+![Birds in their natural habitat](https://images.unsplash.com/photo-1560813487-803cbe32d18b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyM3x8YmlyZHN8ZW58MHx8fHwxNzQxOTkxMTU1fDA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by [David Clode](https://unsplash.com/@davidclode) on [Unsplash](https://unsplash.com/)*
+
 I am listening to the birds outside my window as they flitter in their
 habitat from tree to tree. Some birds’ calls get louder as they choose
 to sit on the tree close to my window and at times others do the same. I
@@ -115,7 +120,9 @@ into homestays. The desire for money and economic prosperity makes us
 treat the limited natural resources we have as things to be used for
 gain. We lose respect for all that gives us life and start thinking
 money will do it all. But when the last tree has fallen and all the
-rivers are poison, we’ll realise we can’t eat money. (Thanks Aurora)
+rivers are poison, we’ll realise we can't eat money. (Thanks Aurora)
+
+![A view from the Munnar hills](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c653928-7080-42dc-8b9b-73d5401342cd_2304x1978.jpeg)
 
 I wonder how birds think of *‘respect for the environment’*. Are they
 simply not powerful enough to make enough of a change in their
@@ -126,7 +133,7 @@ need the concept of respect at all. They are so intimately bound to the
 plants and trees they live among that they are acutely aware of their
 own interdependence.
 
-{% include pull-quote.html quote=“Respect was invented to cover the empty place where love should be.” ― Leo Tolstoy %}
+{% include pull-quote.html quote=“Respect was invented to cover the empty place where love should be." author="Leo Tolstoy" %}
 
 Why does humankind not have this reverence? Why are we not in love with
 nature? Why are we blinded? Is it media, commercialism and advertising
@@ -150,6 +157,8 @@ species (that includes humans) to trying to dominate the plant and fungi
 kingdoms as well. I truly wonder if we ever considered ourselves the
 same as all these other classes of being? I wonder if we felt similar
 and somehow related to them—would we still carry on like this?
+
+![My view when I was writing this](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F963deb0d-e790-49a3-b3a7-349bd246bf7a_2304x2086.jpeg)
 
 I am still looking out the window. The trees have some leaves that are
 yellow and some that are healthy and green. Occasionally, one falls and

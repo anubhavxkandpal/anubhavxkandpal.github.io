@@ -146,7 +146,7 @@ not of oversight but of under-sight. Of not seeing the larger
 perspective but being bound by our immediate environment and believing
 that is the extent of truth and of the world.
 
-{% include pull-quote.html quote=“You are the history of humanity itself.” – Jiddu Krishnamurti %}
+{% include pull-quote.html quote="You are the history of humanity itself." author="Jiddu Krishnamurti" %}
 
 Are we going to slip farther into decadence because all our comforts
 have ceased to challenge us? We can of course have discussions about
@@ -248,4 +248,4 @@ boundaries. We’re not loving each other right now, we’re not loving
 nature right now. Anyone well-versed in loving knows there’s a
 difference between saying it and showing it.
 
-{% include pull-quote.html quote=“I think... if it is true that there are as many minds as there are heads, then there are as many kinds of love as there are hearts.” ― Leo Tolstoy, Anna Karenina %}
+{% include pull-quote.html quote="I think... if it is true that there are as many minds as there are heads, then there are as many kinds of love as there are hearts." author="Leo Tolstoy, Anna Karenina" %}
