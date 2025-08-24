@@ -438,7 +438,7 @@ main {
       }
       
       h3 {
-        font-family: 'Playfair Display', serif;
+        font-family: 'Playfair Display', 'Charter', 'Source Serif 4', 'Georgia', serif;
         font-size: 1.3em;
         margin-bottom: 10px;
         color: #333;
@@ -449,6 +449,7 @@ main {
         font-size: 0.95em;
         line-height: 1.5;
         margin: 0;
+        font-family: 'Sina Nova W01 Regular', 'Sina Nova', 'EB Garamond', 'Source Serif 4', 'Georgia', serif;
       }
     }
   }
