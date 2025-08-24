@@ -9,10 +9,15 @@ permalink: /podcast/
     <h1>Heart of Reason Podcast</h1>
     <p class="podcast-description">Philosophical conversations and meditative reflections on consciousness, ethics, beauty, and society.</p>
     
+    <div class="podcast-player-main">
+      <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/5erW3vFyvkRrPEh9elZuzA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    
     <div class="podcast-subscribe">
-      <p class="subscribe-text">Listen on your favorite platform:</p>
+      <p class="subscribe-text">Subscribe and listen on:</p>
       <div class="subscribe-links">
-        <a href="#" class="subscribe-button spotify">Spotify</a>
+        <a href="https://open.spotify.com/show/5erW3vFyvkRrPEh9elZuzA" target="_blank" rel="noopener" class="subscribe-button spotify">Spotify</a>
+        <a href="https://anchor.fm/s/f78b6bfc/podcast/rss" target="_blank" rel="noopener" class="subscribe-button rss">RSS Feed</a>
         <!-- Add more platform links as needed -->
       </div>
     </div>

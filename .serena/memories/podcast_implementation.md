@@ -1,16 +1,16 @@
 # Podcast Feature Implementation
 
 ## Overview
-Implemented a hybrid podcast system for the Heart of Reason website with both a main podcast listing page and individual episode pages, including RSS feed support.
+Implemented a complete hybrid podcast system for the Heart of Reason website with both a main podcast listing page and individual episode pages, including RSS feed support. Successfully imported all 13 episodes from the existing Anchor/Spotify podcast.
 
 ## Files Created/Modified
 
 ### New Files Created:
-1. **`/podcast.md`** - Main podcast listing page showing all episodes
+1. **`/podcast.md`** - Main podcast listing page showing all episodes with Spotify show embed
 2. **`/_layouts/podcast.html`** - Layout template for individual podcast episodes
 3. **`/_posts/podcast/`** - Directory for podcast episode posts
-4. **`/_posts/podcast/2025-08-24-philosophy-of-everyday-moments.md`** - Sample episode template
-5. **`/podcast/feed.xml`** - RSS feed for podcast distribution
+4. **`/podcast/feed.xml`** - RSS feed for podcast distribution
+5. **13 episode files** - All episodes from #1 to #13 imported from RSS feed
 
 ### Files Modified:
 1. **`/_includes/header.html`** - Added Podcast link to main navigation
@@ -86,8 +86,29 @@ quotes: [notable quotes with text and speaker]
 - Notable quotes highlighting
 - Automated episode numbering and duration tracking
 
+## Episodes Imported:
+1. Episode #1: Where it all started from (Feb 21, 2022)
+2. Episode #2: Knowledge and the Separation (Feb 26, 2022)
+3. Episode #3: Solitude and The Inner Voice (Mar 1, 2022)
+4. Episode #4: Feeling Lost (Mar 4, 2022)
+5. Episode #5: Helping Others (Oct 22, 2024)
+6. Episode #6: Authentic Listening (Nov 10, 2024)
+7. Episode #7: Our Two Selves (Nov 19, 2024)
+8. Episode #8: Creativity (Dec 7, 2024)
+9. Episode #9: Dancing with Your Devil (Jan 8, 2025)
+10. Episode #10: The Rise of the Meritocracy (Mar 1, 2025)
+11. Episode #11: The Hall of Mirrors (Apr 7, 2025)
+12. Episode #12: Money and Greed (Apr 15, 2025)
+13. Episode #13: Nature and Our Connection to All of Life (Apr 21, 2025)
+
+## Podcast Details:
+- **Show Spotify ID**: 5erW3vFyvkRrPEh9elZuzA
+- **RSS Feed**: https://anchor.fm/s/f78b6bfc/podcast/rss
+- **Main Show Embed**: Added to podcast page header
+
 ## Notes:
 - RSS feed will work once site.url is properly configured in _config.yml
 - Podcast cover image should be added at `/assets/images/podcast-cover.jpg` for RSS feed
-- Spotify embed codes should be obtained from Spotify for Podcasters dashboard
+- All Spotify embed codes extracted from episode IDs in RSS feed
 - The feed.xml is iTunes-compatible for submission to Apple Podcasts
+- Template files saved with .example extension for reference

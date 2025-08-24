@@ -812,6 +812,16 @@ main {
       font-family: 'Sina Nova W01 Regular', 'Sina Nova', 'EB Garamond', 'Georgia', serif;
     }
     
+    .podcast-player-main {
+      max-width: 700px;
+      margin: 2em auto;
+      
+      iframe {
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      }
+    }
+    
     .podcast-subscribe {
       margin-top: 2em;
       
@@ -846,6 +856,14 @@ main {
             
             &:hover {
               background-color: #1ed760;
+            }
+          }
+          
+          &.rss {
+            background-color: #ff6600;
+            
+            &:hover {
+              background-color: #ff8833;
             }
           }
         }
