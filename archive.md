@@ -22,9 +22,6 @@ permalink: /archive/
           </div>
           {% endif %}
           <div class="article-content">
-            {% if post.categories.size > 0 %}
-            <span class="article-category">{{ post.categories.first | capitalize }}</span>
-            {% endif %}
             <h3 class="article-title">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h3>

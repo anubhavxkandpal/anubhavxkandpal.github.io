@@ -1377,17 +1377,15 @@ main {
         
         .article-image {
           width: 280px;
-          height: 200px; // Fixed height to prevent gaps
           flex-shrink: 0;
           overflow: hidden;
           background-color: #f8f8f8; // Subtle fallback color
           position: relative;
           border-radius: 12px 0 0 12px; // Match card border radius on left side
+          display: flex;
+          align-items: stretch;
           
           img {
-            position: absolute;
-            top: 0;
-            left: 0;
             width: 100%;
             height: 100%;
             object-fit: cover;
@@ -1396,16 +1394,27 @@ main {
         }
         
         .article-content {
-          padding: 30px;
+          padding: 25px 30px;
           flex-grow: 1;
           display: flex;
           flex-direction: column;
-          justify-content: center;
-          min-height: 200px; // Match the image height
+          justify-content: space-between;
+          
+          .article-title {
+            margin-bottom: 15px;
+            line-height: 1.3;
+          }
           
           .article-excerpt {
             font-size: 1em;
             margin-bottom: 20px;
+            flex-grow: 1;
+            display: flex;
+            align-items: flex-start;
+          }
+          
+          .article-meta {
+            margin-top: auto;
           }
         }
         
@@ -1419,13 +1428,17 @@ main {
           
           .article-image {
             width: 100%;
-            height: 180px;
+            height: 200px;
             border-radius: 12px 12px 0 0; // Top corners rounded on mobile
           }
           
           .article-content {
             padding: 25px;
-            min-height: auto; // Remove min-height on mobile
+            justify-content: flex-start;
+            
+            .article-excerpt {
+              align-items: flex-start;
+            }
           }
         }
       }
@@ -1764,6 +1777,37 @@ main {
       }
     }
   }
+  
+  .bookmark-tooltip {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 0.75em;
+    white-space: nowrap;
+    margin-bottom: 8px;
+    transition: all 0.2s ease;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      border: 4px solid transparent;
+      border-top-color: rgba(0, 0, 0, 0.8);
+    }
+    
+    &.hidden {
+      opacity: 0;
+      visibility: hidden;
+      transform: translateX(-50%) translateY(5px);
+    }
+  }
 }
 
 // Mobile responsive adjustments for floating elements
@@ -1826,6 +1870,414 @@ main {
       transform: none;
       opacity: 1;
       visibility: visible;
+    }
+  }
+}
+
+// Contextual Background Patterns
+.contextual-bg {
+  &::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    opacity: 0.02;
+    transition: opacity 0.8s ease;
+  }
+  
+  // Consciousness: Flowing wave patterns
+  &.bg-consciousness::before {
+    background-image: 
+      radial-gradient(circle at 20% 20%, rgba(100, 149, 237, 0.3) 0%, transparent 30%),
+      radial-gradient(circle at 80% 40%, rgba(147, 112, 219, 0.2) 0%, transparent 40%),
+      radial-gradient(circle at 40% 80%, rgba(123, 104, 238, 0.25) 0%, transparent 35%);
+    background-size: 400px 400px, 600px 600px, 500px 500px;
+    animation: consciousness-flow 20s ease-in-out infinite;
+  }
+  
+  // Ethics: Geometric balance motifs
+  &.bg-ethics::before {
+    background-image: 
+      linear-gradient(45deg, rgba(105, 105, 105, 0.15) 25%, transparent 25%),
+      linear-gradient(-45deg, rgba(105, 105, 105, 0.15) 25%, transparent 25%),
+      linear-gradient(45deg, transparent 75%, rgba(169, 169, 169, 0.1) 75%),
+      linear-gradient(-45deg, transparent 75%, rgba(169, 169, 169, 0.1) 75%);
+    background-size: 60px 60px, 60px 60px, 60px 60px, 60px 60px;
+    background-position: 0 0, 0 30px, 30px -30px, -30px 0px;
+    animation: ethics-shift 15s linear infinite;
+  }
+  
+  // Beauty: Organic curves and spirals
+  &.bg-beauty::before {
+    background-image: 
+      radial-gradient(ellipse at 30% 40%, rgba(255, 182, 193, 0.4) 0%, transparent 50%),
+      radial-gradient(ellipse at 70% 70%, rgba(255, 228, 225, 0.3) 0%, transparent 60%),
+      radial-gradient(ellipse at 50% 10%, rgba(255, 218, 185, 0.25) 0%, transparent 45%);
+    background-size: 350px 200px, 400px 300px, 300px 180px;
+    animation: beauty-dance 25s ease-in-out infinite;
+  }
+  
+  // Society: Interconnected dots and networks
+  &.bg-society::before {
+    background-image: 
+      radial-gradient(circle at 25% 25%, rgba(139, 69, 19, 0.2) 2px, transparent 2px),
+      radial-gradient(circle at 75% 75%, rgba(160, 82, 45, 0.15) 1px, transparent 1px),
+      radial-gradient(circle at 50% 50%, rgba(205, 133, 63, 0.1) 1px, transparent 1px);
+    background-size: 80px 80px, 120px 120px, 100px 100px;
+    background-position: 0 0, 40px 40px, 60px 20px;
+    animation: society-connect 18s linear infinite;
+  }
+}
+
+// Animations for contextual backgrounds
+@keyframes consciousness-flow {
+  0%, 100% { 
+    background-position: 0% 0%, 100% 0%, 50% 100%; 
+    opacity: 0.02;
+  }
+  33% { 
+    background-position: 30% 30%, 70% 20%, 80% 80%; 
+    opacity: 0.025;
+  }
+  66% { 
+    background-position: 70% 10%, 30% 60%, 20% 30%; 
+    opacity: 0.015;
+  }
+}
+
+@keyframes ethics-shift {
+  0% { 
+    background-position: 0 0, 0 30px, 30px -30px, -30px 0px; 
+  }
+  25% { 
+    background-position: 10px 10px, 10px 40px, 40px -20px, -20px 10px; 
+  }
+  50% { 
+    background-position: 0 20px, 0 50px, 50px -10px, -10px 20px; 
+  }
+  75% { 
+    background-position: -10px 10px, -10px 40px, 40px -20px, -20px 10px; 
+  }
+  100% { 
+    background-position: 0 0, 0 30px, 30px -30px, -30px 0px; 
+  }
+}
+
+@keyframes beauty-dance {
+  0%, 100% { 
+    background-position: 30% 40%, 70% 70%, 50% 10%; 
+    opacity: 0.02;
+  }
+  25% { 
+    background-position: 35% 45%, 65% 75%, 55% 15%; 
+    opacity: 0.03;
+  }
+  50% { 
+    background-position: 40% 35%, 75% 65%, 45% 20%; 
+    opacity: 0.025;
+  }
+  75% { 
+    background-position: 35% 50%, 60% 80%, 60% 5%; 
+    opacity: 0.015;
+  }
+}
+
+@keyframes society-connect {
+  0% { 
+    background-position: 0 0, 40px 40px, 60px 20px; 
+  }
+  33% { 
+    background-position: 20px 20px, 60px 60px, 80px 40px; 
+  }
+  66% { 
+    background-position: 40px 10px, 80px 50px, 100px 30px; 
+  }
+  100% { 
+    background-position: 0 0, 40px 40px, 60px 20px; 
+  }
+}
+
+// Interactive Quote Highlighting Styles
+.highlight-ui {
+  position: fixed;
+  background: rgba(255, 255, 255, 0.98);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+  z-index: 2000;
+  padding: 15px;
+  min-width: 300px;
+  max-width: 400px;
+  transition: all 0.3s ease;
+  
+  &.hidden {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px) scale(0.95);
+  }
+  
+  &.existing-highlight {
+    border-color: rgba(255, 182, 193, 0.5);
+    background: rgba(255, 182, 193, 0.05);
+  }
+  
+  .highlight-options {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    .highlight-btn {
+      background: none;
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      padding: 10px;
+      cursor: pointer;
+      font-size: 1.2em;
+      transition: all 0.2s ease;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+      &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      }
+      
+      &.wisdom {
+        &:hover {
+          background: rgba(100, 149, 237, 0.1);
+          border-color: rgba(100, 149, 237, 0.3);
+        }
+      }
+      
+      &.insight {
+        &:hover {
+          background: rgba(255, 215, 0, 0.1);
+          border-color: rgba(255, 215, 0, 0.3);
+        }
+      }
+      
+      &.beautiful {
+        &:hover {
+          background: rgba(255, 182, 193, 0.2);
+          border-color: rgba(255, 182, 193, 0.4);
+        }
+      }
+      
+      &.share, &.save {
+        &:hover {
+          background: rgba(50, 205, 50, 0.1);
+          border-color: rgba(50, 205, 50, 0.3);
+        }
+      }
+      
+      &.remove {
+        &:hover {
+          background: rgba(255, 99, 71, 0.1);
+          border-color: rgba(255, 99, 71, 0.3);
+        }
+      }
+    }
+  }
+  
+  .highlight-text-preview {
+    font-size: 0.85em;
+    color: #666;
+    font-style: italic;
+    line-height: 1.4;
+    max-height: 60px;
+    overflow: hidden;
+    text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    padding-top: 10px;
+  }
+}
+
+// Highlight Styles in Content
+.user-highlight {
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 3px;
+  padding: 2px 4px;
+  margin: 0 1px;
+  
+  &.highlight-wisdom {
+    background: linear-gradient(120deg, rgba(100, 149, 237, 0.15) 0%, rgba(123, 104, 238, 0.1) 100%);
+    border-bottom: 2px solid rgba(100, 149, 237, 0.4);
+  }
+  
+  &.highlight-insight {
+    background: linear-gradient(120deg, rgba(255, 215, 0, 0.15) 0%, rgba(255, 140, 0, 0.1) 100%);
+    border-bottom: 2px solid rgba(255, 215, 0, 0.5);
+  }
+  
+  &.highlight-beautiful {
+    background: linear-gradient(120deg, rgba(255, 182, 193, 0.2) 0%, rgba(255, 228, 225, 0.15) 100%);
+    border-bottom: 2px solid rgba(255, 182, 193, 0.6);
+    animation: beautiful-subtle-glow 4s ease-in-out infinite;
+  }
+  
+  &:hover {
+    transform: scale(1.02);
+    filter: brightness(1.1);
+    
+    &::after {
+      content: '✨';
+      position: absolute;
+      top: -8px;
+      right: -8px;
+      font-size: 0.7em;
+      opacity: 0.8;
+      animation: highlight-hover-sparkle 0.5s ease-in-out;
+    }
+  }
+  
+  &.restored {
+    animation: highlight-restore 1s ease-in-out;
+  }
+}
+
+// Special animations
+@keyframes beautiful-highlight-glow {
+  0%, 100% {
+    box-shadow: 0 0 5px rgba(255, 182, 193, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(255, 182, 193, 0.6);
+    transform: scale(1.02);
+  }
+}
+
+@keyframes beautiful-subtle-glow {
+  0%, 100% {
+    box-shadow: 0 0 3px rgba(255, 182, 193, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 8px rgba(255, 182, 193, 0.4);
+  }
+}
+
+@keyframes highlight-hover-sparkle {
+  0% {
+    transform: scale(0) rotate(0deg);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.2) rotate(180deg);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.8) rotate(360deg);
+    opacity: 0.6;
+  }
+}
+
+@keyframes highlight-restore {
+  0% {
+    background-size: 0% 100%;
+  }
+  100% {
+    background-size: 100% 100%;
+  }
+}
+
+// Notifications
+.highlight-notification {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  padding: 15px 20px;
+  font-size: 0.9em;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  z-index: 3000;
+  transform: translateX(100%);
+  opacity: 0;
+  transition: all 0.3s ease;
+  
+  &.show {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  
+  &.success {
+    border-color: rgba(50, 205, 50, 0.3);
+    background: rgba(50, 205, 50, 0.05);
+    color: #2e7d2e;
+  }
+  
+  &.error {
+    border-color: rgba(255, 99, 71, 0.3);
+    background: rgba(255, 99, 71, 0.05);
+    color: #c63946;
+  }
+  
+  &.info {
+    border-color: rgba(100, 149, 237, 0.3);
+    background: rgba(100, 149, 237, 0.05);
+    color: #4169e1;
+  }
+}
+
+// Selection Enhancement
+::selection {
+  background: rgba(255, 182, 193, 0.3);
+  color: inherit;
+}
+
+::-moz-selection {
+  background: rgba(255, 182, 193, 0.3);
+  color: inherit;
+}
+
+// Mobile Responsiveness for Highlighting
+@media (max-width: 768px) {
+  .highlight-ui {
+    min-width: 280px;
+    max-width: calc(100vw - 40px);
+    
+    .highlight-options {
+      gap: 6px;
+      
+      .highlight-btn {
+        width: 35px;
+        height: 35px;
+        font-size: 1em;
+      }
+    }
+    
+    .highlight-text-preview {
+      font-size: 0.8em;
+    }
+  }
+  
+  .highlight-notification {
+    right: 10px;
+    left: 10px;
+    max-width: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .highlight-ui {
+    .highlight-options {
+      .highlight-btn {
+        width: 30px;
+        height: 30px;
+        font-size: 0.9em;
+      }
     }
   }
 }

@@ -181,6 +181,7 @@ class FloatingElements {
         <button class="bookmark-btn" aria-label="Bookmark position" title="Save reading position">📖</button>
         <button class="share-btn" aria-label="Share quote" title="Share a quote">💭</button>
       </div>
+      <div class="bookmark-tooltip hidden">Save your reading position</div>
     `;
 
     document.body.appendChild(companion);
@@ -215,13 +216,27 @@ class FloatingElements {
       }
     });
 
-    // Bookmark functionality
+    // Bookmark functionality with tooltip
     const bookmarkBtn = companion.querySelector('.bookmark-btn');
+    const tooltip = companion.querySelector('.bookmark-tooltip');
+    
+    bookmarkBtn.addEventListener('mouseenter', () => {
+      tooltip.classList.remove('hidden');
+    });
+    
+    bookmarkBtn.addEventListener('mouseleave', () => {
+      tooltip.classList.add('hidden');
+    });
+    
     bookmarkBtn.addEventListener('click', () => {
       const position = window.pageYOffset;
       localStorage.setItem(`bookmark-${window.location.pathname}`, position);
       bookmarkBtn.textContent = '✓';
-      setTimeout(() => bookmarkBtn.textContent = '📖', 1000);
+      tooltip.textContent = 'Position saved!';
+      setTimeout(() => {
+        bookmarkBtn.textContent = '📖';
+        tooltip.textContent = 'Save your reading position';
+      }, 1000);
     });
 
     // Share functionality (basic implementation)
