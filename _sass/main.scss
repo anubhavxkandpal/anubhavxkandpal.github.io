@@ -305,6 +305,7 @@ main {
         text-transform: uppercase;
         letter-spacing: 1px;
         font-weight: 600;
+        text-align: center;
       }
       
       .featured-title {
@@ -399,6 +400,7 @@ main {
       text-decoration: none;
       transition: all 0.3s ease;
       border: 1px solid #f0f0f0;
+      text-align: center;
       
       &:hover {
         transform: translateY(-3px);
@@ -487,6 +489,7 @@ main {
           letter-spacing: 1px;
           font-weight: 600;
           font-family: 'Source Sans Pro', 'Inter', sans-serif;
+          text-align: center;
         }
         
         .article-title {
@@ -554,7 +557,7 @@ main {
     margin-bottom: 40px;
     
     .post-title {
-      font-family: 'Playfair Display', serif;
+      font-family: 'Playfair Display', 'Charter', serif;
       font-size: 2.5em;
       line-height: 1.2;
       margin-bottom: 20px;
