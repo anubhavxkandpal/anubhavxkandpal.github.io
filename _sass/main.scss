@@ -28,6 +28,7 @@ body {
 // Global heading styles to ensure consistent fonts
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Playfair Display', 'Charter', 'Source Serif 4', 'Georgia', serif;
+  text-align: center;
 }
 
 // Header styles
@@ -40,50 +41,16 @@ h1, h2, h3, h4, h5, h6 {
   overflow: visible;
 }
 
-// Header images with cloudy edges - positioned absolutely on sides
-.header-images {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  pointer-events: none;
-  z-index: -1;
+// Header banner image
+.header-banner {
+  margin-bottom: 20px;
+  text-align: center;
   
-  .header-image {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    
-    &.left {
-      left: -200px;
-      @media (max-width: 1200px) {
-        left: -150px;
-      }
-      @media (max-width: 1000px) {
-        display: none;
-      }
-    }
-    
-    &.right {
-      right: -200px;
-      @media (max-width: 1200px) {
-        right: -150px;
-      }
-      @media (max-width: 1000px) {
-        display: none;
-      }
-    }
-    
-    img {
-      width: calc(120px * 1.337);
-      height: calc(120px * 1.337);
-      opacity: 0.55;
-      filter: blur(1px);
-      object-fit: cover;
-      -webkit-mask-image: radial-gradient(circle at center, black 30%, transparent 70%);
-      mask-image: radial-gradient(circle at center, black 30%, transparent 70%);
-    }
+  img {
+    max-width: 100%;
+    height: auto;
+    max-height: 200px;
+    object-fit: contain;
   }
 }
 
@@ -121,6 +88,7 @@ body {
 }
 
 .site-title {
+  display: none;
   font-size: 2.5em;
   margin-bottom: 10px;
   
@@ -145,7 +113,7 @@ body {
     color: #777;
     text-decoration: none;
     font-size: 1.05em;
-    font-family: 'Source Sans Pro', 'Inter', sans-serif;
+    font-family: 'Playfair Display', 'Charter', serif;
     
     &:hover {
       color: #333;
@@ -211,6 +179,7 @@ main {
   margin-bottom: 10px;
   line-height: 1.3;
   font-weight: 500;
+  text-align: center;
 }
 
 .post-meta {
@@ -419,7 +388,7 @@ main {
   
   .category-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: 1fr 1fr;
     gap: 20px;
     
     .category-card {

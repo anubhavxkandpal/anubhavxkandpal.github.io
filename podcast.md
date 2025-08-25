@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Podcast
+title: Heart of Reason Podcast
 permalink: /podcast/
 ---
 
 <div class="podcast-page">
   <header class="podcast-header">
-    <h1>Heart of Reason Podcast</h1>
     <p class="podcast-description">Philosophical conversations and meditative reflections on consciousness, ethics, beauty, and society.</p>
     
     <div class="podcast-player-main">
