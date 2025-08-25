@@ -1,4 +1,4 @@
-// Contextual Backgrounds System
+// Contextual Backgrounds System (Simplified)
 class ContextualBackgrounds {
   constructor() {
     this.init();
@@ -6,7 +6,6 @@ class ContextualBackgrounds {
 
   init() {
     this.applyContextualBackground();
-    this.setupTransitions();
   }
 
   // Apply background based on page context
@@ -19,25 +18,11 @@ class ContextualBackgrounds {
       const primaryCategory = this.getPrimaryCategory(categories);
       
       if (primaryCategory) {
-        // Add contextual background class
+        // Add contextual background class (much more subtle)
         body.classList.add('contextual-bg', `bg-${primaryCategory}`);
-        
-        // Store the category for potential future use
         body.setAttribute('data-primary-category', primaryCategory);
+        console.log('Applied contextual background:', primaryCategory);
       }
-    } 
-    // Check if we're on a category page
-    else if (this.isCategoryPage()) {
-      const categoryName = this.extractCategoryFromURL();
-      if (categoryName) {
-        body.classList.add('contextual-bg', `bg-${categoryName}`);
-        body.setAttribute('data-primary-category', categoryName);
-      }
-    }
-    // Homepage gets a subtle mixed background
-    else if (this.isHomePage()) {
-      body.classList.add('contextual-bg', 'bg-mixed');
-      this.createMixedBackground();
     }
   }
 

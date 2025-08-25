@@ -1376,7 +1376,7 @@ main {
         align-items: stretch; // Ensure both sides have equal height
         
         .article-image {
-          width: 280px;
+          width: 320px; // Increased from 280px
           flex-shrink: 0;
           overflow: hidden;
           background-color: #f8f8f8; // Subtle fallback color
