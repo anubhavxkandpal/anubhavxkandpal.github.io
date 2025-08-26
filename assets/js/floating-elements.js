@@ -8,7 +8,6 @@ class FloatingElements {
     if (this.isPostPage()) {
       this.initFloatingTOC();
       this.initReadingCompanion();
-      this.initRelatedConceptsNavigator();
     }
   }
 
@@ -118,45 +117,7 @@ class FloatingElements {
     }
   }
 
-  // 2. Related Concepts Navigator
-  initRelatedConceptsNavigator() {
-    const post = document.querySelector('.post');
-    if (!post) return;
-
-    const categories = this.extractCategories();
-    if (categories.length === 0) return;
-
-    // Create concept navigator
-    const navigator = document.createElement('div');
-    navigator.className = 'concepts-navigator hidden';
-    navigator.innerHTML = `
-      <div class="concepts-header">Related Themes</div>
-      <div class="concepts-breadcrumb">
-        ${categories.map(cat => `<span class="concept-item" data-category="${cat.toLowerCase()}">${cat}</span>`).join('<span class="concept-separator">→</span>')}
-      </div>
-    `;
-
-    document.body.appendChild(navigator);
-
-    // Show on scroll
-    window.addEventListener('scroll', () => {
-      if (window.pageYOffset > 200) {
-        navigator.classList.remove('hidden');
-      } else {
-        navigator.classList.add('hidden');
-      }
-    });
-
-    // Add click handlers for navigation
-    navigator.querySelectorAll('.concept-item').forEach(item => {
-      item.addEventListener('click', () => {
-        const category = item.dataset.category;
-        window.location.href = `/categories/${category}/`;
-      });
-    });
-  }
-
-  // 3. Reading Companion
+  // 2. Reading Companion
   initReadingCompanion() {
     const content = document.querySelector('.post-content');
     if (!content) return;
