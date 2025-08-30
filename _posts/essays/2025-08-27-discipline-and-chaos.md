@@ -18,7 +18,7 @@ of being or some specific action or series of actions. However, if one
 solely practices discipline for the sake of discipline, then I believe
 there is some kind of sickness there.
 
-![People meditating in a line.](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0174a7b7-152e-4286-9f2e-42c23f2f8a5c_4096x2731.jpeg)
+![People meditating in a line](https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 *Photo by Thao LEE on Unsplash*
 
 This modern obsession with discipline reflects what philosopher Alan
@@ -82,7 +82,7 @@ of all that truly makes this game of life. The regimented life and the
 way it seems to play out in people who seek it often does not look like
 life—it looks like gardening with barbed wire.
 
-![A forest with a path.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b2e5a5e-8f99-4d6a-9b1b-85d7e2968369_4096x2731.jpeg)
+![A forest with a path](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 *Photo by veeterzy on Unsplash*
 
 Gregory Bateson, in his seminal work “Mind and Nature,” spoke of what he
@@ -189,7 +189,7 @@ passage. A tea bowl with visible repairs might be considered more
 beautiful than a flawless one, because it carries within it a history of
 life lived, broken, and mended.
 
-![A broken and repaired pot.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d74b96e-1d54-4f24-9b2f-9271632551a3_4096x2731.jpeg)
+![A broken and repaired pot](https://images.unsplash.com/photo-1578662996442-48f60103fc96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 *Photo by Moto Miwa on Unsplash*
 
 The only path that seems logical to me is to embrace this kind of
