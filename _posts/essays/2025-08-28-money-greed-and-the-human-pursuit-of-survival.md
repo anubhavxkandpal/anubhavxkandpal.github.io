@@ -8,7 +8,9 @@ excerpt: "This essay explores the complex relationship between money, greed, and
 ---
 
 
-{% include pull-quote.html quote="For the love of money is the root of all kinds of evil. And some people, craving money, have wandered from the true faith and pierced themselves with many sorrows." author="Timothy 6:10" %}
+{% include pull-quote.html quote="For the love of money is the root of all kinds of evil. And some
+people, craving money, have wandered from the true faith and pierced
+themselves with many sorrows." author="Timothy 6:10" %}
 
 ## The Primal Drive: From Survival to Status
 
@@ -43,7 +45,8 @@ What if I need to bribe an invading army? It is in such cases where fear
 for one’s life comes in that a human being starts hoarding, preparing
 for a catastrophic eventuality that only exists in their mind.
 
-{% include pull-quote.html quote="Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver." author="Ayn Rand" %}
+{% include pull-quote.html quote="Money is only a tool. It will take you wherever you wish, but it will
+not replace you as the driver." author="Ayn Rand" %}
 
 Erich Fromm, in his book "*Escape from Freedom,*" argues that greed is
 often a response to existential anxiety and the fear of insignificance.
