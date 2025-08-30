@@ -57,7 +57,7 @@ would actually cause it to fail. Your body doesn't maintain 37°C
 within a small range, adapting and responding to both internal and
 external changes.
 
-{% include pull-quote.html quote=“In all chaos there is a cosmos, in all disorder a secret order.” author="Carl Jung" %}
+{% include pull-quote.html quote="In all chaos there is a cosmos, in all disorder a secret order." author="Carl Jung" %}
 
 
 This natural wisdom is reflected in the ancient Chinese concept of

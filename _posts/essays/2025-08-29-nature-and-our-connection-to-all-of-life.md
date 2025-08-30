@@ -126,8 +126,8 @@ gas. Where has the mystical element of life gone? In our pursuit of
 knowing everything, we've discarded the mystery of life that once
 enriched us with mysticism and magic.
 
-{% include pull-quote.html quote=“One way to open your eyes is to ask yourself, “What if I had never seen
-this before? What if I knew I would never see it again?" author="Rachel Carson" %}
+{% include pull-quote.html quote=“One way to open your eyes is to ask yourself, 
+“What if I had never seen this before? What if I knew I would never see it again?" author="Rachel Carson" %}
 
 In ancient days, people determined which stars were stars and which were
 planets merely by looking at the night sky. They used their eyes to see
