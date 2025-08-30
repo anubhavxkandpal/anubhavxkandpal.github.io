@@ -18,7 +18,7 @@ of being or some specific action or series of actions. However, if one
 solely practices discipline for the sake of discipline, then I believe
 there is some kind of sickness there.
 
-![People meditating in a line](https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![Group of martial artists sitting on the grounds](https://images.unsplash.com/photo-1529566193698-bc394165d541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxkaXNjaXBsaW5lfGVufDB8fHx8MTczOTYwOTE5M3ww&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by Thao LEE on Unsplash*
 
 This modern obsession with discipline reflects what philosopher Alan
@@ -82,8 +82,8 @@ of all that truly makes this game of life. The regimented life and the
 way it seems to play out in people who seek it often does not look like
 life—it looks like gardening with barbed wire.
 
-![A forest with a path](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
-*Photo by veeterzy on Unsplash*
+![Red and gray moons](https://images.unsplash.com/photo-1548097341-7cc6296be47b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHxtb29uJTIwcGhhc2VzfGVufDB8fHx8MTczOTYwOTMxNHww&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Alexander Andrews on Unsplash*
 
 Gregory Bateson, in his seminal work “Mind and Nature,” spoke of what he
 called “*the pattern that connects*”, which is the living, breathing web
@@ -189,8 +189,8 @@ passage. A tea bowl with visible repairs might be considered more
 beautiful than a flawless one, because it carries within it a history of
 life lived, broken, and mended.
 
-![A broken and repaired pot](https://images.unsplash.com/photo-1578662996442-48f60103fc96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
-*Photo by Moto Miwa on Unsplash*
+![Round brown and white ceramic plate](https://images.unsplash.com/photo-1622021134395-d26aab83c221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxraW50c3VnaXxlbnwwfHx8fDE3Mzk1MDk5NzR8MA&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by Riho Kitagawa on Unsplash*
 
 The only path that seems logical to me is to embrace this kind of
 imperfection. It is to allow ourselves to connect to an order that is
