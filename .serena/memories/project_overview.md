@@ -28,3 +28,11 @@ A philosophical writing website built with Jekyll and GitHub Pages. The site foc
 - Ruby version: 3.2.0 (based on Gemfile.lock analysis)
 - Markdown processor: kramdown
 - Permalink structure: /:year/:month/:day/:title/
+
+## Memory Management Guidelines
+**IMPORTANT**: To prevent memory file clutter and maintain organization:
+- **Update existing memories** whenever possible rather than creating new ones
+- Only create new memory files when the information doesn't fit logically into any existing memory
+- When adding new features/fixes, update relevant existing memories (e.g., design_enhancements_completed, urgent_fixes_completed_aug_2025, etc.)
+- Consider consolidating related information into single comprehensive memory files
+- Keep memory file names descriptive and organized by topic/purpose

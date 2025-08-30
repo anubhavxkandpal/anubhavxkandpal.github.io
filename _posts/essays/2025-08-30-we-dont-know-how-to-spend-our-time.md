@@ -161,9 +161,7 @@ for entertainment, creating feedback loops that privilege emotional
 reaction over reasoned response. Today, we swim in oceans of information
 while our capacity for meaningful action drowns.
 
-{% include pull-quote.html quote="We must learn to reawaken and keep ourselves awake, not by mechanical
-aids, but by an infinite expectation of the dawn, which does not forsake
-us even in our soundest sleep." author="Henry David Thoreau" %}
+{% include pull-quote.html quote="We must learn to reawaken and keep ourselves awake, not by mechanical aids, but by an infinite expectation of the dawn, which does not forsake us even in our soundest sleep." author="Henry David Thoreau" %}
 
 ## Reclaiming Our Time: Making Reality Primary 
 
@@ -214,8 +212,7 @@ really watching anything but constantly scrolling, as if enjoying the
 movement. My own experience of slavery to my screen has taught me that
 we primarily use this entertainment and distraction as an escape.
 
-{% include pull-quote.html quote="The present is the only time that any of us have to be alive, to know
-anything, to perceive, to learn, to act, to change, to heal." author="Jon Kabat-Zinn" %}
+{% include pull-quote.html quote="The present is the only time that any of us have to be alive, to know anything, to perceive, to learn, to act, to change, to heal." author="Jon Kabat-Zinn" %}
 
 
 One must concede that screens are a new phenomenon for the human
