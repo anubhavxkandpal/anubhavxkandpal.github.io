@@ -41,9 +41,7 @@ superiority.
 
 In this way, the world can become a mirror reflecting these disowned
 parts of who we are. As Jung himself suggested, 
-{% include pull-quote.html quote="Everything that
-irritates us about others can lead us to an understanding of
-ourselves." %}
+{% include pull-quote.html quote="Everything that irritates us about others can lead us to an understanding of ourselves." author="Carl Jung" %}
 
 ![The world as our mirror](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28c47825-24d6-4f07-87b6-4fcdeef2353c_1920x946.jpeg)
 
@@ -177,9 +175,7 @@ intimately connected to each other through the human organism. No matter
 how much the lies of individualism may push us away from each other, our
 subconscious will always find a way to remind us of these facts.
 
-{% include pull-quote.html quote="Your visions will become clear only when you
-can look into your own heart. Who looks outside, dreams; who looks
-inside, awakes." author="Carl Jung" %}
+{% include pull-quote.html quote="Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes." author="Carl Jung" %}
 
 So, all we need to do is to pay attention to our projections, to pay
 heed to the way we see the world. To try and decipher what colour we are

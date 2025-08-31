@@ -68,9 +68,9 @@ with ideas in a steady, logical way. The written word, unlike the
 fast-flickering images of modern media, makes you actively participate.
 It requires thinking in a line, step-by-step, and holding several ideas
 in your mind as you follow a long argument. As Postman pointed out,
-{% include pull-quote.html quote="Typography \[using print\] is by its nature a technique for slowing
+"Typography \[using print\] is by its nature a technique for slowing
 down communication, as anyone who has watched a reader's eyes move
-across a page can attest." %}
+across a page can attest."
 
 The simple act of figuring out sentences, following connections, and
 building meaning from marks on a page encourages a different way of

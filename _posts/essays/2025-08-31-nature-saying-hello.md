@@ -133,7 +133,7 @@ need the concept of respect at all. They are so intimately bound to the
 plants and trees they live among that they are acutely aware of their
 own interdependence.
 
-{% include pull-quote.html quote=“Respect was invented to cover the empty place where love should be." author="Leo Tolstoy" %}
+{% include pull-quote.html quote='Respect was invented to cover the empty place where love should be.' author='Leo Tolstoy' %}
 
 Why does humankind not have this reverence? Why are we not in love with
 nature? Why are we blinded? Is it media, commercialism and advertising
@@ -176,4 +176,4 @@ wave from the plant kingdom to me. A greeting in unison, orchestrated by
 the wind towards me and anyone that can see. They’re saying hello to me
 and I cannot help but feel grief—for all that my species has done.
 
-I cannot help but feel sad, for I have no way of saying “I’m sorry.”
+I cannot help but feel sad, for I have no way of saying "I’m sorry."

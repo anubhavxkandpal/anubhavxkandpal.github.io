@@ -8,8 +8,7 @@ excerpt: "This essay delves into the nature of expectation, exploring how our pr
 ---
 
 
-{% include pull-quote.html quote="Between what is said and not meant, and what is meant and not said,
-most of love is lost." author="Kahlil Gibran" %}
+{% include pull-quote.html quote="Between what is said and not meant, and what is meant and not said, most of love is lost." author="Kahlil Gibran" %}
 
 Why do we want things from one another? We struggle for power and we
 struggle in love. And so the truth is we struggle. It is in the nature
@@ -111,8 +110,7 @@ there’s a small difference. The farmer knows if the land is not treated
 properly, if it isn’t respected then we have a poor harvest or worse,
 crop failure.
 
-{% include pull-quote.html quote="We have forgotten how to be good guests, how to walk lightly on the
-earth as its other creatures do." author="Barbara Ward" %}
+{% include pull-quote.html quote="We have forgotten how to be good guests, how to walk lightly on the earth as its other creatures do." author="Barbara Ward" %}
 
 ![Farmer with traditional baskets](https://images.unsplash.com/photo-1545830790-68595959c491?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNXx8ZmFybWVyfGVufDB8fHx8MTc0MjcwMjYyOHww&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by [Who's Denilo ?](https://unsplash.com/@whosdenilo) on [Unsplash](https://unsplash.com/)*
@@ -187,8 +185,7 @@ question would not be of expectation and trying to get something out of
 them, it would be about respect. An honest observation of a person.
 Consequently, it would lead us to an honest observation about ourselves.
 
-{% include pull-quote.html quote="The real voyage of discovery consists not in seeking new landscapes,
-but in having new eyes." author="Marcel Proust" %}
+{% include pull-quote.html quote="The real voyage of discovery consists not in seeking new landscapes, but in having new eyes." author="Marcel Proust" %}
 
 We could look at the soil of each other’s lives and find ways to share
 with each other, our gifts and our struggles. The nature of reality is

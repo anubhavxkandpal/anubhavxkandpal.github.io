@@ -33,8 +33,7 @@ hasn't stretched beyond its first boundaries, the person sees only
 themselves, and even the world they see, so rich and multifaceted, is
 secondary, a mere backdrop to their own starring role.
 
-{% include pull-quote.html quote="In the universe, there are things that are known, and things that are
-unknown, and in between, there are doors." author="William Blake" %}
+{% include pull-quote.html quote="In the universe, there are things that are known, and things that are unknown, and in between, there are doors." author="William Blake" %}
 
 It's a strange human tendency, isn't it? This constant circling around
 ourselves, as if each of us is a sun with our own planets of thoughts
@@ -76,10 +75,7 @@ which may be completely different from our own. This is the foundation
 of social interaction, the base upon which empathy and complex
 relationships are built.
 
-{% include pull-quote.html quote="Perhaps all the dragons in our lives are princesses who are only
-waiting to see us act, just once, with beauty and courage. Perhaps
-everything that frightens us is, in its deepest essence, something
-helpless that wants our love." author="Rainer Maria Rilke" %}
+{% include pull-quote.html quote="Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage. Perhaps everything that frightens us is, in its deepest essence, something helpless that wants our love." author="Rainer Maria Rilke" %}
 
 Yet, echoes of this egocentrism can remain, sometimes quite loudly, into
 teenage years and even adulthood, making me wonder if what I see in

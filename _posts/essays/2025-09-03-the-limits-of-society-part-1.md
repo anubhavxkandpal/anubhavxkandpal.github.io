@@ -8,11 +8,7 @@ excerpt: "This essay explores the inherent limitations of societal structures, q
 ---
 
 
-{% include pull-quote.html quote="Progress is not an illusion; it happens, but it is slow and invariably
-disappointing. Things always develop more slowly than one has expected.
-But equally, when one has successfully avoided disaster for a
-considerable time, the danger that one is in shows the tendency to be
-forgotten." author="George Orwell" %}
+{% include pull-quote.html quote="Progress is not an illusion; it happens, but it is slow and invariably disappointing. Things always develop more slowly than one has expected. But equally, when one has successfully avoided disaster for a considerable time, the danger that one is in shows the tendency to be forgotten." author="George Orwell" %}
 
 The isolated individual has reached their peak—they cannot be more
 alone. Our rationalistic society has reached its limit—our technology
@@ -59,12 +55,12 @@ us from our experience. This might be wrong. Antoine de Saint-Exupéry,
 an aviator, explains that airplanes take us away from the Earth but they
 allow us to see it more clearly.
 
-{% include pull-quote.html quote=“And thus, also, the realities of nature resume their pride of place.
+{% include pull-quote.html quote="And thus, also, the realities of nature resume their pride of place.
 It is not with metal that the pilot is in contact. Contrary to the
 vulgar illusion, it is thanks to the metal, and by virtue of it, that
 the pilot rediscovers nature. As I have already said, the machine does
 not isolate man from the great problems of nature but plunges him more
-deeply into them.” author="Antoine de Saint-Exupéry, "Wind, Sand and Stars" %}
+deeply into them." author="Antoine de Saint-Exupéry, "Wind, Sand and Stars" %}
 
 But the rational approach to life has twisted our experiences. Naturally
 humans saw the logic of the machine as simple, familiar and even akin to
@@ -81,9 +77,7 @@ For it is impossible for us to imagine a harmonious existence between
 mankind and machine. This is because we secretly believe, if we were the
 machine we would readily rule over humans—clearly a lesser species.
 
-{% include pull-quote.html quote="To the degree that \[humans\] master their tools, they can invest the
-world with their meaning; to the degree that they are mastered by their
-tools, the shape of the tool determines their own self-image." author="Ivan Illich" %}
+{% include pull-quote.html quote="To the degree that [humans] master their tools, they can invest the world with their meaning; to the degree that they are mastered by their tools, the shape of the tool determines their own self-image." author="Ivan Illich" %}
 
 The amount of information we have been able to process and understand
 has not been able to improve our inner lives. We have not eradicated the
@@ -110,8 +104,7 @@ seems we missed the point all together. The interpretation of
 information is far more important than the amount of information
 available.
 
-{% include pull-quote.html quote="We are drowning in information, while starving for wisdom." author="E.O.
-Wilson" %}
+{% include pull-quote.html quote="We are drowning in information, while starving for wisdom." author="E.O. Wilson" %}
 
 We also cannot easily teach or tell people how to interpret what they
 read for that easily leads to brainwashing and conditioning—something
@@ -188,9 +181,7 @@ uses natural resources, a company that provides only services also uses
 natural resources—for let us not be so quick to forget that humans are
 parts of nature and thus are aptly called human resources.
 
-{% include pull-quote.html quote="The ecological crisis is a social crisis. The very notion of the
-domination of nature by man stems from the very real domination of human
-by human." author="Murray Bookchin" %}
+{% include pull-quote.html quote="The ecological crisis is a social crisis. The very notion of the domination of nature by man stems from the very real domination of human by human." author="Murray Bookchin" %}
 
 ![Extraction and exploitation of resources](https://images.unsplash.com/photo-1619793527010-1fdbd2764e6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxleHBsb2l0YXRpb258ZW58MHx8fHwxNzQzOTA5OTk3fDA&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by [fikry anshor](https://unsplash.com/@fikriansyah) on [Unsplash](https://unsplash.com/)*
