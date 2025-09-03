@@ -55,12 +55,12 @@ us from our experience. This might be wrong. Antoine de Saint-Exupéry,
 an aviator, explains that airplanes take us away from the Earth but they
 allow us to see it more clearly.
 
-{% include pull-quote.html quote="And thus, also, the realities of nature resume their pride of place.
+{% include pull-quote.html quote='And thus, also, the realities of nature resume their pride of place.
 It is not with metal that the pilot is in contact. Contrary to the
 vulgar illusion, it is thanks to the metal, and by virtue of it, that
 the pilot rediscovers nature. As I have already said, the machine does
 not isolate man from the great problems of nature but plunges him more
-deeply into them." author="Antoine de Saint-Exupéry, "Wind, Sand and Stars" %}
+deeply into them.' author='Antoine de Saint-Exupéry, Wind, Sand and Stars' %}
 
 But the rational approach to life has twisted our experiences. Naturally
 humans saw the logic of the machine as simple, familiar and even akin to
